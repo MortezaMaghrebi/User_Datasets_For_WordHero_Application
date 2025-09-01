@@ -1,0 +1,29 @@
+split#شکافتن، تقسیم کردن#the wood split easily.#divide, separate#b1#/splɪt/#چوب به راحتی شکافت.
+duplicate#تکثیر کردن#please duplicate this document.#copy#b2#/ˈduːplɪkeɪt/#لطفاً این سند را تکثیر کنید.
+stack#انباشته، پشته#a stack of books sat on the desk.#pile#b1#stæk#یک انباشته از کتاب ها روی میز قرار داشت.
+overflow#سرریز شدن#the river overflowed its banks.#spill over, flood#c1#/ˌoʊvərˈfloʊ/#رودخانه از ساحل‌هایش سرریز شد.
+method#روش، شیوه#what is your method for solving this?#technique#a2#ˈmeθəd#روش تو برای حل این چیست؟
+array#آرایه، مجموعه#an array of options is available.#range, assortment#c1#/əˈreɪ/#مجموعه‌ای از گزینه‌ها در دسترس است.
+separate#جدا کردن، جدا شدن#separate the eggs.#divide, split#a2#/ˈseprət/#تخم مرغ ها را جدا کن.
+determine#تعیین کردن، مشخص کردن#we need to determine the cause.#decide, ascertain#b1#/dɪˈtɜːmɪn/#باید علت را مشخص کنیم.
+several#چندین، چند تا#several people attended the meeting.#a few, some#a2#/ˈsevrəl/#چندین نفر در جلسه شرکت کردند.
+multiple#چندگانه#he suffered multiple injuries.#numerous, many#a2#/ˈmʌltɪpl/#او چندین آسیب دید.
+base#پایه، پست#the statue has a marble base.#foundation, vile#b1#/beɪs/#مجسمه یک پایه مرمر دارد.
+character#شخصيت، کاراکتر#his character is very honest.#personality, nature#a2#/ˈker.ək.tɚ/#شخصیت او بسیار صادق است.
+regular#منظم#he is a regular customer.#usual, normal#a2#/ˈreɡjələr/#او یک مشتری منظم است.
+expression#عبارت، بیان#his facial expression showed surprise.#phrase, look#a2#/ɪkˈspreʃn/#بیان چهره‌اش تعجب نشان می‌داد.
+tutorial#آموزش#the online tutorial was very helpful.#lesson#b1#/tjuːˈtɔːriəl/#آموزش آنلاین بسیار مفید بود.
+usage#کاربرد#the usage of this term is uncommon.#use#b1#/ˈjuː.sɪdʒ/#استفاده از این اصطلاح غیرمعمول است.
+divide#تقسیم کردن، تقسیم شدن#divide the cake into equal pieces.#split, separate#a2#/dɪˈvaɪd/#کیک را به تکه های مساوی تقسیم کن.
+original#اصلی#this is the original painting.#first, authentic#b1#/əˈrɪdʒənl/#این نقاشی اصلی است.
+doc#دکتر (مخفف)#she went to see the doc for a check-up.#doctor#b1#/dɑːk/#او برای معاینه پیش دکتر رفت.
+versatile#چندمنظوره، همه‌فن‌حریف#this tool is very versatile for different tasks.#able to adapt to many functions#b2#/ˈvɜː.sə.taɪl/#این ابزار برای کارهای مختلف بسیار چندمنظوره است.
+function#عملکرد#the function of the heart is to pump blood.#purpose#a2#/ˈfʌŋkʃn/#عملکرد قلب پمپاژ خون است.
+sentry#نگهبان#the sentry stood guard at the gate.#guard#c1#/ˈsentri/#نگهبان در دروازه ایستاده بود.
+prototype#نمونه اولیه#the engineer built a prototype of the new device.#model#c1#/ˈprəʊtətaɪp/#مهندس یک نمونه اولیه از دستگاه جدید ساخت.
+instance#مثال، مورد#for instance, consider this example.#example, case#b1#/ˈɪnstəns/#به عنوان مثال، این مثال را در نظر بگیر.
+provide#فراهم کردن، تأمین کردن#the school provides books.#supply, furnish#b1#/prəˈvaɪd/#مدرسه کتاب ها را فراهم می کند.
+search#جستجو کردن#search for the answer online.#look for, seek#a2#/sɜːrtʃ/#جواب را آنلاین جستجو کن.
+index#فهرست، شاخص#check the index for page numbers.#list, directory#a2#/ˈɪndeks/#برای شماره صفحات فهرست را چک کنید.
+province#استان#tehran is a province.#region#b1#/ˈprɑːvɪns/#تهران یک استان است.
+location#مکان#the film was shot on location in paris.#place#a2#/ləʊˈkeɪʃn/#فیلم در پاریس فیلمبرداری شد.
