@@ -11,3 +11,4 @@ test/test--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_W
 test/ntetest--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/ntetest.txt--
 Test/New Test--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/New%20Test.txt--
 Test/NetTest--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/NetTest.txt--
+test/test2--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/test2.txt--
