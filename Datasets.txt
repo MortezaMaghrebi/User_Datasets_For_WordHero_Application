@@ -1,0 +1,6 @@
+Interchange/Interchange 1 to 3--https://raw.githubusercontent.com/MortezaMaghrebi/Interchange_Vocabulary_Dataset/main/Interchange1to3Words.txt--https://raw.githubusercontent.com/MortezaMaghrebi/Interchange_Vocabulary_Dataset/main/Interchange1to3Images.txt
+Collocations/1000 English Collocations--https://raw.githubusercontent.com/MortezaMaghrebi/Datesets-For-Word-Hero-Application/refs/heads/main/1000EnglishCollocations/1000EnglishCollocations.txt--https://raw.githubusercontent.com/MortezaMaghrebi/Datesets-For-Word-Hero-Application/refs/heads/main/1000EnglishCollocations/1000EnglishCollocationsImages.txt
+American English Files/American English Files Starter--https://raw.githubusercontent.com/MortezaMaghrebi/Datesets-For-Word-Hero-Application/refs/heads/main/American_English_Files/AmericanEnglishFilesStarter.txt--
+American English Files/American English Files 1--https://raw.githubusercontent.com/MortezaMaghrebi/Datesets-For-Word-Hero-Application/refs/heads/main/American_English_Files/AmericanEnglishFiles1.txt--
+American English Files/American English Files 5--https://raw.githubusercontent.com/MortezaMaghrebi/Datesets-For-Word-Hero-Application/refs/heads/main/American_English_Files/AmericanEnglishFiles5.txt--
+Users/mytest--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/User%20Files/mytest.txt--
