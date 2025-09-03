@@ -14,3 +14,4 @@ Test/NetTest--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_Fo
 test/test2--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/test2.txt--
 Gutenberg/romabjh--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/romabjh.txt--
 her/gdf--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/gdf.txt--
+ggggg/fwe--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/fwe.txt--
