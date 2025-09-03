@@ -1,0 +1,123 @@
+american#آمریکایی#She is American.#(from the USA)#A1#/əˈmerɪkən/#او آمریکایی است.
+original#اصلی#This is the original painting.#first, authentic#B1#/əˈrɪdʒənl/#این نقاشی اصلی است.
+author#نویسنده، پدیدآورنده#Who is the author of this book?#writer, creator#A2#/ˈɔːθə/#نویسنده این کتاب کیست؟
+fife#نی لبک#The soldier played a fife during the parade.#a small flute#C2#/faɪf/#سرباز در طول رژه نی لبک می‌زد.
+edition#ویرایش#This is the new edition of the book.#Version#B1#/ɪˈdɪʃn/#این چاپ جدید کتاب است.
+press#فشار دادن، مطبوعات#Press the button to start the machine. The press covered the event widely.#push, media#B1# /pres/#دکمه را فشار دهید تا دستگاه شروع به کار کند. مطبوعات به طور گسترده این رویداد را پوشش دادند.
+grammar#دستور زبان#It's important to study English grammar.#syntax, structure#A1#/ˈɡræmər/#مطالعه دستور زبان انگلیسی مهم است.
+vocabulary#واژگان#Learning new vocabulary is essential.#a set of familiar words#A2#/vəˈkæbjələri/#یادگیری واژگان جدید ضروری است.
+pronunciation#تلفظ#Her pronunciation of French is excellent.#enunciation#A2#/prəˌnʌn.siˈeɪ.ʃən/#تلفظ فرانسوی او عالی است.
+verb#فعل#In the sentence 'She ran to the store,' the word 'ran' is a verb.#action word#A2#vɜːrb#در جمله 'She ran to the store'، کلمه 'ran' یک فعل است.
+pronoun#ضمیر#She, he, and it are pronouns.#substitute for a noun#B1#/ˈprəʊnaʊn/#او، او، و آن ضمیر هستند.
+beg#التماس کردن، گدایی کردن#He begged for forgiveness.#plead, implore#B1#/beɡ/#او برای بخشش التماس کرد.
+consonant#همخوان، حرف بی صدا#The word "cat" begins and ends with a consonant.#a speech sound that is not a vowel#B2#ˈkɑːnsənənt#کلمه "cat" با یک صامت شروع و پایان می‌یابد.
+possessive#مالکانه#He is very possessive of his sister.#jealous, controlling#B2#pəˈzesɪv#او نسبت به خواهرش بسیار مالکانه است.
+foul#خطا، کثیف#The referee called a foul#violation, unfair play#B1#faʊl#داور یک خطا اعلام کرد
+alphabet#الفبا#Learn the alphabet.#none#A1#/ˈæl.fə.bet/#الفبا را یاد بگیر
+practical#عملی#He has a lot of practical experience.#functional, useful#B1#/ˈpræktɪkl/#او تجربه عملی زیادی دارد.
+episode#قسمت#The new episode airs tomorrow.#Chapter#B1#/ˈep.ɪ.soʊd/#قسمت جدید فردا پخش می‌شود.
+neat#تمیز، مرتب#He keeps his room neat and tidy.#orderly#A2#/niːt/#او اتاقش را تمیز و مرتب نگه می دارد.
+messy#نامرتب#His desk is always messy.#Untidy#A2#/ˈmes.i/#میز او همیشه به هم ریخته است.
+singular#مفرد، منحصر بفرد#The singular form of 'children' is 'child'.#unique, extraordinary#C1#/ˈsɪŋɡjələr/#شکل مفرد «کودکان» «کودک» است.
+plural#جمع#The plural of 'child' is 'children'.#multiple#A1#/ˈplʊrəl/#جمع «کودک» «کودکان» است.
+adjective#صفت#In the phrase 'blue sky', 'blue' is an adjective.#descriptive word#A2#/ˈædʒɪktɪv/#در عبارت "blue sky"، کلمه "blue" یک صفت است.
+modifier#توصیف‌کننده#Adjectives often act as modifiers#qualifier, descriptor#C1#ˈmɒd.ɪ.faɪər#صفت‌ها اغلب به عنوان توصیف‌کننده عمل می‌کنند
+vowel#مصوت#The English language has five main vowel letters.#-/#A2#/ˈvaʊəl/#زبان انگلیسی پنج حرف مصوت اصلی دارد.
+imperative#ضروری#It is imperative that we leave immediately.#crucial, vital#C1#/ɪmˈperətɪv/#ضروری است که ما فوراً ترک کنیم.
+link#پیوند#There is a link between them.#connection, bond#B1#/lɪŋk/#بین آن‌ها ارتباطی وجود دارد.
+simple#ساده#The instructions are simple.#easy, uncomplicated#A1#/ˈsɪmpl/#دستورالعمل ها ساده هستند.
+telling#تأثیرگذار و مهم#It was a telling sign that she was unhappy.#significant#C1#ˈtɛlɪŋ#این یک نشانه مهم بود که او ناراحت است.
+whose#مال谁، که#This is the man whose car was stolen.#- #A2#/huːz/#این مردی است که ماشینش دزدیده شد.
+preposition#حرف اضافه#In the sentence 'I am in the house', 'in' is a preposition.#connecting word, relational word#C1#/ˌprepəˈzɪʃən/#در جمله 'I am in the house'، کلمه 'in' یک حرف اضافه است.
+daily#روزانه#This is a daily newspaper.#everyday, quotidian#A2#/ˈdeɪli/#این روزنامه روزانه است.
+zone#منطقه#This is a no-parking zone.#an area with a particular purpose or rule#A2#/zəʊn/#این یک منطقه ممنوعه برای پارک است.
+position#موقعیت، جایگاه#What is your position on this issue?#location, stance#B1#/pəˈzɪʃn/#نظر شما در این مورد چیست؟
+adverb#قید#In 'she ran quickly', 'quickly' is an adverb.#N/A#A2#/ˈædvɜːrb/#در جمله "she ran quickly"، کلمه "quickly" یک قید است.
+frequency#فرکانس، تواتر#The frequency of earthquakes has increased.#rate#B2#ˈfriːkwənsi#تواتر زمین لرزه ها افزایش یافته است.
+review#بررسی#Write a review of the movie.#Evaluation#B1#/rɪˈvjuː/#یک نقد درباره فیلم بنویس.
+vote#رای دادن#Citizens have the right to vote.#ballot, elect#B1#/voʊt/#شهروندان حق رای دادن دارند.
+continuous#ممتد، پیوسته#The continuous rain for two days caused flooding.#forming an unbroken whole; without interruption#B2#kənˈtɪnjuəs#باران ممتد به مدت دو روز باعث سیل شد.
+noise#سر و صدا#The noise was unbearable.#sound, din#A2#/nɔɪz/#سروصدا غیرقابل تحمل بود.
+fry#سرخ کردن#Fry the eggs in a pan.#Cook#A2#/fraɪ/#تخم‌مرغ را در تابه سرخ کن.
+season#فصل#Spring is my favorite season.#period, time of year#A1#/ˈsiːzn/#بهار فصل مورد علاقه من است.
+african#آفریقایی#African elephants are the largest land animals.#—#A1#/ˈæfrɪkən/#فیل های آفریقایی بزرگترین حیوانات خشکی هستند.
+ordinal#ترتیبی#"First" is an ordinal number.#a number indicating position#B1#/ˈɔːdɪnəl/#"اول" یک عدد ترتیبی است.
+making#ساخت، ساختن#The making of the film took over a year.#ساختن#A2#ˈmeɪkɪŋ#ساختن فیلم بیش از یک سال طول کشید.
+formation#تشکیل؛ شکل گیری#The formation of ice on the wings is dangerous.#creation#B2#/fɔːrˈmeɪʃn/#تشکیل یخ روی بال ها خطرناک است.
+regular#منظم#He is a regular customer.#usual, normal#A2#/ˈreɡjələr/#او یک مشتری منظم است.
+irregular#نامنظم#His attendance at work has been irregular lately.#erratic#B2#/ɪˈreɡjələr/#حضور او در محل کار اخیراً نامنظم بوده است.
+direction#جهت، راهنمایی#Which direction should I go?#course, guidance#A2#/dəˈrekʃn/#به کدام سمت باید بروم؟
+murder#قتل#The murder shocked the community.#killing, homicide#B2#/ˈmɜːrdər/#قتل جامعه را شوکه کرد.
+mystery#راز، معمّا#It remains a mystery.#puzzle, enigma#B1#/ˈmɪstri/#این همچنان یک معما باقی مانده است.
+fir#نراد (درخت)#The fir tree is evergreen.#pine#C1#/fɜːr/#درخت نراد همیشه سبز است.
+noun#اسم#'Book' is a common noun.#-/#A1#/naʊn/#"کتاب" یک اسم رایج است.
+haunt#تسخیر کردن#The memory still haunts him.#torment, obsess#B2#/hɔːnt/#خاطره هنوز او را تسخیر کرده است.
+silent#ساکت#The library was silent.#quiet, noiseless#A2#/ˈsaɪlənt/#کتابخانه ساکت بود.
+movement#حرکت#There was movement in the bushes.#motion, activity#A2#/ˈmuːvmənt/#در بوته‌ها حرکتی دیده شد.
+countable#قابل شمارش#In English, 'apple' is a countable noun.#قابل شمارش#A2#ˈkaʊn.t̬ə.bəl#در انگلیسی، 'apple' یک اسم قابل شمارش است.
+uncountable#غیرقابل شمارش#The stars in the sky are uncountable.#innumerable, countless#B1#ʌnˈkaʊn.tə.bəl#ستارگان در آسمان غیرقابل شمارش هستند.
+gold#طلا#Her ring is made of gold.#(metal)#A2#/ɡoʊld/#حلقه او از طلا ساخته شده است.
+quantifier#کمیت‌سنج#Words like "some" and "many" are quantifiers#measure word#C1#ˈkwɒn.tɪ.faɪ.ər#کلماتی مثل "بعضی" و "بسیاری" کمیت‌سنج هستند
+container#ظرف#Store leftovers in a container.#Box#A2#/kənˈteɪnər/#مانده غذا را در ظرف نگه دار.
+figure#شکل، رقم#He saw a figure in the dark.#shape, number#B1#/ˈfɪɡjər/#او یک شکل در تاریکی دید.
+comparative#تطبیقی#Let's make a comparative study.#relative, compared#C1#/kəmˈpærətɪv/#بیا یک مطالعه تطبیقی انجام دهیم.
+understanding#فهم، درک#He has a deep understanding of the subject.#comprehension, knowledge#B1#ˌʌn.dəˈstænd.ɪŋ#او درک عمیقی از موضوع دارد.
+superlative#عالی؛ صفت عالی#She spoke with superlative skill.#excellent#C1#/suːˈpɜːlətɪv/#او با مهارتی عالی صحبت کرد.
+go#رفتن، حرکت کردن#I need to go to the store to buy some milk.#move, leave#A1#/ɡoʊ/#من باید به فروشگاه بروم تا کمی شیر بخرم.
+expression#عبارت، بیان#His facial expression showed surprise.#phrase, look#A2#/ɪkˈspreʃn/#بیان چهره‌اش تعجب نشان می‌داد.
+fortune#ثروت، بخت#He made a fortune in business.#wealth, luck#B1#/ˈfɔːtʃuːn/#او در تجارت ثروتی به دست آورد.
+teller#صراف، گوینده#The bank teller helped me with my transaction.#a person who handles money in a bank#B1#/ˈtel.ər/#صراف بانک در انجام تراکنش به من کمک کرد.
+manner#رفتار#Mind your manners at dinner.#Behavior#B1#/ˈmænər/#سر میز شام ادب را رعایت کن.
+connect#اتصال دادن، وصل کردن#Connect the wires properly.#join, link#A2#/kəˈnekt/#سیم‌ها را به درستی وصل کن.
+speech#سخنرانی#She gave a great speech.#address, talk#A2#/spiːtʃ/#او یک سخنرانی عالی کرد.
+infinitive#مصدر#The infinitive of 'to run' is 'run'.#شکل ساده فعل#C1#ɪnˈfɪnətɪv#مصدر 'to run'، 'run' است.
+weak#ضعیف#The patient is still very weak.#feeble, frail#A2#/wiːk/#بیمار هنوز خیلی ضعیف است.
+smart#باهوش#She is a smart student who excels in class.#Intelligent#A2#/smɑːt/#او دانش‌آموز باهوشی است که در کلاس موفق می‌شود.
+definite#قطعی#Do you have a definite plan?#specific#A2#/ˈdefɪnət/#آیا یک برنامه قطعی داری؟
+transportation#حمل و نقل#Public transportation is a good way to get around the city.#جابه‌جایی#B1#trænspɔːrˈteɪʃən#حمل و نقل عمومی راه خوبی برای رفت و آمد در شهر است.
+participle#اسم مفعول#The word 'broken' is a past participle.#verb form#C1#ˈpɑːrtəsɪpəl#کلمه 'broken' یک اسم مفعول گذشته است.
+everywhere#همه جا#I looked everywhere for my keys.#all over, in every place#A2#/ˈevriweə/#من همه جا دنبال کلیدهایم گشتم.
+overview#مرور کلی#The report provides an overview of the situation.#a general summary#B2#/ˈəʊvəvjuː/#گزارش یک مرور کلی از وضعیت ارائه می‌دهد.
+workbook#کتاب کار#The students use a workbook for their exercises.#practice book#B1#ˈwɜrkˌbʊk#دانش‌آموزان برای تمرینات خود از یک کتاب کار استفاده می‌کنند.
+wan#رنگ پریده#She looked wan and tired.#pale#C2#/wɑːn/#او رنگ پریده و خسته به نظر می رسید.
+self#خود، ذات#She revealed her true self.#ego, identity#B2#/self/#او خود واقعی‌اش را آشکار کرد.
+progress#پیشرفت#We are making good progress on the project.#advancement#B1#/ˈprəʊɡres/#ما در حال پیشرفت خوبی در پروژه هستیم.
+access#دسترسی#The security code grants access to the building.#entry#A2#ˈæk.ses#کد امنیتی دسترسی به ساختمان را می‌دهد.
+log#کنده درخت، گزارش#He chopped the log into pieces.#-#B1#lɔːɡ#او کنده را به قطعات خرد کرد.
+audio#صوتی#The audio quality of the recording was excellent.#sound#B1#ˈɔːdiəʊ#کیفیت صوتی ضبط عالی بود.
+interactive#تعاملی#The game is highly interactive.#Participatory#B1#/ˌɪntərˈæktɪv/#بازی بسیار تعاملی است.
+instant#لحظه، فوری#It happened in an instant.#moment, immediate#B1#/ˈɪnstənt/#این در یک لحظه اتفاق افتاد.
+sally#یورش، حمله ناگهانی#The garrison made a quick sally to attack the enemy.#sortie, raid#C2#ˈsæl.i#پادگان برای حمله به دشمن یک یورش سریع انجام داد.
+blank#خالی#Please write on a blank page.#empty, void#A2#/blæŋk/#لطفا روی یک صفحه خالی بنویس.
+salsa#سالسا#We danced salsa at the party.#Dance, Sauce#A2#/ˈsɑːlsə/#ما در مهمانی سالسا رقصیدیم.
+community#جامعه#The local community is very supportive.#society, group#A2#/kəˈmjuːnəti/#جامعه محلی بسیار حمایت‌گر است.
+lam#فرار#The thief made a quick lam after the robbery.#to escape or flee#C2#/læm/#دزد پس از سرقت به سرعت فرار کرد.
+contraction#انقباض؛ جمع شدگی#Muscle contraction is necessary for movement.#tightening, shrinking#C1#/kənˈtræk.ʃən/#انقباض عضلانی برای حرکت لازم است.
+technology#علم و دانش مربوط به ابزار و دستگاه‌های کاربردی#Technology has changed our lives.#innovation#A2#tɛkˈnɑːlədʒi#تکنولوژی زندگی ما را تغییر داده است.
+column#ستون#The building has marble columns.#pillar#A2#/ˈkɑːləm/#ساختمان ستون های مرمر دارد.
+pronounce#تلفظ کردن#How do you pronounce this word?#say, articulate#A2#/prəˈnaʊns/#این کلمه را چگونه تلفظ می‌کنی؟
+pronounced#واضح، مشخص#There was a pronounced change in his behavior.#noticeable#B2#/prəˈnaʊnst/#یک تغییر واضح در رفتار او وجود داشت.
+syllable#هجا#The word 'water' has two syllables.#word part, segment#B2#/ˈsɪləbl/#کلمه «آب» دو هجا دارد.
+gate#دروازه#Close the gate behind you.#door, entrance#A2#/ɡeɪt/#دروازه را پشت سرت ببند.
+respond#پاسخ دادن#Please respond to my message.#Reply#B1#/rɪˈspɑːnd/#لطفاً به پیام من پاسخ دهید.
+continent#قاره#Africa is the second largest continent.##A2#/ˈkɑːntɪnənt/#آفریقا دومین قاره بزرگ است.
+nationality#ملیت#What is your nationality?#citizenship, ethnicity#B1#/ˌnæʃəˈnæləti/#ملیت شما چیست؟
+tat#آشغال، چیز بی‌ارزش#He sold cheap tat to tourists on the street.#junk, trash#C2#tæt#او آشغال‌های ارزان به توریست‌ها در خیابان می‌فروخت.
+fair#منصفانه، زیبا#That's a fair decision.#just, reasonable#A2#/feə/#این یک تصمیم منصفانه است.
+combination#ترکیب#A combination of factors led to his success.#mix#A2#/ˌkɑːmbɪˈneɪʃn/#ترکیبی از عوامل به موفقیت او منجر شد.
+german#آلمانی#She is German.#(from Germany)#A1#/ˈdʒɜːrmən/#او آلمانی است.
+czech#اهل جمهوری چک#He is a Czech citizen.#from the Czech Republic#B1#tʃɛk#او یک شهروند اهل جمهوری چک است.
+chess#شطرنج#We played a game of chess.#board game#A1#/tʃes/#ما یک بازی شطرنج انجام دادیم.
+turkish#ترکی#She speaks Turkish.#from Turkey#A1#/ˈtɝː.kɪʃ/#او ترکی صحبت می کند.
+russian#روسی، مربوط به روسیه#She is a famous Russian novelist.#-/#A2#/ˈrʌʃ.ən/#او یک رمان‌نویس مشهور روسی است.
+maple#افرا#Maple syrup is delicious.#Tree#B1#/ˈmeɪpl/#شیره افرا خوشمزه است.
+leaf#برگ#The leaf fell from the tree.#foliage, page#A1#/liːf/#برگ از درخت افتاد.
+tiger#ببر#The tiger prowled through the jungle.#predator, big cat#B1#/ˈtaɪɡər/#ببر در جنگل پرسه می زد.
+cowboy#گاوچران#The cowboy rode his horse across the plains.#گاوچران#A2#ˈkaʊ.bɔɪ#گاوچران اسبش را در دشت ها راند
+raptor#شکاری#Eagles are powerful raptors#bird of prey#B2#ˈræp.tɔːr#عقاب‌ها پرندگان شکاری قدرتمندی هستند
+eire#ایرلند#Eire is the Irish name for the Republic of Ireland.#Ireland#C2#ˈeərə#ایره نام ایرلندی برای جمهوری ایرلند است.
+olympic#المپیک#The Olympic Games are held every four years.#N/A#A2#əˈlɪmpɪk#بازی‌های المپیک هر چهار سال یک بار برگزار می‌شود.
+luck#شانس، بخت#Good luck on your exam!#fortune, chance#A1#/lʌk/#موفق باشی در امتحانت!
+cairn#توده سنگ نشانه‌دار#Hikers add stones to the summit cairn#stone pile, landmark#C1#keən#کوهنوردان سنگ به توده سنگ قله اضافه می‌کنند
+wow#واو (شگفتی)#Wow, that's amazing!#amazing#A2#waʊ#واو، این فوق العاده است!
+fro#به آن سو (قدیمی)#They ran to and fro.#to and from#C2#/froʊ/#آن‌ها به این سو و آن سو می‌دویدند.
