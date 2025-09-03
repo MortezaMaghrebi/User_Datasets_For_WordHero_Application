@@ -4,3 +4,4 @@ American English Files/American English Files Starter--https://raw.githubusercon
 American English Files/American English Files 1--https://raw.githubusercontent.com/MortezaMaghrebi/Datesets-For-Word-Hero-Application/refs/heads/main/American_English_Files/AmericanEnglishFiles1.txt--
 American English Files/American English Files 5--https://raw.githubusercontent.com/MortezaMaghrebi/Datesets-For-Word-Hero-Application/refs/heads/main/American_English_Files/AmericanEnglishFiles5.txt--
 American English Files/American English Files 2--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/American%20English%20Files%202.txt--
+American English Files/American English Files 3--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/American%20English%20Files%203.txt--
