@@ -5,13 +5,3 @@ American English Files/American English Files 1--https://raw.githubusercontent.c
 American English Files/American English Files 5--https://raw.githubusercontent.com/MortezaMaghrebi/Datesets-For-Word-Hero-Application/refs/heads/main/American_English_Files/AmericanEnglishFiles5.txt--
 American English Files/American English Files 2--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/American%20English%20Files%202.txt--
 American English Files/American English Files 3--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/American%20English%20Files%203.txt--
-Novel/Cranford--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/Cranford.txt--
-test/test--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/test.txt--
-test/test--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/test.txt--
-test/ntetest--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/ntetest.txt--
-Test/New Test--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/New%20Test.txt--
-Test/NetTest--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/NetTest.txt--
-test/test2--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/test2.txt--
-Gutenberg/romabjh--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/romabjh.txt--
-her/gdf--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/gdf.txt--
-ggggg/fwe--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/fwe.txt--
