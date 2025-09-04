@@ -6,3 +6,4 @@ American English Files/American English Files 5--https://raw.githubusercontent.c
 American English Files/American English Files 2--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/American%20English%20Files%202.txt--
 American English Files/American English Files 3--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/American%20English%20Files%203.txt--
 Project Gutenberg/The Yellow Wallpaper--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/The%20Yellow%20Wallpaper.txt--
+user/my book--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/my%20book.txt--
