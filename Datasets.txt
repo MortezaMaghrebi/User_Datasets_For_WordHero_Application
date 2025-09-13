@@ -7,3 +7,4 @@ American English Files/American English Files 2--https://raw.githubusercontent.c
 American English Files/American English Files 3--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/American%20English%20Files%203.txt--
 Project Gutenberg/The Yellow Wallpaper--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/The%20Yellow%20Wallpaper.txt--
 Stephenie Meyer/The Chemist--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/The%20Chemist.txt--
+Jane Austen/Pride and Prejudice--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/Pride%20and%20Prejudice.txt--
