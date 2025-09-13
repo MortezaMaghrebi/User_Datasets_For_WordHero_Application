@@ -1,0 +1,657 @@
+content#محتوا، راضی#Are you content with your life?#satisfied, pleased#B1#/ˈkɒntent/#آیا از زندگی ات راضی هستی؟
+velvet#مخمل#She wore a velvet dress.#fabric#B1#/ˈvelvɪt/#او یک لباس مخمل پوشید.
+crumb#خرده نان#The birds were pecking at the crumbs on the ground.#morsel, fragment#B1#/krʌm/#پرنده‌ها داشتند به خرده‌های نان روی زمین نوک می‌زدند.
+yeast#خمیر مایه#Yeast is used to make bread rise.#leaven#B2#/jiːst/#از خمیر مایه برای ور آمدن نان استفاده می شود.
+index#فهرست، شاخص#Check the index for page numbers.#list, directory#A2#/ˈɪndeks/#برای شماره صفحات فهرست را چک کنید.
+general#عمومی، کلی#The general opinion is in favor of the plan.#overall, broad#B1#/ˈdʒenrəl/#عقیده عمومی موافق این طرح است.
+mill#آسیاب#The old mill is by the river.#grinder#B2#/mɪl/#آسیاب قدیمی کنار رودخانه است.
+illustration#تصویر#The book has colorful illustrations.#Drawing#B1#/ˌɪləˈstreɪʃn/#کتاب تصاویر رنگی دارد.
+heat#گرما، حرارت#The heat from the fire warmed the room.#warmth#A2#hiːt#گرمای آتش اتاق را گرم کرد.
+stir#هم زدن#She stirred the soup gently.#Mix#A2#/stɜːr/#او به آرامی سوپ را هم زد.
+dough#خمیر#She kneaded the dough for bread.#paste, mixture#B1#/doʊ/#او خمیر نان را ورز داد.
+vigorously#با قدرت، با شدت#He shook the bottle vigorously.#energetically, strongly#B2#/ˈvɪɡərəsli/#او بطری را با قدرت تکان داد.
+stroke#سکته مغزی#My grandfather had a mild stroke.#cerebral accident#B1#/strəʊk/#پدربزرگم یک سکته مغزی خفیف داشت.
+stiff#سفت#My muscles are stiff.#rigid, inflexible#B1#/stɪf/#عضلاتم سفت هستند.
+slightly#کمی#I am slightly tired.#a little, somewhat#B1#/ˈslaɪtli/#من کمی خسته‌ام.
+sticky#چسبناک#The tape is very sticky.#Adhesive#A2#/ˈstɪki/#چسب بسیار چسبناک است.
+roll#غلتیدن، رول#The ball rolled down the hill.#turn, revolve#A2#/roʊl/#توپ از تپه پایین غلتید.
+board#تخته، هیئت مدیره#Write on the board.#plank, committee#A2#/bɔːrd/#روی تخته بنویس.
+lightly#به آرامی#She touched his shoulder lightly.#gently#B2#/ˈlaɪtli/#او شانه او را به آرامی لمس کرد.
+dust#گرد و غبار#The furniture was covered in dust.#dirt, powder#A2#/dʌst/#مبلمان پوشیده از گرد و خاک بود.
+prevent#جلوگیری کردن#Seatbelts prevent injuries.#stop, hinder#B1#/prɪˈvent/#کمربند ایمنی از جراحات جلوگیری می‌کند.
+gently#به آرامی#She spoke gently to the child.#softly, mildly#B1#/ˈdʒentli/#او با کودک به آرامی صحبت کرد.
+smooth#صاف#The road is smooth.#even, sleek#A2#/smuːð/#جاده صاف است.
+dip#فرو بردن#Dip the bread in the soup.#immerse#B1#/dɪp/#نان را در سوپ فرو ببر.
+cutter#برنده، ابزار برش#She used a glass cutter to shape the window.#blade, tool#B2#ˈkʌtər#او از یک ابزار برش شیشه برای شکل دادن به پنجره استفاده کرد.
+bake#پختن (در فر)#She likes to bake cakes on weekends.#cook in oven#A2#/beɪk/#او دوست دارد آخر هفته ها کیک بپزد.
+shiny#براق، درخشان#She wore shiny silver earrings.#glossy, gleaming#A2#/ˈʃaɪ.ni/#او گوشواره های نقره ای براق پوشیده بود.
+sheet#ملافه، ورق#Put clean sheets on the bed.#bed sheet, piece of paper#A2#/ʃiːt/#ملافه‌های تمیز روی تخت بگذار.
+apart#جدا، از هم#The two houses are far apart.#separate, away from each other#B1#/əˈpɑːrt/#دو خانه از هم فاصله زیادی دارند.
+crusty#پوسته‌دار، بدخلق#He was a crusty old man with a kind heart.#hard-crusted, grumpy#B2#/ˈkrʌsti/#او یک پیرمرد پوسته‌دار با یک قلب مهربان بود.
+drop#قطره، افتادن#A drop of rain fell on my hand.#drip, fall#A2#/drɒp/#یک قطره باران روی دستم افتاد.
+grease#چربی، گریس#Grease the pan before baking.#fat, oil#B1#/ɡriːs/#قبل از پخت، تابه را چرب کن.
+richer#غنی‌تر، ثروتمندتر#This soil is much richer than the other.#wealthier, more affluent#A2#ˈrɪtʃər#این خاک بسیار غنی‌تر از دیگری است.
+direction#جهت، راهنمایی#Which direction should I go?#course, guidance#A2#/dəˈrekʃn/#به کدام سمت باید بروم؟
+except#به جز، غیر از#Everyone came except John.#excluding, apart from#A2#/ɪkˈsept/#همه به جز جان آمدند.
+buttermilk#دوغ#She used buttermilk to make the pancakes fluffy.#soured milk, whey#B2#ˈbʌtərmɪlk#او از دوغ برای پف کردن پنکیک ها استفاده کرد.
+necessary#ضروری#Food is necessary for life.#essential, required#A2#/ˈnesəseri/#غذا برای زندگی ضروری است.
+additional#اضافی#There is an additional charge.#extra, supplementary#B1#/əˈdɪʃənl/#هزینه اضافی وجود دارد.
+consistency#ثبات، قوام#The consistency of the batter should be smooth.#uniformity, thickness#B2#/kənˈsɪstənsi/#قوام خمیر باید صاف باشد.
+recipe#دستور پخت#She followed the recipe for cake.#Instructions#A2#/ˈres.ə.pi/#او دستور پخت کیک را دنبال کرد.
+serve#خدمت کردن، سرو کردن#She served dinner at 7 PM.#provide, assist#A2#/sɜːrv/#او شام را ساعت ۷ عصر سرو کرد.
+bacon#بیکن#I prefer crispy bacon with my eggs#pork belly, rashers#A2#ˈbeɪ.kən#من بیکن ترد را با تخم‌مرغ ترجیح می‌دهم
+crisply#با تردی، با وضوح#He spoke crisply and to the point.#clearly, sharply#C1#/ˈkrɪspli/#او با وضوح و صریح صحبت کرد.
+dice#تاس#Roll the dice to start the game.#Cube#A2#/daɪs/#تاس را بریز تا بازی شروع شود.
+grapefruit#گریپ‌فروت#She had a grapefruit for breakfast.#---#A2#/ˈɡreɪpfruːt/#او برای صبحانه یک گریپ‌فروت داشت.
+scramble#تقلا کردن، هجوم بردن#People scrambled for the best seats.#rush, struggle#B2#/ˈskræmbl/#مردم برای گرفتن بهترین صندلی‌ها تقلا می‌کردند.
+grate#رنده کردن؛ قفس آتش#Grate some cheese for the pasta.#shred, grind#B1#ɡreɪt#برای پاستا کمی پنیر رنده کن.
+sharp#تیز، تند#The knife is very sharp.#keen, acute#A2#/ʃɑːrp/#چاقو بسیار تیز است.
+veal#گوشت گوساله#Veal comes from young calves.#-/#B2#/viːl/#گوشت گوساله از گوساله های جوان می آید.
+finely#به خوبی، با ظرافت#The carrots were finely chopped.#exquisitely#B2#/ˈfaɪnli/#هویج ها به خوبی خرد شده بودند.
+chop#خرد کردن#He chopped vegetables for the stew.#Cut#A2#/tʃɒp/#او سبزیجات را برای خورش خرد کرد.
+curry#کاری#I love spicy chicken curry.#Spicy dish#A2#/ˈkɜːri/#من کاری تند دوست دارم.
+powder#پودر#She put on some face powder.#dust#A2#/ˈpaʊ.dɚ/#او کمی پودر صورت زد.
+casserole#خوراک#Mom made a delicious chicken casserole for dinner.#stew, bake#B1#ˈkæsəˌroʊl#مامان یک خوراک مرغ خوشمزه برای شام درست کرد.
+ham#ژامبون#He made a ham sandwich for lunch.#bacon#A2#/hæm/#او برای ناهار ساندویچ ژامبون درست کرد.
+boiled#جوشانده#She prepared some boiled eggs for breakfast.#cooked in boiling water#B1#bɔɪld#او برای صبحانه مقداری تخم‌مرغ جوشانده آماده کرد.
+herb#گیاه دارویی#Basil is a popular culinary herb#plant, seasoning#A2#hɜːb#ریحان یک گیاه دارویی محبوب در آشپزی است
+nutmeg#جوز هندی#She added nutmeg to the recipe.#spice#B2#/ˈnʌtmeɡ/#او به دستور غذا جوز هندی اضافه کرد.
+crumble#خرد شدن، فرو ریختن#The old wall began to crumble away.#disintegrate, fall apart#B2#/ˈkrʌmbəl/#دیوار قدیمی شروع به فرو ریختن کرد.
+sage#خردمند#The sage offered wise advice.#wise man#C2#/seɪdʒ/#حکیم نصیحت عاقلانه‌ای ارائه داد.
+caraway#زیره سیاه#The bread was baked with caraway seeds.#cumin, spice#B1#ˈkærəweɪ#نان با دانه زیره سیاه پخته شده بود.
+seed#دانه#She planted seeds in the garden.#Grain#A2#/siːd/#او بذرها را در باغ کاشت.
+rind#پوست (میوه یا پنیر)#He cut the rind off the cheese.#peel, skin#C1#/raɪnd/#او پوست پنیر را جدا کرد.
+crispy#ترد، شکننده#I love crispy fried onions on my burger.#crunchy, brittle#B1#/ˈkrɪspi/#من پیاز سرخ‌شده ترد روی برگر خود را دوست دارم.
+stuffed#پرزدار#She gave her daughter a stuffed animal.#plush#B2#stʌft#او به دخترش یک حیوان پرزدار داد.
+peanut#بادام زمینی#She ate a peanut butter sandwich.#Nut#A2#/ˈpiːnʌt/#او یک ساندویچ کره بادام زمینی خورد.
+roast#برشته کردن#She roasted a chicken for dinner.#Bake#B1#/roʊst/#او برای شام مرغ کباب کرد.
+salami#سالامی (نوعی سوسیس خشک)#We made a sandwich with salami and cheese.#cured sausage#A2#səˈlɑː.mi#ما یک ساندویچ با سالامی و پنیر درست کردیم.
+sausage#سوسیس#We cooked sausages on the barbecue.#سوسیس#A2#ˈsɔːsɪdʒ#ما سوسیس ها را روی باربیکیو پختیم
+pecan#گردوی آمریکایی#She made a pie with delicious pecan nuts.#nut#B1#pɪˈkɑːn#او یک پای با گردوهای آمریکایی خوشمزه درست کرد.
+melted#ذوب شده#The melted chocolate was delicious.#molten#B1#/ˈmeltɪd/#شکلات ذوب شده خوشمزه بود.
+halve#نصف کردن#You need to halve the recipe to make a smaller cake.#divide in half, reduce by half#B2#hɑːv#شما باید دستور غذا را نصف کنید تا یک کیک کوچک‌تر درست کنید.
+brunch#برانچ (ترکیب صبحانه و ناهار)#We had Sunday brunch at the new cafe#late breakfast#A2#brʌntʃ#ما برانچ یکشنبه را در کافه جدید خوردیم
+rectangle#مستطیل#He drew a perfect rectangle on the board.#quadrilateral#B1#ˈrek.tæŋ.ɡl#او یک مستطیل کامل روی تخته کشید.
+lengthwise#در طول، به صورت طولی#Cut the cucumber lengthwise.#longways#B2#/ˈleŋθwaɪz/#خیار را به صورت طولی برش بزن.
+strip#نوار#He tore a strip of paper.#band, remove#B1#/strɪp/#او نواری از کاغذ پاره کرد.
+melt#ذوب شدن#The ice will melt in the sun.#dissolve, thaw#A2#/melt/#یخ در آفتاب ذوب خواهد شد.
+pour#ریختن#Pour the water into the glass.#stream, flow#A2#/pɔːr/#آب را در لیوان بریز.
+oblong#مستطیل شکل#The table was oblong in shape.#rectangular#C2#/ˈɑː.blɑːŋ/#میز به شکل مستطیل بود.
+remaining#باقیمانده#There were only a few remaining tickets.#left#B2#rɪˈmeɪnɪŋ#فقط چند بلیط باقیمانده بود.
+quantity#مقدار#Check the quantity of sugar.#Amount#B1#/ˈkwɑːntəti/#مقدار شکر را بررسی کن.
+stew#خورش#She made a delicious beef stew for dinner.#casserole#B1#stuː#او برای شام یک خورش گوشت خوشمزه درست کرد.
+cube#مکعب#Ice cubes clinked in the glass#dice, block#A2#kjuːb#تکه‌های یخ در لیوان صدا می‌دادند
+paprika#پاپریکا#She sprinkled some paprika on the chicken for flavor.#spice#B1#ˈpæprɪkə#او مقداری پاپریکا برای طعم‌دهی روی مرغ پاشید.
+desire#آرزو#He had a strong desire to succeed.#Wish#B2#/dɪˈzaɪə/#او میل شدیدی برای موفقیت داشت.
+slice#برش#She cut a slice of cake.#piece#A2#/slaɪs/#او یک برش کیک برید.
+clove#میخک، حبه (سیر)#She added a clove of garlic to the sauce.#segment#B2#/kloʊv/#او یک حبه سیر به سس اضافه کرد.
+garlic#سیر#Add garlic to the sauce.#Herb#A2#/ˈɡɑːrlɪk/#سیر را به سس اضافه کن.
+mixture#مخلوط، ترکیب#Air is a mixture of gases.#blend#A2#/ˈmɪkstʃər/#هوا مخلوطی از گازها است.
+thoroughly#به طور کامل#Clean the room thoroughly before guests arrive.#completely, meticulously#B1#/ˈθʌrəli/#اتاق را قبل از آمدن مهمانان کاملاً تمیز کن.
+saute#تفت دادن#She will saute the vegetables in a pan.#تفت دادن#B2#soʊˈteɪ#او سبزیجات را در تابه تفت خواهد داد
+transparent#شفاف#The water was so transparent we could see the bottom.#clear, see-through#B2#/trænsˈpærənt/#آب آنقدر شفاف بود که کف آن دیده می‌شد.
+tightly#محکم#She held on tightly.#firmly, securely#B2#/ˈtaɪtli#او محکم نگه داشت.
+tender#نرم#The meat was very tender.#soft#B1#/ˈten.dɚ/#گوشت بسیار نرم بود.
+golden#طلایی#She has golden hair.#gold, gilded#A2#/ˈɡəʊldən/#او موهای طلایی دارد.
+serving#سرو#One serving of pasta is enough.#Portion#A2#/ˈsɜːrvɪŋ/#یک وعده پاستا کافی است.
+blend#مخلوط کردن، ترکیب#Blend the ingredients together.#mix#B1#/blend/#مواد را با هم مخلوط کن.
+remove#حذف کردن، برداشتن#Remove your shoes.#take off, eliminate#A2#/rɪˈmuːv/#کفش هایت را بردار.
+thicken#غلیظ کردن، سفت شدن#Add cornstarch to thicken the sauce.#condense, coagulate#B2#/ˈθɪkən/#نشاسته ذرت اضافه کن تا سس غلیظ شود.
+filling#پرکننده#The sandwich has a delicious filling of cheese and ham.#stuffing, content#B1#ˈfɪlɪŋ#ساندویچ یک پرکننده خوشمزه از پنیر و ژامبون دارد.
+slit#شکاف، برش#Light came through a slit in the curtain.#cut#B2#/slɪt/#نور از طریق یک شکاف در پرده وارد شد.
+center#مرکز#The town center is where most of the shops and restaurants are.#middle#A1#ˈsɛntər#مرکز شهر جایی است که بیشتر مغازه‌ها و رستوران‌ها در آن قرار دارند.
+shorten#کوتاه کردن#Can you shorten the essay to 500 words?#Reduce#B1#/ˈʃɔːtən/#آیا می‌توانی مقاله را به ۵۰۰ کلمه کوتاه کنی؟
+deep#عمیق#The lake is very deep.#Profound#A2#/diːp/#دریاچه خیلی عمیق است.
+salmon#ماهی سالمون#We had grilled salmon for dinner.#(no common synonym)#A2#/ˈsæmən/#ما برای شام سالمون کبابی داشتیم.
+cheddar#پنیر چدار#She used cheddar in her sandwich.#Cheese#B1#/ˈtʃed.ər/#او در ساندویچش پنیر چدار استفاده کرد.
+drain#تخلیه کردن#The sink drained slowly.#Empty#B1#/dreɪn/#سینک به آرامی خالی شد.
+boil#جوشاندن#Boil the water for tea.#-#A2#bɔɪl#آب را برای چای بجوشان.
+stirring#هیجان‌انگیز، تکان‌دهنده#It was a stirring speech that inspired everyone.#inspiring#C2#ˈstɜːrɪŋ#این یک سخنرانی هیجان‌انگیز بود که همه را الهام بخشید.
+constantly#مدام#She constantly talks about her job.#continually, always#B2#/ˈkɑːnstəntli/#او مدام درباره شغلش صحبت می کند.
+ingredient#ماده اولیه#Flour is a key ingredient in bread.#Component#B1#/ɪnˈɡriː.di.ənt/#آرد یک ماده کلیدی در نان است.
+tuna#ماهی تن#She made a tuna salad for lunch.#Fish#A2#/ˈtuː.nə/#او برای ناهار سالاد تن درست کرد.
+parsley#جعفری#She sprinkled parsley on the dish.#Herb#B1#/ˈpɑːr.sli/#او روی غذا جعفری پاشید.
+celery#کرفس#She added chopped celery to the salad.#vegetable#A2#ˈsɛləri#او کرفس خرد شده به سالاد اضافه کرد.
+aside#کنار، به کناری#He stepped aside to let her pass.#to the side#B2#/əˈsaɪd/#او کنار رفت تا به او اجازه عبور دهد.
+jelly#ژله#The children ate peanut butter and jelly sandwiches.#-/#A2#ˈdʒel.i#کودکان ساندویچ کره بادام زمینی و ژله خوردند.
+seam#درز#The seam of her dress ripped.#join#B2#/siːm/#درز لباس او پاره شد.
+pinch#نیشگون گرفتن#Don't pinch me!#squeeze, nip#B1#/pɪntʃ/#مرا نیشگون نگیر!
+almost#تقریباً#Dinner is almost ready.#nearly, practically#A2#/ˈɔːlməʊst/#شام تقریباً آماده است.
+edge#لبه#Be careful near the edge of the cliff.#border, rim#A2#/edʒ/#نزدیک لبه پرتگاه مراقب باش.
+turnover#گردش مالی#The company's annual turnover is over a million dollars.#revenue, sales#C1#ˈtɜːnəʊvər#گردش مالی سالانه شرکت بیش از یک میلیون دلار است.
+cooked#پخته شده#The cooked vegetables were delicious.#Prepared by heating.#A2#kʊkt#سبزیجات پخته شده خوشمزه بودند.
+chili#فلفل تند#The chili sauce was too spicy.#Pepper#A2#/ˈtʃɪl.i/#سس چیلی خیلی تند بود.
+pickle#ترشی، شور#She made pickle from cucumbers.#relish#B1#/ˈpɪkl/#او از خیار ترشی درست کرد.
+relish#لذت بردن؛ چاشنی#He relished the opportunity to compete.#enjoy#C1#/ˈrelɪʃ/#او از فرصت رقابت لذت برد.
+fold#تا کردن#Fold the paper in half.#bend, crease#A2#/fəʊld/#کاغذ را از وسط تا کن.
+seal#مهر و موم کردن#Seal the envelope.#close, shut#B1#/siːl/#پاکت را مهر و موم کن.
+pork#گوشت خوک#This recipe calls for 500 grams of minced pork.##B1#/pɔːrk/#این دستور به ۵۰۰ گرم گوشت چرخ‌کرده نیاز دارد.
+swiss#اهل سوئیس#He is a Swiss citizen.#Swiss national#B1#swɪs#او یک شهروند سوئیسی است.
+mince#خرد کردن#Mince the garlic finely.#chop#B2#/mɪns/#سیر را ریز خرد کنید.
+mayonnaise#سس مایونز#Do you want mayonnaise on your sandwich?#mayo#B1#/ˌmeɪəˈneɪz/#مایونز روی ساندویچت می‌خواهی؟
+glaze#لعاب دادن#He glazed the pottery beautifully.#coat#C1#/ɡleɪz/#او سفال را زیبا لعاب داد.
+saucy#بی ادب، گستاخ#He was saucy to his teacher.#cheeky#C1#/ˈsɔːsi/#او با معلمش بی ادبی کرد.
+blanket#پتو#She wrapped herself in a blanket.#cover, throw#A2#/ˈblæŋkɪt/#او خودش را در پتو پیچید.
+equal#مساوی، برابر#All people are equal.#same, equivalent#B1#/ˈiːkwəl/#همه مردم مساوی هستند.
+wedge#گوه#He used a wedge to keep the door open.#chock#B2#/wedʒ/#او از یک گوه برای باز نگه داشتن در استفاده کرد.
+drained#خسته، بی انرژی#After the long hike, he felt completely drained.#exhausted, worn out#B2#dreɪnd#بعد از پیاده‌روی طولانی، او کاملاً خسته بود.
+sauerkraut#کلم ترش#I love to eat sauerkraut with sausages.#نوعی غذای آلمانی#C2#ˈsaʊərˌkraʊt#من عاشق خوردن کلم ترش با سوسیس هستم
+frankfurter#سوسیس فرانکفورتر#He ate a hot dog with a frankfurter.#hot dog sausage#B1#ˈfræŋkfərtər#او یک هات‌داگ با سوسیس فرانکفورتر خورد.
+tip#نوک، انعام#the tip of the knife#end#A2#/tɪp/#نوک چاقو
+sprinkle#پاشیدن؛ چلچلهای باران#Sprinkle some cheese on top of the pasta.#scatter#B1#/ˈsprɪŋkl/#مقداری پنیر روی پاستا بپاش.
+poppy#خشخاش#Poppies grew in the field.#flower#B2#/ˈpɒpi/#خشخاش ها در مزرعه رشد کردند.
+immediately#فوراً، بلافاصله#Leave immediately!#at once, right away#A2#/ɪˈmiːdiətli/#فوراً ترک کن!
+plain#ساده، دشت#She wore a plain black dress.#simple, unadorned#B1#/pleɪn/#او یک لباس سیاه ساده پوشید.
+individual#فرد، تک#Each individual is unique.#person, single#A2#/ˌɪndɪˈvɪdʒuəl/#هر فرد منحصر به فرد است.
+split#شکافتن، تقسیم کردن#The wood split easily.#divide, separate#B1#/splɪt/#چوب به راحتی شکافت.
+pat#نوازش، ضربه آرام#She gave the dog a pat on the head.#tap, stroke#B1#pæt#او سر سگ را نوازش کرد
+dot#نقطه#A tiny dot marked the spot on the map.#speck#A2#/dɑːt/#نقطه کوچکی مکان را روی نقشه مشخص کرد.
+mold#کپک#There was mold on the bread.#fungus#B1#/moʊld/#روی نان کپک وجود داشت.
+platter#بشقاب بزرگ، دیس#The waiter brought a large platter of grilled vegetables.#dish#B1#ˈplætər#پیشخدمت یک دیس بزرگ از سبزیجات کبابی آورد.
+shrimp#میگو#Grill shrimp for the barbecue.#Prawn#A2#/ʃrɪmp/#برای کباب میگو کباب کن.
+lobster#خرچنگ#They ate lobster at the restaurant.#Crustacean#B1#/ˈlɑːb.stər/#آنها در رستوران خرچنگ خوردند.
+king#پادشاه#The king ruled for decades.#Monarch#A2#/kɪŋ/#پادشاه برای دهه‌ها حکومت کرد.
+lamb#بره#We had roast lamb for dinner.#Young sheep#A2#/læm/#برای شام بره کباب خوردیم.
+several#چندین، چند تا#Several people attended the meeting.#a few, some#A2#/ˈsevrəl/#چندین نفر در جلسه شرکت کردند.
+chutney#نوعی سس میوه‌ای و تند#I love this mango chutney.#relish, sauce#B2#ˈtʃʌtni#من این چاتنی انبه را دوست دارم.
+sieve#الک#She drained the pasta through a sieve.#strainer, sifter#B2#/sɪv/#او ماکارونی را با صافی آبکش کرد.
+crisp#ترد، شکننده#The chips were very crisp.#brittle, crunchy#B1#/krɪsp/#چیپس ها بسیار ترد بودند.
+frying#سرخ کردن#The smell of frying onions filled the house.#sautéing#B1#ˈfraɪɪŋ#بوی پیاز سرخ کرده خانه را پر کرده بود.
+layer#لایه#He put on another layer of clothing.#stratum, coat#B1#/ˈleɪər/#او یک لایه دیگر لباس پوشید.
+meanwhile#در همین حال#I'll cook. Meanwhile, you set the table.#in the meantime, concurrently#B1#/ˈmiːnwaɪl/#من آشپزی می‌کنم، در این میان، تو میز را بچین.
+gravy#آب گوشت#She poured hot gravy over her mashed potatoes.#sauce#A2#ˈɡreɪvi#او آب گوشت داغ روی پوره سیب‌زمینی‌اش ریخت.
+asparagus#مارچوبه#Asparagus is a healthy vegetable.#vegetable#B2#/əˈspær.ə.ɡəs/#مارچوبه سبزی سالم است.
+spear#نیزه#The hunter used a spear.#lance, javelin#C1#/spɪr/#شکارچی از یک نیزه استفاده کرد.
+freshly#تازه#Freshly baked bread smells wonderful.#newly#B1#/ˈfreʃli/#نان تازه پخته شده بوی فوق العاده ای می دهد.
+mustard#خردل#He put mustard on his hot dog.#n/a#A2#/ˈmʌstərd/#او روی هات داگ خود خردل گذاشت.
+thyme#آویشن#She added thyme to the soup.#n/a#C1#/taɪm/#او آویشن به سوپ اضافه کرد.
+garnish#تزیین کردن#Garnish the dish with fresh parsley.#decorate#C1#/ˈɡɑːrnɪʃ#غذا را با جعفری تازه تزیین کن.
+sprig#شاخچه کوچک#She decorated the cake with a sprig of mint.#stem, twig#C1#sprɪɡ#او کیک را با یک شاخچه کوچک نعناع تزئین کرد.
+seconds#کمک غذای دوم#Do you want seconds?#a second helping of food#B1#ˈsɛkəndz#آیا کمک غذای دوم می‌خواهی؟
+cinnamon#دارچین#She added cinnamon to the apple pie.#spice#B1#/ˈsɪnəmən/#او دارچین به پای سیب اضافه کرد.
+crumbly#خردشونده#The crumbly cheese fell apart on the cracker.#brittle, flaky#B2#/ˈkrʌmbli/#پنیر خردشونده روی کراکر متلاشی شد.
+cottage#کلبه#They have a cottage by the lake.#cabin, hut#B1#/ˈkɑːtɪdʒ/#آن‌ها کلبه‌ای کنار دریاچه دارند.
+batter#خمیر مایع، له کردن#Dip the fish in the batter before frying it.#dough, mixture#B1#/ˈbætər/#ماهی را قبل از سرخ کردن در خمیر مایع فرو ببر.
+loaf#نان حجیم؛ تنبلی کردن#He bought a loaf of bread from the bakery.#- #A2#/loʊf/#او یک نان حجیم از نانوایی خرید.
+supper#شام#We usually have a light supper in the evening.#dinner#A2#/ˈsʌpər/#ما معمولاً یک شام سبک در عصر داریم.
+corn#ذرت، غله#We grow corn on our farm.#maize, grain#A2#/kɔːn/#ما در مزرعه‌مان ذرت پرورش می‌دهیم.
+kidney#کلیه#He had a problem with his kidney.#organ#A2#ˈkɪdni#او با کلیه‌اش مشکل داشت.
+skillet#ماهی‌تابه چدنی#She cooked the chicken in a large cast-iron skillet.#frying pan, pan#B2#ˈskɪl.ɪt#او مرغ را در یک ماهی‌تابه چدنی بزرگ پخت.
+simmer#آهسته جوشیدن#Let the soup simmer for 20 minutes.#bubble, stew#B2#ˈsɪmər#بگذارید سوپ به مدت 20 دقیقه آهسته بجوشد.
+occasionally#گاهی اوقات#We occasionally go to the theatre.#sometimes, now and then#B1#/əˈkeɪʒnəli/#ما گاهی اوقات به تئاتر می رویم.
+rotary#دوار، گردان#The machine has a rotary motion.#rotating, revolving#C1#ˈrəʊtəri#دستگاه دارای یک حرکت دوار است.
+beater#زننده#He used a beater to mix the eggs.#mixer#C1#ˈbiːtər#او از یک زننده برای مخلوط کردن تخم‌مرغ‌ها استفاده کرد.
+pared#پوست کنده شده، تراشیده شده#He pared the apple with a small knife.#peeled, trimmed#C1#peərd#او سیب را با یک چاقوی کوچک پوست کند
+topping#رویه#Add whipped cream as a topping.#Covering#B1#/ˈtɑːp.ɪŋ/#خامه فرم گرفته را به عنوان رویه اضافه کن.
+prune#هرس کردن، آلو خشک#You need to prune the rose bushes every year.#trim#B2#/pruːn/#شما باید هر سال بوته های گل رز را هرس کنید.
+apricot#زردآلو#She made apricot jam from the tree in her garden.##B1#/ˈeɪprɪkɒt/#او از درخت زردآلوی باغش مربا درست کرد.
+arrange#چیدن، ترتیب دادن#Let's arrange a meeting for next week.#organize, plan#A2#/əˈreɪndʒ/#بیا یک جلسه برای هفته آینده ترتیب دهیم.
+crushed#له شده، شکست‌خورده#The crushed cans were ready for recycling.#squashed, flattened#B1#/krʌʃt/#قوطی‌های له شده آماده بازیافت بودند.
+dumpling#کوفته#I had a bowl of chicken and dumpling soup.#dumpling#B1#ˈdʌmplɪŋ#من یک کاسه سوپ مرغ و کوفته خوردم.
+spoonful#قاشق‌پر#Take one spoonful of medicine#measure, scoop#A2#ˈspuːn.fʊl#یک قاشق‌پر از دارو بخور
+onto#بر روی#The cat jumped onto the table.#on#A2#/ˈɑːntu/#گربه روی میز پرید.
+kettle#کتری#The kettle is boiling.#teapot, pot#A2#/ˈketl/#کتری در حال جوشیدن است.
+uncover#آشکار کردن، برداشتن پوشش#The investigation uncovered new evidence.#reveal, expose#B2#/ʌnˈkʌvər/#تحقیق شواهد جدیدی را آشکار کرد.
+whole#کامل، تمام#She ate the whole cake.#entire, complete#A2#/həʊl/#او تمام کیک را خورد.
+kernel#هسته؛ مغز؛ بخش مرکزی و اصلی#The kernel of his argument was that education is a fundamental right.#core, essence#B2#ˈkɜːrnl#مغز بحث او این بود که آموزش یک حق اساسی است.
+walnut#گردو#She cracked a walnut for a snack.#nut#A2#/ˈwɔːlnʌt/#او برای میان وعده گردو شکست.
+coarsely#به طور زمخت، درشت#The wood was coarsely sanded before painting.#roughly#B2#/ˈkɔːrsli/#چوب قبل از رنگ‌آمیزی به طور زمخت سنباده زده شد.
+raisin#کشمش#I like to put raisins in my oatmeal.#dried grape#A2#ˈreɪzən#من دوست دارم کشمش را در جو دوسر خود بریزم.
+mint#نعناع#Add mint to the drink.#Herb#A2#/mɪnt/#نعنا را به نوشیدنی اضافه کن.
+dried#خشک‌شده#She used dried herbs to season the soup.#dehydrated, desiccated#A2#draɪd#او از سبزیجات خشک‌شده برای طعم‌دار کردن سوپ استفاده کرد.
+boiling#جوشان، بسیار داغ#The water in the kettle is boiling.#very hot, scalding#B1#ˈbɔɪlɪŋ#آب در کتری جوشان است.
+broth#آبگوشت، سوپ رقیق#She made chicken broth for the sick child.#stock, soup#B1#/brɒθ/#او برای کودک بیمار آبگوشت مرغ درست کرد.
+skim#پوست گیری، تند خواندن#Skim the article to get the main ideas.#scan, glance through#B2#/skɪm/#مقاله را تند بخوانید تا ایده‌های اصلی را بگیرید.
+excess#افزون#There is an excess of food.#surplus#B2#ɪkˈses#افزون از غذا وجود دارد.
+paste#خمیر، چسب#She used paste to stick the photo in her scrapbook.#glue#A2#/peɪst/#او از چسب برای چسباندن عکس در آلبومش استفاده کرد.
+frank#صریح، رک#Please be frank with me.#honest, direct#B2#/fræŋk/#لطفا با من صریح باشید.
+saucepan#قابلمه#She stirred the soup in the saucepan.#pot, pan#A2#/ˈsɑːs.pæn/#او سوپ را در قابلمه هم زد.
+bury#دفن کردن#They will bury him tomorrow.#inter, entomb#B1#/ˈberi/#آنها فردا او را دفن خواهند کرد.
+thinly#نازک#She sliced the cheese thinly for the sandwiches.#finely, slightly#B1#/ˈθɪnli/#او پنیر را برای ساندویچ ها نازک برش داد.
+gradually#تدریجاً، کم کم#The pain gradually faded away.#slowly#B2#ˈɡrædʒuəli#درد تدریجاً محو شد.
+diamond#الماس#She wore a diamond necklace.#Gem#A2#/ˈdaɪə.mənd/#او یک گردنبند الماس پوشید.
+lumpy#توده‌ای#The mattress was old and lumpy.#bumpy#B2#/ˈlʌm.pi#تشک قدیمی و توده‌ای بود.
+toothpick#خلال دندان#He used a toothpick after dinner.#dental pick#B1#/ˈtuːθ.pɪk/#او بعد از شام از یک خلال دندان استفاده کرد.
+crack#ترک خوردن#The glass has a crack.#split, fissure#B1#/kræk/#شیشه یک ترک دارد.
+typical#معمولی#This is a typical example of his work.#having the usual qualities#A2#/ˈtɪpɪkəl/#این یک نمونه معمولی از کار او است.
+nuts#دیوانه#He went nuts when he heard the news.#crazy#B2#nʌts#او وقتی خبر را شنید، دیوانه شد.
+mash#له کردن#She mashed potatoes for dinner.#Crush#B1#/mæʃ/#او برای شام سیب‌زمینی له کرد.
+instead#به جای#Let's have tea instead of coffee.#in place of, rather#A2#/ɪnˈsted/#بیا به جای قهوه چای بخوریم.
+honey#عسل، عزیزم#She added honey to her tea.#-#A2#ˈhʌni#او به چایش عسل اضافه کرد.
+variation#تنوع#There is little variation in his routine.#difference#B2#/ˌveəriˈeɪʃn/#تغییرات کمی در روال او وجود دارد.
+divide#تقسیم کردن، تقسیم شدن#Divide the cake into equal pieces.#split, separate#A2#/dɪˈvaɪd/#کیک را به تکه های مساوی تقسیم کن.
+uncovered#کشف نشده، بدون پوشش#The statue was finally uncovered after years of being hidden.#exposed, revealed#B2#ʌnˈkʌv.əd#تندیس بالاخره بعد از سال‌ها پنهان بودن، کشف شد.
+freezing#یخبندان، بسیار سرد#It was a freezing cold day.#extremely cold, icy#A2#ˈfriːzɪŋ#یک روز بسیار سرد و یخبندان بود.
+base#پایه، پست#The statue has a marble base.#foundation, vile#B1#/beɪs/#مجسمه یک پایه مرمر دارد.
+excellent#عالی#The food was excellent!#great, superb#A2#/ˈeksələnt/#غذا عالی بود!
+attractive#جذاب، دلپذیر#She is an attractive woman.#appealing#A2#/əˈtræktɪv/#او یک زن جذاب است.
+refrigerator#یخچال#Put the milk back in the refrigerator.#fridge, cooler#A2#/rɪˈfrɪdʒ.ə.reɪ.t̬ɚ/#شیر را دوباره در یخچال بگذار.
+wrap#پیچیدن، لفاف#She will wrap the gift in colorful paper.#enclose#B1#ræp#او هدیه را در کاغذ رنگی می‌پیچد.
+aluminum#آلومینیوم#Aluminum foil wraps food.#none#A2#/əˈluː.mə.nəm/#فویل آلومینیوم غذا را می پیچد
+foil#خنثی کردن#The security guard foiled the robbery.#thwart#C1#/fɔɪl/#نگهبان امنیتی سرقت را خنثی کرد.
+waffle#یاوه‌گویی کردن#He tends to waffle when he's nervous.#to speak without purpose#C1#ˈwɑːfəl#او وقتی عصبی می‌شود، یاوه‌گویی می‌کند.
+cherry#گیلاس#The cherry tree blossomed in spring.#Fruit#A2#/ˈtʃeri/#درخت گیلاس در بهار شکوفه داد.
+chunk#تکه بزرگ و ضخیم#He cut a large chunk of bread.#lump, piece#B2#tʃʌŋk#او یک تکه بزرگ نان برید.
+appear#ظاهر شدن، به نظر رسیدن#He appeared suddenly from behind the tree.#seem, emerge#A2#/əˈpɪə/#او ناگهان از پشت درخت ظاهر شد.
+thinner#لاغرتر#He looks thinner after his diet.#having less fat or being more slender#A2#/ˈθɪn.ər/#او بعد از رژیم لاغرتر به نظر می‌رسد.
+steaming#بخار کردن، بخارآلود#The coffee was steaming hot.#vaporizing#B2#ˈstiːmɪŋ#قهوه به شدت داغ و بخارآلود بود.
+iron#آهن، اتو کردن#Strike while the iron is hot.#metal, press#B1#/ˈaɪərn/#آهن را تا گرم است بکوب.
+temperature#دما، حرارت#The temperature today is 30 degrees Celsius.#heat, warmth#A2#/ˈtemprətʃər/#دمای امروز 30 درجه سانتیگراد است.
+ripe#رسیده#The fruit is ripe and ready to eat.#mature#A2#/raɪp/#میوه رسیده و آماده خوردن است.
+currant#کشمش، نوعی انگور#I made a cake with black currants.#berry, raisin#B2#ˈkɜːrənt#من یک کیک با انگور سیاه درست کردم.
+confectioner#شیرینی‌پز#The confectioner made a beautiful wedding cake.#شیرینی‌پز#C1#kənˈfekʃənər#شیرینی‌پز یک کیک عروسی زیبا درست کرد.
+syrup#شربت#I put maple syrup on my pancakes.#molasses#A2#/ˈsɪrəp/#من روی پنکیک‌هایم شربت افرا می‌ریزم.
+cranberry#کرنبری#Cranberry juice helps prevent UTIs#berry, Vaccinium#B1#ˈkræn.bər.i#آب کرنبری به پیشگیری از عفونت ادراری کمک می‌کند
+caramel#کارامل#She made a delicious cake with a caramel topping.#toffee, candy#B1#ˈkærəməl#او یک کیک خوشمزه با روکش کارامل درست کرد.
+spicy#تند#The curry is very spicy.#Hot#A2#/ˈspaɪsi/#کاری خیلی تند است.
+sweeten#شیرین کردن، خوشایند کردن#She added honey to sweeten the tea.#sugar, make sweet#B1#/ˈswiːtn/#او عسل اضافه کرد تا چای را شیرین کند.
+applesauce#پوره سیب#She made applesauce.#N/A#A2#ˈæplsɔːs#او پوره سیب made کرد.
+chiffon#پارچه شیفون#She wore a chiffon scarf.#n/a#C1#/ˈʃɪfɒn/#او یک شال پارچه شیفون پوشید.
+puff#پف کردن#She took a puff on her cigarette.#drag, blow#B2#/pʌf/#او پک عمیقی به سیگارش زد.
+peak#قله#We reached the mountain peak.#Summit#B1#/piːk/#ما به قله کوه رسیدیم.
+dampen#مرطوب کردن، دلسرد کردن#The rain dampened the ground.#moisten, wet#B2#ˈdæmpən#باران زمین را مرطوب کرد.
+ungrease#چربی زدایی کردن#He tried to ungrease the pan.#degrease, clean#C1#ʌnˈɡriːs#او سعی کرد ماهیتابه را چربی زدایی کند.
+whip#شلاق، شلاق زدن#The rider cracked his whip.#lash, beat#B2#/wɪp/#شلاق سوارکار ترک خورد.
+royal#سلطنتی#The royal palace is open to visitors.#Regal#B1#/ˈrɔɪ.əl/#کاخ سلطنتی برای بازدید عموم باز است.
+broiler#جوجه گوشتی#We had a roasted broiler for lunch.#chicken#C1#ˈbrɔɪlə(r)#ما برای ناهار یک جوجه گوشتی کبابی داشتیم.
+bubbly#پر از حباب، شاد#She has a bubbly personality.#lively#B2#ˈbʌbli#او یک شخصیت شاد دارد.
+slip#لغزش#Don't slip on the ice.#slide, skid#B1#/slɪp/#روی یخ لغزش نکن.
+poultry#طیور، مرغ#They keep poultry on their farm.#fowl#B2#/ˈpoʊl.tri/#آن‌ها در مزرعه طیور نگه می‌دارند.
+stack#انباشته، پشته#A stack of books sat on the desk.#pile#B1#stæk#یک انباشته از کتاب ها روی میز قرار داشت.
+spice#ادویه#Add spice to the stew.#Seasoning#A2#/spaɪs/#ادویه را به خورش اضافه کن.
+colonial#استعماری#It's a colonial building.#imperial#B2#/kəˈloʊniəl/#این یک ساختمان استعماری است.
+generously#با سخاوت#He gave generously to charity.#liberally#B2#/ˈdʒenərəsli/#او با سخاوت به خیریه کمک کرد.
+maple#افرا#Maple syrup is delicious.#Tree#B1#/ˈmeɪpl/#شیره افرا خوشمزه است.
+refrigerate#یخچال گذاشتن#You should refrigerate the milk.#chill#B1#rɪˈfrɪdʒəreɪt#شما باید شیر را یخچال بگذارید.
+curd#دلمه#Curd is used in making cheese.#coagulated milk#C2#/kɝːd/#از دلمه در ساخت پنیر استفاده می شود.
+thaw#ذوب شدن، آب شدن#The ice began to thaw in the sun.#melt, defrost#B2#/θɔː/#یخ در آفتاب شروع به ذوب شدن کرد.
+extract#استخراج کردن، عصاره#She read an extract from her new book.#to remove or take out#B2#/ɪkˈstrækt/#او بخشی از کتاب جدیدش را خواند.
+combine#ترکیب کردن#Combine the flour and eggs.#mix#A2#/kəmˈbaɪn/#آرد و تخم مرغ را ترکیب کنید.
+creamy#خامهای#The soup had a creamy texture.#smooth#B1#/ˈkriːmi/#سوپ یک بافت خامه ای داشت.
+directed#هدایت شده#He directed the team to a new strategy.#guided#B2#dəˈrɛktɪd#او تیم را به یک استراتژی جدید هدایت کرد.
+knead#ورز دادن#She kneaded the dough for ten minutes.#massage, press#B2#niːd#او خمیر را به مدت ده دقیقه ورز داد.
+surface#سطح#The surface of the water was calm.#exterior, face#A2#/ˈsɜːfɪs/#سطح آب آرام بود.
+thickness#ضخامت#I measured the thickness of the board.#depth#B2#ˈθɪknəs#من ضخامت تخته را اندازه‌گیری کردم
+volume#جلد، حجم#The encyclopedia has 20 volumes.#capacity#B1#ˈvɑːljuːm#دایرة المعارف 20 جلد دارد.
+decker#طبقه#The bus was a double-decker.#level#C1#ˈdɛkər#اتوبوس دو طبقه بود.
+pressing#مهم، فوری#We have a pressing deadline to meet.#urgent, crucial#B2# /ˈpresɪŋ/#ما یک مهلت فوری داریم که باید رعایت کنیم.
+press#فشار دادن، مطبوعات#Press the button to start the machine. The press covered the event widely.#push, media#B1# /pres/#دکمه را فشار دهید تا دستگاه شروع به کار کند. مطبوعات به طور گسترده این رویداد را پوشش دادند.
+raspberry#تمشک#She picked raspberries from the bush.#n/a#B1#/ˈrɑːzbəri/#او تمشک از بوته چید.
+measure#اندازه گیری#Measure the length first.#gauge, quantify#B1#/ˈmeʒər/#ابتدا طول را اندازه بگیر.
+shred#تکه‌تکه کردن#She shredded the old documents.#Tear#B1#/ʃred/#او اسناد قدیمی را خرد کرد.
+sour#ترش، بداخلاق#The milk has gone sour.#acidic#A2#/ˈsaʊər/#شیر ترش شده است.
+commercial#تجاری، بازرگانی#The commercial success of the product was unexpected.#business, trade#B1#/kəˈmɜːrʃl/#موفقیت تجاری محصول غیرمنتظره بود.
+remain#ماندن، باقی ماندن#Please remain seated until the bus stops.#stay, continue#A2#/rɪˈmeɪn/#لطفاً تا زمانی که اتوبوس کاملاً توقف نکرده، نشسته بمانید.
+prepared#آماده#She was prepared for the exam.#ready, set#B1# /prɪˈpeəd/#او برای امتحان آماده بود.
+broil#کباب کردن، بریان کردن#Let's broil the fish for dinner.#grill, barbecue#C1#brɔɪl#بیا ماهی را برای شام کباب کنیم.
+fluffy#پشمالو#The kitten had fluffy fur.#furry, soft#A2#/ˈflʌfi/#بچه گربه موهای پشمالویی داشت.
+crush#عشق شدید#She had a crush on her classmate.#Infatuation#B1#/krʌʃ/#او روی همکلاسی‌اش کراش داشت.
+packed#شلوغ و پر#The train was so packed that I couldn't find a seat.#crowded#B2#pækt#قطار آنقدر شلوغ بود که نتوانستم جایی برای نشستن پیدا کنم.
+pack#بسته بندی کردن#Pack your bags for the trip.#fill, package#A2#/pæk/#چمدانت را برای سفر ببند.
+preserve#حفظ کردن، نگهداری کردن#We must preserve our heritage.#conserve, protect#B1#/prɪˈzɜːv/#باید میراثمان را حفظ کنیم.
+streusel#اشترایزل#The coffee cake has a delicious streusel topping.#a crumbly topping#C2#ˈstruːsəl#کیک قهوه یک روکش اشترایزل خوشمزه دارد.
+upside#طرف بالا، جنبه مثبت#The upside of the plan is its low cost.#advantage#B2#ˈʌp.saɪd#جنبه مثبت برنامه هزینه کم آن است.
+invert#معکوس کردن#Invert the cake onto a plate#reverse, flip#B2#ɪnˈvɜːt#کیک را روی بشقاب برگردانید
+allow#اجازه دادن#Smoking is not allowed here.#permit, let#A2#/əˈlaʊ/#سیگار کشیدن اینجا مجاز نیست.
+seedless#بدون هسته#I prefer seedless grapes.#stoneless#B1#ˈsiːdləs#من انگور بدون هسته را ترجیح می‌دهم.
+fudge#شیرینی فاج#She made chocolate fudge for dessert.#sweet, candy#B1#/fʌdʒ/#او برای دسر شیرینی فاج شکلاتی درست کرد.
+semi#نیمه#It was a semi-detached house.#half#B2#/ˈsemi/#آن یک خانه نیمه جدا بود.
+dissolve#منحل کردن، حل شدن#Sugar dissolves in water.#melt#B2#/dɪˈzɑːlv/#شکر در آب حل می شود.
+active#فعال#She leads a very active life.#energetic, lively#A2#/ˈæktɪv/#او زندگی بسیار فعالی دارد.
+wire#سیم؛ سیم کشی کردن#The electrician fixed the broken wire.#cable#A2#/ˈwaɪər/#برقکار سیم شکسته را تعمیر کرد.
+rack#قفسه#Put the books back on the rack.#a framework for holding items#A2#/ræk/#کتاب‌ها را به قفسه برگردان.
+warmer#گرم‌تر، گرم‌کننده#The warmer weather made everyone happy.#heater#B1#ˈwɔːrmər#هوای گرم‌تر همه را خوشحال کرد.
+lukewarm#ولرم#The coffee was lukewarm.#ولرم#B2#ˈluːkwɔːrm#قهوه ولرم بود
+kill#کشتن#The hunter killed the deer.#slay, murder#A2#/kɪl/#شکارچی گوزن را کشت.
+retard#به تاخیر انداختن؛ کند کردن#Bad weather will retard our progress.#delay, hinder#C2#/rɪˈtɑːrd#هوای بد پیشرفت ما را کند خواهد کرد.
+puffy#پف‌کرده#His eyes were red and puffy from crying.#swollen, bloated#C1#/ˈpʌfi/#چشمانش از گریه قرمز و پف‌کرده بود.
+slight#کمی، ناچیز#There's a slight problem.#small, minor#B1#/slaɪt/#یک مشکل کمی وجود دارد.
+indentation#تورفتگی#The indentation in the wall was caused by a hammer.#dent#C1#ˌɪndenˈteɪʃən#تورفتگی در دیوار توسط یک چکش ایجاد شده بود
+crescent#هلال#The moon was a thin crescent.#semicircle, arc#B2#/ˈkresnt/#ماه یک هلال نازک بود.
+toward#به سمت، به طرف#She walked toward the door.#to, in the direction of#A2#/təˈwɔːd/#او به سمت در راه رفت.
+underneath#زیر، در زیر#The cat hid underneath the bed.#beneath, below#A2#/ˌʌndəˈniːθ/#گربه زیر تخت مخفی شد.
+palm#کف دست، نخل#She had a scar on her palm.#hand, tree#B1#/pɑːm/#او روی کف دستش جای زخمی داشت.
+length#طول#What is the length of the room?#distance, extent#A2#/leŋθ/#طول اتاق چقدر است؟
+barely#به زحمت، تقریباً نه#He barely passed the exam.#hardly, scarcely#B1#/ˈbeərli/#او به زحمت در امتحان قبول شد.
+knot#گره#He tied a knot in the rope.#Tie#B1#/nɑːt/#او یک گره در طناب زد.
+twist#پیچاندن، چرخش#Twist the lid to open it.#turn, rotate#B1#/twɪst/#درپوش را بپیچان تا آن را باز کنی.
+tie#بستن، کراوات#Tie your shoes.#bind, necktie#A2#/taɪ/#کفش هایت را ببند.
+diameter#قطر#The diameter of the circle is 10 centimeters.#width, breadth#B2#/daɪˈæmɪtər/#قطر دایره ۱۰ سانتی‌متر است.
+shallow#کم عمق، سطحی#The water is shallow here.#superficial#B1#/ˈʃæloʊ/#آب اینجا کم عمق است.
+anchovy#ماهی کولی#I don't like anchovies on my pizza.#small fish#C1#/ˈæntʃəvi/#من ماهی کولی روی پیتزایم دوست ندارم.
+crust#پوسته#The bread had a hard crust.#shell, layer#B1#/krʌst/#نان پوسته سختی داشت.
+unbaked#نپخته، خام#The unbaked pie crust is ready for the filling.#uncooked, raw#B1#ˌʌnˈbeɪkt#خمیر پای نپخته برای پر کردن آماده است.
+bottom#ته، پایین#The book is at the bottom of the pile.#base, lowest point#A2#/ˈbɑːtəm/#کتاب در ته پشته است.
+sesame#کنجد#Sesame seeds are often used in baking.#sesame seed#B2#ˈsesəmi#دانه‌های کنجد اغلب در پخت و پز استفاده می‌شوند.
+damp#مرطوب#The air was damp and cold.#moist#B1#dæmp#هوا مرطوب و سرد بود.
+bun#نان گرد، گیسو#She wore her hair in a bun.#a small bread roll or a hairstyle#A2#/bʌn/#او موهایش را به صورت یک گیسو بسته بود.
+portion#بخش#A portion of the profits goes to charity.#part, share#B2#/ˈpɔːrʃn/#بخشی از سود به خیریه می‌رود.
+hawaiian#اهل هاوایی#She wore a traditional Hawaiian lei.##B1#/həˈwaɪən/#او گردنبند سنتی هاوایی پوشیده بود.
+among#در میان، بین#He was among the first to arrive.#amidst, between#A2#/əˈmʌŋ/#او از جمله اولین کسانی بود که رسید.
+rolling#در حال غلتیدن#The rolling hills of the countryside were beautiful.#undulating, tumbling#B2#ˈrəʊlɪŋ#تپه‌های در حال غلتیدن حومه شهر زیبا بودند.
+substitute#جایگزین#Use honey as a sugar substitute.#replacement, alternative#B1#/ˈsʌbstɪtjuːt/#عسل را به عنوان جایگزین شکر استفاده کنید.
+favorite#محبوب#Pizza is my favorite food.#beloved#A1#ˈfeɪvərɪt#پیتزا غذای مورد علاقه من است.
+berry#توت#She picked fresh berries from the garden.#Fruit#A2#/ˈberi/#او توت‌های تازه از باغ چید.
+envelope#پاکت نامه#She sealed the envelope.#wrapper#A2#/ˈenvəloʊp/#او پاکت نامه را مهر و موم کرد.
+gelatin#ژلاتین#Gelatin is used to make jelly.#gelling agent#C1#ˈdʒɛlətɪn#ژلاتین برای ساختن ژله استفاده می‌شود.
+tartar#جرم دندان#If you don't brush properly, plaque hardens into tartar.#calculus#C2#/ˈtɑːrtər/#اگر درست مسواک نزنید، پلاک سفت شده و به جرم دندان تبدیل می شود.
+mound#تپه#The grave was marked by a small mound of earth.#a small hill#C1#maʊnd#قبر با یک تپه کوچک از خاک مشخص شده بود.
+frothy#کف‌دار#The waves were frothy as they hit the shore.#foamy#C1#ˈfrɔθi#موج‌ها در هنگام برخورد به ساحل کف‌دار بودند.
+meringue#مرنگ#She decorated the cake with meringue.#شیرینی سفیده تخم مرغ#C2#məˈræŋ#او کیک را با مرنگ تزیین کرد.
+carefully#با دقت#Handle the glass carefully.#cautiously, attentively#A2#/ˈkeəfəli/#با احتیاط با لیوان برخورد کن.
+pile#انباشته، پشته#A pile of books was on the desk.#heap, stack#B1#/paɪl/#یک انباشته از کتاب ها روی میز بود.
+shell#پوسته، صدف#She collected shells on the beach.#carapace#A2#/ʃel/#او صدف ها را در ساحل جمع کرد.
+chill#سرما، آرامش#There's a chill in the autumn air#coldness, coolness#A2#tʃɪl#در هوای پاییزی سرما احساس می‌شود
+heel#پاشنه#Her high heels clicked on the floor.#Foot#A2#/hiːl/#پاشنه‌بلندهای او روی زمین صدا می‌کرد.
+evenly#به طور یکنواخت#The cake was baked evenly.#uniformly#B2#ˈiːvənli#کیک به طور یکنواخت پخته شد.
+seem#به نظر رسیدن#He seems tired after his long journey.#appear, look#A2#/siːm/#او بعد از سفر طولانی‌اش خسته به نظر می‌رسد.
+skimpy#ناقص، اندک؛ تنگ و کوتاه#Her skimpy outfit left very little to the imagination.#meager, scanty; revealing#C1#ˈskɪm.pi#لباس کوتاه او چیز کمی را برای تصور باقی می‌گذاشت.
+flute#فلوت#She played the flute beautifully.#Wind instrument#A2#/fluːt/#او زیبا فلوت نواخت.
+cobbler#کفاش#I took my shoes to the cobbler to be repaired.#shoemaker#B1#ˈkɑːblər#کفش‌هایم را برای تعمیر نزد کفاش بردم
+flatten#صاف کردن#He used a roller to flatten the dough.#make flat, press down#B2#ˈflætn#او از یک وردنه برای صاف کردن خمیر استفاده کرد.
+ranch#مزرعه بزرگ پرورش حیوانات#He works on a cattle ranch in Texas.#farm, homestead#B2#ræntʃ#او در یک مزرعه بزرگ پرورش گاو در تگزاس کار می‌کند.
+pudding#پودینگ (دسر)#Chocolate pudding is my favorite dessert.##B1#/ˈpʊd.ɪŋ/#پودینگ شکلاتی دسر مورد علاقه من است.
+replace#جایگزین کردن#Please replace the book on the shelf.#put back, substitute#A2#/rɪˈpleɪs#لطفاً کتاب را روی قفسه بگذار.
+piping#لوله کشی، صدای سوت#The piping hot tea was perfect.#hot, whistle sound#B2#ˈpaɪpɪŋ#چای داغ لوله کشی شده عالی بود.
+tiny#بسیار کوچک#A tiny insect crawled on the leaf.#minute#A2#/ˈtaɪni/#یک حشره بسیار کوچک روی برگ خزید.
+flake#پولک، تکه#Snowflakes fell gently from the sky.#chip, fragment#A2#/fleɪk/#دانه‌های برف به آرامی از آسمان می‌باریدند.
+pronto#فوراً، سریع#I need that report pronto.#immediately#B2#/ˈprɒntəʊ/#من آن گزارش را فوراً می‌خواهم.
+miniature#مینیاتوری؛ کوچک#He collects miniature models of cars.#tiny#B2#/ˈmɪnətʃər/#او مدل های مینیاتوری ماشین ها را جمع می کند.
+reheat#دوباره گرم کردن#Can you reheat the soup for me?#warm up#B1#riːˈhiːt#می‌توانی سوپ را برای من دوباره گرم کنی؟
+absorbent#جاذب#Use an absorbent cloth to clean up the spill.#porous#C#əbˈzɔːr.bənt#از یک پارچه جاذب برای پاک کردن ریخته‌ شده استفاده کن.
+fritter#پول یا وقت را هدر دادن#Don't fritter away your money on silly things.#waste, squander#C1#ˈfrɪtər#پول خود را برای چیزهای بیهوده هدر نده.
+teaspoonful#یک قاشق چایخوری#Add a teaspoonful of sugar.#(no common synonym)#A2#/ˈtiːspuːnfʊl/#یک قاشق چایخوری شکر اضافه کنید.
+dozen#دوجین، دوازده تا#I bought a dozen eggs.#twelve#A2#/ˈdʌzn/#من یک دوجین تخم مرغ خریدم.
+crispiest#تردترین، شکننده‌ترین#He always orders the crispiest bacon.#crunchiest#C1#/ˈkrɪspiəst/#او همیشه تردترین بیکن را سفارش می‌دهد.
+coating#پوشش#The pills have a special coating.#layer#B1#ˈkoʊtɪŋ#قرص‌ها یک پوشش خاص دارند
+amount#مقدار، مقدار#A large amount of snow fell last night.#quantity#A2#əˈmaʊnt#مقدار زیادی برف دیشب بارید.
+leftover#باقی مانده#We ate the leftovers for lunch.#remains, remnants#B1#/ˈleftˌoʊvər/#ما باقی مانده ها را برای ناهار خوردیم.
+transcriber#رونویس کننده#She works as a medical transcriber.#copyist, typist#C2#trænˈskraɪbər#او به عنوان یک رونویس کننده پزشکی کار می‌کند.
+silently#بی صدا، ساکت#They worked silently.#quietly#A2#ˈsaɪləntli#آن‌ها بی‌صدا کار کردند.
+collate#مرتب کردن#Please collate these documents before filing them.#arrange#C1#kəˈleɪt#لطفاً این اسناد را قبل از بایگانی مرتب کنید.
+actual#واقعی#The actual cost was higher than estimated.#real, true#B1#/ˈæktʃuəl/#هزینه واقعی بیشتر از برآورد بود.
+link#پیوند#There is a link between them.#connection, bond#B1#/lɪŋk/#بین آن‌ها ارتباطی وجود دارد.
+though#اگرچه، با این حال#Though it was raining, we went for a walk.#although, even if#B1#/ðəʊ/#اگرچه باران می‌آمد، ما به پیاده‌روی رفتیم.
+consistent#پایدار، ثابت#Her work has been of a consistent high quality.#steady, constant#B1#/kənˈsɪs.tənt/#کار او همیشه از کیفیت بالای پایدار برخوردار بوده است.
+retain#نگهداری کردن#The company aims to retain its employees.#Keep#B2#/rɪˈteɪn/#شرکت هدف دارد کارکنان خود را حفظ کند.
+publication#انتشار#The publication date is next month.#issuing, printing#B1#/ˌpʌblɪˈkeɪʃən/#تاریخ انتشار ماه آینده است.
+printed#چاپ شده#He gave me a printed copy of the report.#hard copy#A2#/ˈprɪntɪd/#او یک نسخه چاپ شده از گزارش به من داد.
+edition#ویرایش#This is the new edition of the book.#Version#B1#/ɪˈdɪʃn/#این چاپ جدید کتاب است.
+domain#حوزه#This is outside my domain.#area, field#C1#/doʊˈmeɪn#این خارج از حوزه من است.
+version#نسخه#Download the latest app version.#Edition#B1#/ˈvɜːrʒn/#آخرین نسخه برنامه را دانلود کن.
+italic#ایتالیک#Use italic text for emphasis.#Slanted#B1#/ɪˈtælɪk/#برای تأکید از متن کج استفاده کن.
+delimit#محدود کردن#We need to delimit the scope of the research.#define, set boundaries#C2#dɪˈlɪmɪt#ما باید محدوده تحقیق را محدود کنیم.
+quicker#سریع‌تر#He ran quicker than anyone else in the race.#faster, more rapidly#A2#ˈkwɪkər#او سریع‌تر از هر کس دیگری در مسابقه دوید.
+homemade#خانگی، دست ساز#She brought homemade cookies to the party.#home-cooked, handmade#A2#/ˌhoʊmˈmeɪd/#او کلوچه های خانگی به مهمانی آورد.
+updated#به‌روز شده#The updated information is available online.#current, renewed#B1#ˈʌpdeɪtɪd#اطلاعات به‌روز شده آنلاین در دسترس است.
+previous#قبلی#The previous owner of the house left a note.#former#A2#/ˈpriːviəs/#صاحب قبلی خانه یک یادداشت گذاشت.
+rename#تغییر نام دادن#They decided to rename the company.#rechristen, rebrand#B1#/ˌriːˈneɪm/#آنها تصمیم گرفتند نام شرکت را تغییر دهند.
+print#چاپ کردن#The book was printed last year.#publish, impress#A2#/prɪnt/#کتاب سال گذشته چاپ شد.
+protected#محافظت شده#The protected species lives in this forest.#safeguarded#B1#/prəˈtektɪd/#گونه محافظت شده در این جنگل زندگی می‌کند.
+copyright#حق تکثیر#The material is protected by copyright.#intellectual property#B1#/ˈkɒpiraɪt/#محتوا تحت حمایت حق تکثیر است.
+law#قانون#Everyone must obey the law.#rule, regulation#A2#/lɔː/#همه باید از قانون اطاعت کنند.
+united#متحد#The team was united in its goal to win the championship.#unified, cohesive, collaborative#B1#juˈnaɪtɪd#تیم برای برنده شدن در مسابقات قهرمانی متحد بود.
+foundation#بنیان#The foundation of the house is strong.#base, groundwork#B1#/faʊnˈdeɪʃn/#بنیان خانه محکم است.
+copy#کپی، رونوشت#Please make a copy of this document.#duplicate, replica#A2#/ˈkɒpi/#لطفاً یک کپی از این سند بگیر.
+distribute#توزیع کردن#They distributed food to the poor.#Dispense#B1#/dɪˈstrɪbjuːt/#آنها غذا را بین فقرا توزیع کردند.
+state#حالت، وضعیت، ایالت#The building is in a poor state.#condition, situation#A2#/steɪt/#ساختمان در وضعیت بدی قرار دارد.
+permission#اجازه#You need permission to access this.#Authorization#B1#/pərˈmɪʃ.ən/#برای دسترسی به این نیاز به اجازه دارید.
+royalty#خانواده سلطنتی، حق امتیاز#The royalty attended the ceremony.#monarchy, fee#C1#/ˈrɔɪəlti/#خاندان سلطنتی در مراسم شرکت کردند.
+forth#به جلو، بیرون#He went forth into the unknown.#forward, out#C1#/fɔːθ/#او به سوی ناشناخته ها رفت.
+term#اصطلاح، ترم#What is the technical term for this?#word, expression#A2#/tɜːm/#اصطلاح فنی این چیست؟
+apply#اعمال کردن، درخواست دادن#Apply the cream to the affected area.#put on, request#A2#/əˈplaɪ/#کرم را روی ناحیه آسیب‌دیده بمالید.
+electronic#الکترونیکی#I bought an electronic gadget.#Digital#B1#/ɪˌlekˈtrɑːnɪk/#یک وسیله الکترونیکی خریدم.
+protect#محافظت کردن#We must protect the environment.#guard, defend#A2#/prəˈtekt/#ما باید از محیط زیست محافظت کنیم.
+concept#مفهوم#The concept is hard to understand.#Idea#B2#/ˈkɒnsept/#این مفهوم سخت است که درک شود.
+trademark#علامت تجاری#Nike's swoosh is a famous trademark.#brand, logo#C1#/ˈtreɪdmɑːrk/#لوگوی نایک یک علامت تجاری معروف است.
+register#ثبت کردن#You need to register for the course online.#Enroll#A2#/ˈredʒɪstə/#باید برای این دوره به صورت آنلاین ثبت‌نام کنی.
+used#استفاده‌شده#I bought a used car.#secondhand, pre-owned#A2#juːzd#من یک ماشین استفاده‌شده خریدم.
+charge#اتهام، شارژ کردن#He faces a charge of theft.#accusation, fee#B1#/tʃɑːrdʒ/#او با اتهام دزدی روبرو است.
+paying#پرداخت کردن#He is paying the bill.#remunerative, profitable#B1#ˈpeɪɪŋ#او در حال پرداخت صورت‌حساب است
+comply#مطابقت کردن، پیروی کردن#You must comply with the rules.#obey, conform#C1#/kəmˈplaɪ/#تو باید با قوانین مطابقت کنی.
+nearly#تقریباً#I nearly missed the bus.#almost, practically#A2#/ˈnɪrli/#من تقریباً اتوبوس را از دست دادم.
+purpose#هدف، مقصود#What is the purpose of your visit?#aim, intention#A2#/ˈpɜːpəs/#هدف از بازدید شما چیست؟
+creation#آفرینش#The artist's latest creation is a sculpture.#making, invention#B2#/kriˈeɪʃn/#آخرین اثر هنرمند یک مجسمه است.
+derivative#مشتق، تقلیدی#The film was derivative and unoriginal.#unoriginal#C2#/dɪˈrɪvətɪv/#فیلم تقلیدی و غیراصیل بود.
+research#تحقیق، پژوهش#He is doing research in biology.#investigation#A2#/ˈriːsɜːrtʃ/#او در حال انجام تحقیق در زمینه زیست شناسی است.
+modified#تغییر یافته#The modified car was much faster.#changed#B2#/ˈmɑːdəfaɪd/#ماشین تغییر یافته بسیار سریع‌تر بود.
+practically#عملاً#He practically lives at the gym.#virtually#B1#/ˈpræktɪkli/#او عملاً در سالن ورزش زندگی می کند.
+redistribution#توزیع مجدد، بازتوزیع#The government discussed the redistribution of wealth.#reallocation#C2#/ˌriːdɪstrɪˈbjuːʃn/#دولت در مورد بازتوزیع ثروت بحث کرد.
+especially#به ویژه، مخصوصاً#I love flowers, especially roses.#particularly, specially#A2#/ɪˈspeʃəli/#من عاشق گل ها هستم، به ویژه رز.
+promote#ترویج دادن#The company aims to promote healthy eating habits.#Encourage#B2#/prəˈməʊt/#شرکت قصد دارد عادات غذایی سالم را ترویج دهد.
+distribution#توزیع#The distribution of resources is unfair.#allocation, dissemination#C1#/ˌdɪstrɪˈbjuːʃn/#توزیع منابع ناعادلانه است.
+associate#همکار#She’s a business associate of mine.#Colleague#B2#/əˈsəʊʃieɪt/#او یک همکار تجاری من است.
+available#در دسترس#Is this book available?#obtainable, accessible#A2#/əˈveɪləbl/#آیا این کتاب در دسترس است؟
+redistribute#توزیع مجدد#The government will redistribute the land.#reallocate#C2#/ˌriːdɪˈstrɪbjuːt/#دولت زمین را توزیع مجدد خواهد کرد.
+indicate#نشان دادن، اشاره کردن#The sign indicates the way to the exit.#show, point to#B1#/ˈɪndɪkeɪt/#علامت راه خروج را نشان می دهد.
+accept#پذیرفتن#Please accept my apology.#receive, agree to#A2#/əkˈsept/#لطفاً عذرخواهی مرا بپذیر.
+intellectual#فکری، روشنفکر#She is an intellectual person.#cerebral#B2#/ˌɪntəˈlektʃuəl/#او یک فرد فکری است.
+property#ملک، دارایی#He owns several properties.#possession, asset#B1#/ˈprɒpəti/#او چندین ملک دارد.
+agreement#توافق، قرارداد#We have an agreement.#pact, contract#B1#/əˈɡriːmənt/#ما یک توافق داریم.
+abide#تحمل کردن#I cannot abide his rudeness.#tolerate#C2#/əˈbaɪd/#من نمی توانم بی ادبی او را تحمل کنم.
+cease#متوقف کردن#The factory will cease operations.#stop, discontinue#B2#/siːs/#کارخانه عملیات را متوقف خواهد کرد.
+destroy#نابود کردن#The fire destroyed the building.#demolish, ruin#A2#/dɪˈstrɔɪ/#آتش‌سوزی ساختمان را نابود کرد.
+possession#مالکیت#The car is his possession.#Ownership#B1#/pəˈzeʃn/#ماشین مالکیت اوست.
+obtain#به دست آوردن#You need to obtain a permit.#get, acquire#B1#/əbˈteɪn/#برای ورود باید مجوز بگیری.
+access#دسترسی#The security code grants access to the building.#entry#A2#ˈæk.ses#کد امنیتی دسترسی به ساختمان را می‌دهد.
+refund#بازپرداخت#The store issued a refund for the defective product.#Reimbursement#B2#/ˈriːfʌnd/#فروشگاه برای کالای معیوب بازپرداخت کرد.
+entity#وجود#The company is a separate legal entity.#being#C1#/ˈentəti/#شرکت یک نهاد قانونی جداگانه است.
+literary#ادبی#She has a literary style of writing.#related to literature#B1#/ˈlɪtərəri/#او سبک نوشتاری ادبی دارد.
+compilation#گردآوری#The album is a compilation of their greatest hits.#collection#C1#/ˌkɑːmpɪˈleɪʃn/#این آلبوم گردآوری از بزرگترین ترانه های آنهاست.
+locate#مکان یابی کردن#Can you locate the city on the map?#find, pinpoint#B1#/ləʊˈkeɪt/#آیا می توانی شهر را روی نقشه مکان یابی کنی؟
+perform#اجرا کردن#She will perform a song.#do, execute#B1#/pərˈfɔːrm/#او یک آهنگ اجرا خواهد کرد.
+based#مبتنی بر#The movie is based on a true story.#founded on#B2#beɪst#این فیلم بر اساس یک داستان واقعی است.
+reference#مرجع#Use this book as a reference.#citation, source#B1#/ˈrefrəns/#از این کتاب به عنوان مرجع استفاده کن.
+removed#برداشته شده#The stain was completely removed from the carpet.#eliminated#B1#rɪˈmuːvd#لکه به طور کامل از روی فرش برداشته شد.
+freely#آزادانه#You can speak freely here.#openly, without restriction#B1#/ˈfriːli/#اینجا می توانی آزادانه صحبت کنی.
+compliance#اجابت، پیروی#Compliance with the rules is mandatory.#obedience#C1#kəmˈplaɪəns#پیروی از قوانین اجباری است.
+easily#به آسانی#He won easily.#without difficulty, readily#A2#/ˈiːzəli/#او به آسانی برنده شد.
+format#قالب#She used a specific format for the report.#structure#B1#/ˈfɔːrmæt/#او از قالب خاصی برای گزارش استفاده کرد.
+attach#ضمیمه کردن#Attach the file to the email.#fasten, connect#B1#/əˈtætʃ/#فایل را به ایمیل پیوست کن.
+govern#حکومت کردن، اداره کردن#Laws govern the country.#rule#B2#/ˈɡʌvərn/#قوانین کشور را اداره می کنند.
+constant#ثابت، دائمی#He was in constant pain.#continuous, steady#B1#/ˈkɒnstənt/#او در درد دائمی بود.
+addition#علاوه، جمع#In addition, I would like to say...#also, supplement#A2#/əˈdɪʃn/#علاوه بر این، من می خواهم بگویم...
+representation#بازنمایی، نمایندگی#The painting is a representation of a biblical scene.#depiction, portrayal#B2#/ˌreprɪzenˈteɪʃn/#نقاشی بازنمایی یک صحنه کتاب مقدس است.
+concern#نگرانی، مربوط بودن#His health is my main concern.#worry, care#B1#/kənˈsɜːn/#سلامتی او نگرانی اصلی من است.
+status#وضعیت#What's your marital status?#condition, standing#A2#/ˈsteɪtəs/#وضعیت تأهلی شما چیست؟
+unless#مگر اینکه#You can't come in unless you have an invitation.#except if, if not#A2#ənˈles#نمی‌توانی وارد شوی مگر اینکه دعوت‌نامه داشته باشی.
+following#پیروی، پیروان#He has a large following on social media.#supporters#B1#ˈfɑːloʊɪŋ#او پیروان زیادی در رسانه‌های اجتماعی دارد.
+immediate#فوری#We need an immediate response.#instant, prompt#B1#/ɪˈmiːdiət/#ما به پاسخ فوری نیاز داریم.
+prominently#به طور برجسته#His photo was displayed prominently in the newspaper.#conspicuously, noticeably#C1#/ˈprɑːmɪnəntli/#عکس او به طور برجسته در روزنامه به نمایش گذاشته شد.
+whenever#هر وقت#Call me whenever you need help.#any time, at any time#A2#wenˈevər#هر وقت به کمک نیاز داشتی، به من زنگ بزن.
+restriction#محدودیت#There are travel restrictions due to COVID.#limitation, constraint#B1#/rɪˈstrɪkʃən/#به دلیل کووید محدودیت‌های مسافرتی وجود دارد.
+whatsoever#هرگز#There is no reason whatsoever to do that.#at all, in any way#B2#ˌwɑːtsəʊˈevər#هیچ دلیلی هرگز برای انجام آن کار وجود ندارد.
+derive#ناشی شدن#Many English words derive from Latin.#originate, stem#B2#/dɪˈraɪv/#بسیاری از کلمات انگلیسی از لاتین ناشی می‌شوند.
+contain#حاوی بودن، شامل شدن#The box contains toys.#hold, include#A2#/kənˈteɪn/#جعبه حاوی اسباب بازی است.
+notice#متوجه شدن، اعلان#Did you notice the change?#observe, see#A2#/ˈnəʊtɪs/#آیا متوجه تغییر شدی؟
+holder#دارنده#The holder of the winning ticket was announced.#دارنده#B1#/ˈhoʊldər/#دارنده بلیط برنده اعلام شد.
+either#هر دو، هر یک#You can take either road to the city centre.#one or the other#B1#ˈaɪðər#شما می‌توانید از هر دو جاده به مرکز شهر بروید.
+impose#تحمیل کردن#They imposed a new tax.#levy#B2#/ɪmˈpoʊz/#آن‌ها مالیات جدیدی وضع کردند.
+unlink#جدا کردن#You can unlink the two accounts easily.#disconnect#B2#/ˌʌnˈlɪŋk/#می توانید دو حساب را به راحتی جدا کنید.
+detach#جدا کردن#Detach the form and return it.#separate#C1#dɪˈtætʃ#فرم را جدا کنید و آن را برگردانید.
+convert#تبدیل کردن#They converted the attic into a room.#change, transform#B2#/kənˈvɜːrt/#آنها شیروانی را به یک اتاق تبدیل کردند.
+binary#دودویی#Computers use binary code to process data.#-#B2#/ˈbaɪnəri/#کامپیوترها از کد دودویی برای پردازش داده ها استفاده می کنند.
+compress#فشرده کردن#He compressed the file to save space.#squeeze#B2#kəmˈprɛs#او فایل را برای صرفه جویی در فضا فشرده کرد.
+marked#مشهود، آشکار#There was a marked improvement in his performance.#noticeable#B2#mɑːrkt#یک بهبود آشکار در عملکرد او وجود داشت.
+proprietary#مالکیتی#This software uses a proprietary file format.#owned#C1#/prəˈpraɪəteri/#این نرم افزار از یک فرمت فایل مالکیتی استفاده می کند.
+hypertext#ابر متن#Hypertext allows you to jump between documents.#-#B2#/ˈhaɪpərtekst/#ابر متن به شما امکان می دهد بین اسناد پرش کنید.
+provide#فراهم کردن، تأمین کردن#The school provides books.#supply, furnish#B1#/prəˈvaɪd/#مدرسه کتاب ها را فراهم می کند.
+website#وب سایت#I found the information on their website.#site, web page#A2#/ˈwebsaɪt/#من اطلاعات را در وب سایت آنها پیدا کردم.
+expense#هزینه#The expense was too high.#cost, expenditure#B1#/ɪkˈspens/#هزینه بیش از حد بالا بود.
+user#کاربر#The user logged into the app.#Consumer#A2#/ˈjuːzər/#کاربر وارد برنامه شد.
+upon#بر روی، بر#The story is based upon true events.#on, on top of#B2#/əˈpɒn/#داستان بر اساس وقایع واقعی است.
+request#درخواست، درخواست کردن#I have a request to make.#ask, appeal#A2#/rɪˈkwest/#درخواستی دارم که مطرح کنم.
+original#اصلی#This is the original painting.#first, authentic#B1#/əˈrɪdʒənl/#این نقاشی اصلی است.
+alternate#متناوب، جایگزین#We meet on alternate Saturdays.#rotating, every other#B2#/ˈɔːltərnət/#ما یک‌شنبه در میان ملاقات می‌کنیم.
+specify#مشخص کردن، تعیین کردن#Please specify your date of birth on the form.#state, define#B2#/ˈspesɪfaɪ/#لطفاً تاریخ تولد خود را در فرم مشخص کنید.
+reasonable#منطقی#The price seems reasonable.#Fair#B1#/ˈriːznəbl/#قیمت منطقی به نظر می‌رسد.
+gross#ناخالص، کل#The gross weight includes the packaging.#total, whole#B2#ɡroʊs#وزن ناخالص شامل بسته بندی می شود.
+profit#سود، منفعت#The company made a large profit this year.#gain#B2#ˈprɑːfɪt#شرکت امسال سود زیادی کرد.
+calculated#محاسبه شده، از پیش تعیین شده#His actions were a calculated risk.#deliberate, planned#B2#ˈkælkjʊleɪtɪd#اقدامات او یک ریسک محاسبه شده بود.
+method#روش، شیوه#What is your method for solving this?#technique#A2#ˈmeθəd#روش تو برای حل این چیست؟
+already#قبلاً، از قبل#I have already seen that movie.#previously, before#A2#/ɔːlˈredi/#من قبلاً آن فیلم را دیده‌ام.
+calculate#محاسبه کردن#Can you calculate the total cost?#Compute#A2#/ˈkælkjʊleɪt/#می‌توانی هزینه کل را محاسبه کنی؟
+applicable#قابل اجرا#This rule is not applicable here.#relevant#B2#/əˈplɪkəbl/#این قانون اینجا قابل اجرا نیست.
+tax#مالیات#We have to pay taxes.#duty, levy#A2#/tæks/#ما باید مالیات بپردازیم.
+owe#بدهکار بودن#I owe you ten dollars.#Be indebted#B1#/əʊ/#من ده دلار به تو بدهکارم.
+owner#مالک#The owner of the shop was friendly.#Proprietor#A2#/ˈəʊnə/#صاحب فروشگاه دوستانه بود.
+donate#اهدا کردن، بخشیدن#They donate to charity every year.#give#B2#ˈdoʊneɪt#آن‌ها هر سال به خیریه اهدا می‌کنند.
+payment#پرداخت#I made the payment online.#remittance#A2#/ˈpeɪmənt/#من پرداخت را آنلاین انجام دادم.
+within#در داخل، درون#The answer lies within yourself.#inside, in#A2#/wɪˈðɪn/#پاسخ در درون خودت نهفته است.
+legally#از نظر قانونی#The document is legally binding.#lawfully#B2#/ˈliː.ɡəl.i/#این سند از نظر قانونی الزام آور است.
+required#مورد نیاز#The required documents were submitted on time.#necessary#B1#rɪˈkwaɪərd#مدارک مورد نیاز به موقع ارائه شد.
+periodic#دوره ای#The doctor recommended periodic check-ups.#regular#C1#/ˌpɪriˈɒdɪk/#دکتر معاینه های دوره ای را توصیه کرد.
+clearly#به وضوح#Speak clearly please.#distinctly, obviously#A2#/ˈklɪrli/#لطفاً به وضوح صحبت کن.
+mark#علامت، نشان#He left a mark on the wall with his muddy shoes.#stain#A2#mɑːrk#او با کفش های گلی خود علامتی روی دیوار گذاشت.
+donation#اهدا#They made a donation to charity.#contribution, gift#B2#/doʊˈneɪʃn/#آن‌ها به خیریه کمک کردند.
+notify#اعلام کردن#The school will notify parents about the trip.#inform#B2#/ˈnəʊtɪfaɪ/#مدرسه به والدین در مورد سفر اعلام خواهد کرد.
+receipt#رسید#Keep the receipt in case you need to return the item.#Proof of purchase#A2#/rɪˈsiːt/#رسید را نگه دار در صورتی که نیاز به مرجوع کردن کالا داشتی.
+require#نیاز داشتن#This job requires patience.#need, demand#B1#/rɪˈkwaɪər/#این شغل به صبر نیاز دارد.
+possess#دارا بودن#He possesses great skill.#have, own#B1#pəˈzes#او مهارت زیادی دارا است.
+physical#فیزیکی، جسمی#Physical exercise is important.#bodily#A2#/ˈfɪzɪkl/#ورزش بدنی مهم است.
+discontinue#متوقف کردن#The company decided to discontinue the product.#stop#C1#/ˌdɪskənˈtɪnjuː/#شرکت تصمیم گرفت محصول را متوقف کند.
+accordance#مطابقت#Act in accordance with the rules.#agreement, conformity#C1#/əˈkɔːrdns#مطابق با قوانین عمل کن.
+replacement#جایگزین#We need a replacement for the broken window.#substitute#B2#rɪˈpleɪsmənt#برای پنجره شکسته نیاز به جایگزین داریم.
+defect#نقص، عیب#The product has a defect.#flaw, fault#B2#/ˈdiːfekt/#محصول یک نقص دارد.
+discover#کشف کردن#Columbus discovered America.#find#A2#/dɪˈskʌvər/#کلمبوس آمریکا را کشف کرد.
+wish#آرزو کردن، خواستن#I wish to travel the world someday.#desire, want#A2#/wɪʃ/#آرزو دارم روزی دنیا را بگردم.
+contact#تماس#Please contact me later.#get in touch, connection#A2#/ˈkɑːntækt/#لطفاً بعداً با من تماس بگیر.
+volunteer#داوطلب#She works as a volunteer at the animal shelter.#unpaid worker#B1#/ˌvɑːlənˈtɪr/#او به عنوان داوطلب در پناهگاه حیوانات کار می‌کند.
+employee#کارمند، پرسنل#The company has over a thousand employees.#worker, staff#A2#/ɪmˈplɔɪiː/#شرکت بیش از هزار کارمند دارد.
+expend#صرف کردن#They expended great effort.#spend#C1#/ɪkˈspend/#آن‌ها تلاش زیادی کردند.
+considerable#قابل توجه#A considerable amount of time was spent.#significant, substantial#B2#/kənˈsɪdərəbl/#مقدار قابل توجهی زمان صرف شد.
+effort#تلاش#He put a lot of effort into it.#attempt, endeavor#A2#/ˈefərt/#او تلاش زیادی در آن کرد.
+identify#شناسایی کردن#Can you identify the person in this photograph?#recognize#A2#/aɪˈdentɪfaɪ/#آیا می توانید فرد در این عکس را شناسایی کنید؟
+transcribe#رونویسی کردن#She had to transcribe the interview.#copy out#C1#/trænˈskraɪb/#او مجبور بود مصاحبه را رونویسی کند.
+proofread#بازخوانی، غلط گیری#Please proofread this document for any errors.#check, edit#B2#/ˈpruːfriːd/#لطفاً این سند را برای هرگونه اشتباهی بازخوانی کن.
+despite#علی رغم#Despite the rain, we went out.#in spite of, notwithstanding#B1#/dɪˈspaɪt/#علی رغم باران، ما بیرون رفتیم.
+limited#محدود#We have a limited supply of these products.#restricted#B1#ˈlɪmɪtɪd#ما یک عرضه محدود از این محصولات داریم
+incomplete#ناقص#The report is incomplete.#partial#B2#/ˌɪnkəmˈpliːt/#گزارش ناقص است.
+inaccurate#نادرست#The report contained inaccurate data.#Incorrect#B2#/ɪnˈækjʊrət/#گزارش حاوی اطلاعات نادرست بود.
+corrupt#فاسد#The corrupt official was arrested.#Dishonest#B2#/kəˈrʌpt/#مقام فاسد دستگیر شد.
+transcription#رونویسی#The transcription of the speech took several hours.#copying#C1#/trænˈskrɪpʃn/#رونویسی سخنرانی چندین ساعت طول کشید.
+infringement#تخلف#This is an infringement of the rules.#violation#C1#/ɪnˈfrɪndʒmənt/#این یک تخلف از قوانین است.
+defective#معیوب#The product was defective and was returned.#faulty, flawed#C1#/dɪˈfektɪv/#محصول معیوب بود و برگردانده شد.
+damaged#آسیب دیده، خراب#The damaged car was sent to the repair shop.#broken, harmed#A2#ˈdæmɪdʒd#ماشین آسیب دیده به تعمیرگاه فرستاده شد.
+damage#آسیب، خسارت#The storm caused much damage.#harm, destruction#B1#/ˈdæmɪdʒ/#طوفان خسارات زیادی به بار آورد.
+equipment#تجهیزات#The equipment is very expensive.#apparatus#A2#/ɪˈkwɪpmənt/#تجهیزات بسیار گران است.
+warranty#ضمانت نامه#The laptop comes with a one-year warranty.#guarantee#B2#/ˈwɔːrənti/#لپ تاپ با یک ضمانت نامه یک ساله می آید.
+disclaimer#سلب مسئولیت#The website included a disclaimer about the use of its content.#denial of responsibility#B2#/dɪsˈkleɪmər/#وب‌سایت شامل یک سلب مسئولیت در مورد استفاده از محتوایش بود
+disclaim#انکار کردن#He disclaimed any responsibility.#deny, renounce#C2#/dɪsˈkleɪm/#او هرگونه مسئولیتی را رد کرد.
+liability#مسئولیت، بدهی#The company has huge liabilities.#debt, responsibility#C1#/ˌlaɪəˈbɪləti/#شرکت بدهی های عظیمی دارد.
+legal#قانونی#Is it legal to park here?#lawful, legitimate#B1#/ˈliːɡl/#اینجا پارک کردن قانونی است؟
+remedy#درمان#This is a natural remedy for colds.#Cure#B1#/ˈremədi/#این یک درمان طبیعی برای سرماخوردگی است.
+negligence#بی احتیاطی، قصور#The accident was caused by negligence.#carelessness#C1#/ˈneɡ.lɪ.dʒəns/#حادثه ناشی از بی احتیاطی بود.
+strict#سخت‌گیر#The teacher is very strict about rules.#Severe#B1#/strɪkt/#معلم درباره قوانین بسیار سختگیر است.
+breach#نقض، شکاف#This is a breach of the contract.#violation#C1#briːtʃ#این نقض قرارداد است.
+contract#قرارداد، منقبض شدن#Sign the contract here.#agreement, shrink#B1#/ˈkɑːntrækt/#قرارداد را اینجا امضا کن.
+distributor#توزیع کننده#He is the sole distributor for the region.#supplier#B2#/dɪˈstrɪbjətə(r)/#او توزیع کننده انحصاری برای منطقه است.
+liable#مسئول، مستعد#You are liable for any damage.#responsible, likely#C1#/ˈlaɪəbl#تو مسئول هرگونه خسارت هستی.
+indirect#غیرمستقیم#Her answer was indirect and vague.#Roundabout#B2#/ˌɪn.dɪˈrekt/#پاسخ او غیرمستقیم و مبهم بود.
+consequential#مهم#It was a consequential decision.#significant#C2#/ˌkɑːnsɪˈkwenʃl/#این یک تصمیم مهم بود.
+punitive#تنبیهی#The government imposed punitive tariffs.#penal#C1#/ˈpjuːnətɪv/#دولت تعرفه های تنبیهی اعمال کرد.
+incidental#ضمنی#The trip involved incidental expenses.#secondary#C1#/ˌɪnsɪˈdentl/#سفر شامل هزینه های ضمنی بود.
+possibility#امکان#There is a possibility of rain.#chance, likelihood#B1#/ˌpɑːsəˈbɪləti/#احتمال باران وجود دارد.
+receive#دریافت کردن#Did you receive my letter?#get, obtain#A2#/rɪˈsiːv/#آیا نامه من را دریافت کردی؟
+explanation#توضیح#I need an explanation.#clarification, account#A2#/ˌekspləˈneɪʃn/#به توضیح نیاز دارم.
+elect#انتخاب کردن#They will elect a new leader.#choose#B2#/ɪˈlekt/#آنها یک رهبر جدید انتخاب خواهند کرد.
+lieu#به جای#He took cash in lieu of the prize.#instead of#C1#/luː/#او به جای جایزه پول نقد گرفت.
+electronically#به صورت الکترونیکی#The document was sent electronically.#digitally#B1#/ɪˌlekˈtrɒnɪkli/#سند به صورت الکترونیکی ارسال شد.
+opportunity#فرصت#This is a great opportunity.#chance, occasion#B1#/ˌɑːpərˈtuːnəti/#این یک فرصت عالی است.
+demand#تقاضا، درخواست#There is a high demand for water.#request, requirement#B1#/dɪˈmænd/#تقاضای بالایی برای آب وجود دارد.
+fix#تعمیر کردن، ثابت کردن#Can you fix this chair?#repair, mend#A2#/fɪks/#می توانی این صندلی را تعمیر کنی؟
+express#بیان کردن#She found it hard to express her feelings.#convey#B2#ɪkˈspres#او بیان احساساتش را سخت یافت.
+imply#دلالت کردن#His tone implied he was unhappy.#suggest, hint#B1#/ɪmˈplaɪ/#حنجره‌اش دلالت داشت که او ناراضی است.
+merchantability#قابلیت فروش#The law implies a warranty of merchantability.#-#C2#/ˌmɜːtʃəntəˈbɪləti/#قانون ضمانت تجاری را در بر می‌گیرد.
+certain#مطمئن، قطعی#I am certain about my decision.#sure, definite#A2#/ˈsɜːtn/#من از تصمیمم مطمئنم.
+implied#ضمنی#The contract had an implied meaning.#implicit#C1#ɪmˈplaɪd#قرارداد یک معنای ضمنی داشت.
+exclusion#حذف، محرومیت#His exclusion from the team was a surprise.#omission#B2#/ɪkˈskluː.ʒən/#حذف او از تیم تعجب آور بود.
+limitation#محدودیت#The study has several limitations.#restriction, constraint#B2#/ˌlɪmɪˈteɪʃən/#مطالعه چندین محدودیت دارد.
+violate#مخالف بودن، نقض کردن#The company violated several safety regulations.#break, infringe#C1#/ˈvaɪəleɪt/#شرکت چندین مقررات ایمنی را نقض کرد.
+maximum#حداکثر#The maximum capacity is 100 people.#utmost, greatest#A2#/ˈmæksɪməm/#حداکثر ظرفیت ۱۰۰ نفر است.
+permit#اجازه دادن، مجوز#Do you have a permit?#allow, license#B1#/pərˈmɪt/#آیا مجوز داری؟
+invalidity#بطلان#The court declared the invalidity of the contract.#nullity#C2#/ˌɪnvəˈlɪdəti/#دادگاه بطلان قرارداد را اعلام کرد.
+provision#تأمین، مقررات#The provision of water is essential.#supply#B2#/prəˈvɪʒən/#تأمین آب ضروری است.
+void#خالی، باطل#The contract was declared void.#invalid#C1#/vɔɪd/#قرارداد باطل اعلام شد.
+indemnity#غرامت#The contract includes an indemnity clause.#compensation#C2#/ɪnˈdemnəti/#قرارداد شامل یک بند غرامت است.
+indemnify#جبران خسارت کردن#The company will indemnify you for any losses.#compensate#C2#/ɪnˈdemnɪfaɪ/#شرکت هرگونه زیان را جبران خسارت خواهد کرد.
+associated#مرتبط#The risks associated with smoking are high.#connected#B1#/əˈsoʊ.si.eɪ.t̬ɪd/#خطرات مرتبط با سیگار کشیدن بالا است.
+production#تولید#The production of cars increased.#manufacture#A2#/prəˈdʌkʃn/#تولید ماشین ها افزایش یافت.
+promotion#ترفیع، ترفیع رتبه#He got a promotion at work.#advancement#B2#/prəˈmoʊʃn/#او در کارش ترفیع گرفت.
+harmless#بی‌ضرر#The spider is harmless to humans.#safe, innocuous#B1#/ˈhɑːmləs/#عنکبوت برای انسان‌ها بی‌ضرر است.
+directly#مستقیماً#Go directly home.#straight, immediately#B1#/dəˈrektli/#مستقیماً به خانه برو.
+indirectly#غیر مستقیم#He was indirectly responsible.#not directly#C1#/ˌɪndəˈrektli/#او به طور غیرمستقیم مسئول بود.
+cause#علت، باعث شدن#What was the cause of the accident?#reason, source#A2#/kɔːz/#علت حادثه چه بود؟
+occur#اتفاق افتادن#When did the accident occur?#happen, take place#B1#/əˈkɜːr/#حادثه چه زمانی اتفاق افتاد؟
+alteration#تغییر، اصلاح#They made alterations to the house.#modification#B2#/ˌɔːltəˈreɪʃn/#آنها تغییراتی در خانه ایجاد کردند.
+modification#تغییر#The plan needed some modification.#alteration#C1#/ˌmɑːdɪfɪˈkeɪʃn/#طرح به مقداری تغییر نیاز داشت.
+deletion#حذف#The deletion of the file was accidental.#erasure#B2#/dɪˈliːʃn/#حذف فایل تصادفی بود.
+synonymous#مترادف#His name is synonymous with success.#equivalent#B2#sɪˈnɑnəməs#نام او مترادف با موفقیت است.
+readable#قابل خواندن، خوانات#The font is small but still readable.#legible#B2#/ˈriːdəbl/#فونت کوچک است اما همچنان قابل خواندن است.
+widest#پهناورترین#This is the widest river in the country.#having the greatest width#A2#/ˈwaɪ.dɪst/#این پهناورترین رودخانه کشور است.
+variety#تنوع#The store offers a variety of products.#diversity, assortment#B1#/vəˈraɪəti/#فروشگاه انواع محصولات را ارائه می‌دهد.
+obsolete#منسوخ، از رده خارج#This technology is now obsolete.#outdated, antiquated#C1#/ˌɑːbsəˈliːt/#این تکنولوژی اکنون منسوخ شده است.
+aged#سالخورده#The aged man shared his wisdom.#elderly#B2#/ˈeɪ.dʒɪd/#مرد سالخورده حکمتش را به اشتراک گذاشت.
+exist#وجود داشتن#Do ghosts exist?#be, live#A2#/ɪɡˈzɪst/#آیا اشباع وجود داشتن دارند؟
+financial#مالی#They sought financial advice from an expert.#monetary#B1#/faɪˈnænʃl/#آن‌ها از یک متخصص مشاوره مالی گرفتند.
+assistance#کمک#Thank you for your assistance.#help, support#A2#/əˈsɪstəns/#از کمک شما متشکرم.
+critical#بحرانی#The patient is in critical condition.#Crucial#B1#/ˈkrɪt.ɪ.kəl/#بیمار در وضعیت بحرانی است.
+ensure#اطمینان حاصل کردن#Please ensure that the door is locked.#make sure#B2#/ɪnˈʃʊə(r)/#لطفا اطمینان حاصل کنید که در قفل است.
+generation#نسل#This story passed from generation to generation.#age group, creation#B1#/ˌdʒenəˈreɪʃn/#این داستان از نسلی به نسل دیگر منتقل شده است.
+secure#امن#Lock the door to keep it secure.#Safe#B1#/sɪˈkjʊr/#در را قفل کن تا ایمن بماند.
+permanent#دائمی#The damage is permanent.#lasting, eternal#B2#/ˈpɜːrmənənt/#آسیب دائمی است.
+non#غیر (پیشوند)#This is a non-profit organization.#not, without#B1#/nɑːn#این یک سازمان غیرانتفاعی است.
+educational#آموزشی#The program has educational value.#instructive#B1#/ˌedʒuˈkeɪʃənl/#این برنامه ارزش آموزشی دارد.
+corporation#شرکت#He works for a large multinational corporation.#company#B2#/ˌkɔːpəˈreɪʃn/#او برای یک شرکت بزرگ چند ملیتی کار می کند.
+organize#سازمان دهی#We need to organize the files.#arrange#B1#ˈɔːrɡənaɪz#ما باید پرونده ها را سازماندهی کنیم.
+grant#کمک‌هزینه#She received a research grant.#Funding#B2#/ɡrænt/#او یک کمک هزینه تحقیقاتی دریافت کرد.
+exempt#معاف#He is exempt from military service.#free from, immune#C1#/ɪɡˈzempt#او از خدمت سربازی معاف است.
+internal#داخلی#The company is facing internal problems.#inner#B2#/ɪnˈtɜːrnl/#شرکت با مشکلات داخلی روبه‌روست.
+revenue#درآمد#Tax revenue funds public services.#income#B2#/ˈrevənuː/#درآمد مالیاتی خدمات عمومی را تأمین می‌کند.
+federal#فدرال#The federal government passed the law.#National#B2#/ˈfedərəl/#دولت فدرال قانون را تصویب کرد.
+identification#هویت#Show identification to enter the building.#ID#B1#/aɪˌden.tɪ.fɪˈkeɪ.ʃən/#برای ورود مدارک شناسایی نشان دهید.
+contribution#مشارکت#She made a significant contribution.#Input#B2#/ˌkɒntrɪˈbjuːʃn/#او کمک قابل توجهی کرد.
+deductible#قابل کسر#The expenses are tax-deductible.#-#C1#/dɪˈdʌktəbl/#هزینه ها از مالیات قابل کسر هستند.
+extent#میزان، حد#To what extent do you agree?#degree#B2#ɪkˈstent#تا چه میزان موافق هستی؟
+depend#وابسته بودن#It depends on the weather.#rely, count on#A2#/dɪˈpend/#این به آب و هوا بستگی دارد.
+survive#زنده ماندن#Few survived the accident.#live, endure#B1#/sərˈvaɪv/#تعداد کمی از تصادف جان سالم به در بردند.
+widespread#گسترده#There is widespread support for the new law.#Extensive#B2#/ˈwaɪdspred/#حمایت گسترده‌ای از قانون جدید وجود دارد.
+increase#افزایش دادن، افزایش یافتن#The company increased its profits.#grow, rise#A2#/ɪnˈkriːs/#شرکت سود خود را افزایش داد.
+licensed#مجاز، دارای مجوز#He is a licensed electrician.#certified#B1#ˈlaɪsənst#او یک برق‌کار دارای مجوز است
+accessible#قابل دسترس#The museum is wheelchair accessible.#reachable, available#B1#/əkˈsesəbl/#موزه برای ویلچر قابل دسترس است.
+array#آرایه، مجموعه#An array of options is available.#range, assortment#C1#/əˈreɪ/#مجموعه‌ای از گزینه‌ها در دسترس است.
+particularly#به خصوص#I like all fruit, particularly apples.#especially, specifically#B1#/pərˈtɪkjələrli/#من همه میوه ها را دوست دارم، به خصوص سیب.
+commit#مرتکب شدن، متعهد شدن#He committed a serious crime.#perpetrate#B2#kəˈmɪt#او مرتکب یک جرم جدی شد.
+regulate#تنظیم کردن#Laws regulate the industry.#control, govern#C1#/ˈreɡjəleɪt#قوانین صنعت را تنظیم می‌کنند.
+charity#خیریه، نیکوکاری#She donated money to charity.#philanthropy#B2#ˈtʃærəti#او به خیریه پول اهدا کرد.
+charitable#خیریه#She does charitable work.#philanthropic#B2#/ˈtʃærətəbl/#او کارهای خیریه انجام می‌دهد.
+requirement#نیازمندی، شرط#What are the requirements for the job?#prerequisite, condition#B2#/rɪˈkwaɪərmənt/#نیازمندی های شغل چیست؟
+paperwork#کاغذ بازی#The job involves a lot of paperwork.#administrative work#B2#/ˈpeɪpəwɜːk/#شغل شامل کاغذ بازی زیادی است.
+solicit#درخواست کردن، تقاضا کردن#It is illegal to solicit here.#ask for, request#C2#/səˈlɪsɪt/#درخواست کردن در اینجا غیرقانونی است.
+location#مکان#The film was shot on location in Paris.#place#A2#/ləʊˈkeɪʃn/#فیلم در پاریس فیلمبرداری شد.
+received#دریافت شده#The received wisdom is that hard work leads to success.#accepted#B2#rɪˈsiːvd#حکمت دریافت شده این است که کار سخت به موفقیت منجر می‌شود.
+confirmation#تأیید#We are waiting for confirmation of the booking.#verification, approval#B2#/ˌkɑːnfərˈmeɪʃn/#ما منتظر تأیید رزرو هستیم.
+determine#تعیین کردن، مشخص کردن#We need to determine the cause.#decide, ascertain#B1#/dɪˈtɜːmɪn/#باید علت را مشخص کنیم.
+particular#خاص، ویژه#Is there a particular book you want?#specific, special#B1#/pəˈtɪkjələ/#آیا کتاب خاصی می‌خواهی؟
+solicitation#درخواست#He was arrested for solicitation.#request#C2#/səˌlɪsɪˈteɪʃn/#او به خاطر درخواست دستگیر شد.
+prohibition#ممنوعیت#Alcohol prohibition lasted years.#Ban#B2#/ˌproʊ.ɪˈbɪʃ.ən/#ممنوعیت الکل سال‌ها طول کشید.
+donor#اهداکننده#He is a regular blood donor.#contributor#B2#/ˈdoʊ.nɚ/#او یک اهداکننده منظم خون است.
+approach#نزدیک شدن#The cat approached slowly.#Near#B1#/əˈproʊtʃ/#گربه به آرامی نزدیک شد.
+international#بین المللی#It is an international airport.#global#A2#/ˌɪntəˈnæʃnəl/#این یک فرودگاه بین المللی است.
+gratefully#با سپاسگزاری#I gratefully accepted the help.#thankfully, appreciatively#C1#/ˈɡreɪtfəli/#من با سپاسگزاری کمک را پذیرفتم.
+treatment#درمان#The patient responded well to the treatment.#Therapy#B1#/ˈtriːtmənt/#بیمار به درمان واکنش خوبی نشان داد.
+alone#تنها، تنها#She prefers to work alone.#solo, by oneself#A2#/əˈləʊn/#او ترجیح می‌دهد تنها کار کند.
+swamp#باتلاق#The swamp is full of mosquitoes.#marsh, bog#B1#/swɑːmp#باتلاق پر از پشه است.
+web#تار#A spider spins a web.#net, mesh#A2#/web#عنکبوت تار می‌تند.
+current#جریان، کنونی#The current is strong in this river.#flow, present#B1#/ˈkɜːrənt/#جریان در این رودخانه قوی است.
+accepted#پذیرفته شده#It is an accepted fact that the Earth revolves around the sun.#recognized#B1#əkˈsep.tɪd#این یک واقعیت پذیرفته شده است که زمین به دور خورشید می‌چرخد.
+originator#منشاء#He was the originator of the idea.#creator#C1#/əˈrɪdʒɪneɪtə(r)/#او منشاء ایده بود.
+produce#تولید کردن#This factory produces cars.#make, manufacture#B1#/prəˈduːs/#این کارخانه ماشین تولید می کند.
+loose#شل، گشاد#The screw is loose.#not tight, slack#A2#/luːs/#پیچ شل است.
+confirm#تأیید کردن#Please confirm your attendance.#verify#B2#kənˈfɜːrm#لطفاً حضور خود را تأیید کنید.
+thus#بنابراین#The road was closed, thus we had to turn back.#therefore#B1#ðʌs#جاده بسته بود، بنابراین مجبور شدیم برگردیم
+necessarily#لزوماً#Expensive doesn't necessarily mean better.#Inevitably#B2#/ˌnesəˈserəli/#گران‌تر لزوماً به معنای بهتر نیست.
+search#جستجو کردن#Search for the answer online.#look for, seek#A2#/sɜːrtʃ/#جواب را آنلاین جستجو کن.
+facility#تسهیلات#The hotel has excellent facilities.#amenity#B2#/fəˈsɪləti/#هتل تسهیلات عالی دارد.
+subscribe#مشترک شدن#I subscribe to several magazines.#sign up#B1#/səbˈskraɪb/#من در چند مجله اشتراک دارم.
+newsletter#خبرنامه#The company sends a weekly newsletter to its customers.#bulletin, periodical#B2#ˈnuːzˌletər#شرکت هر هفته یک خبرنامه برای مشتریان خود می‌فرستد.
