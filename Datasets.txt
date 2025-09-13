@@ -8,7 +8,6 @@ American English Files/American English Files 3--https://raw.githubusercontent.c
 Project Gutenberg/The Yellow Wallpaper--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/The%20Yellow%20Wallpaper.txt--
 Stephenie Meyer/The Chemist--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/The%20Chemist.txt--
 Jane Austen/Pride and Prejudice--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/Pride%20and%20Prejudice.txt--
-Word Hero/504 Essential Words--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/504%20Essential%20Words.txt--
-Barrons/1100 Words You Need to Know--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/1100%20Words%20You%20Need%20to%20Know.txt--
+Murray Bromberg/504 Essential Words--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/504%20Essential%20Words.txt--
 Betty Crocker/133 Quicker Ways to Homemade, with Bisquick--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/133%20Quicker%20Ways%20to%20Homemade%2C%20with%20Bisquick.txt--
 Barrons/1100 Words You Need to Know--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/1100%20Words%20You%20Need%20to%20Know.txt--
