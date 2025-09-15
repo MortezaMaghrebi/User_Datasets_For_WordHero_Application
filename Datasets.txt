@@ -11,3 +11,5 @@ Jane Austen/Pride and Prejudice--https://raw.githubusercontent.com/MortezaMaghre
 Murray Bromberg/504 Essential Words--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/504%20Essential%20Words.txt--
 Betty Crocker/133 Quicker Ways to Homemade, with Bisquick--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/133%20Quicker%20Ways%20to%20Homemade%2C%20with%20Bisquick.txt--
 Barrons/1100 Words You Need to Know--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/1100%20Words%20You%20Need%20to%20Know.txt--
+
+1/1--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/1.txt--
