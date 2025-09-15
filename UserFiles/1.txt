@@ -1,0 +1,12 @@
+go#رفتن، حرکت کردن#I need to go to the store to buy some milk.#move, leave#A1#/ɡoʊ/#من باید به فروشگاه بروم تا کمی شیر بخرم.
+seat#صندلی، جایگاه#Please take a seat.#chair, place#A1#/siːt/#لطفاً یک صندلی بگیر.
+man#مرد، انسان#That man is my father.#male, person#A1#/mæn/#آن مرد پدر من است.
+woman#زن#She is a strong woman.#lady, female#A1#/ˈwʊmən/#او یک زن قوی است.
+loudly#با صدای بلند#He spoke loudly.#noisily, audibly#A2#/ˈlaʊdli#او با صدای بلند صحبت کرد.
+turned#چرخانده شده#The key was turned in the lock.#rotated, twisted#A2#tɜːnd#کلید در قفل چرخانده شد.
+round#گرد، دور#The moon is round.#circular, spherical#A1#/raʊnd/#ماه گرد است.
+angrily#با عصبانیت#He spoke angrily to the driver.#furiously#A2#/ˈæŋɡrɪli/#او با عصبانیت با راننده صحبت کرد.
+attention#توجه#Pay attention to the teacher.#concentration, heed#A2#/əˈtenʃn/#به معلم توجه کن.
+none#هیچ کدام، هیچ#None of the students passed the test.#not any, no one#A2#/nʌn/#هیچ یک از دانش آموزان در آزمون قبول نشدند.
+rudely#بی‌ادبانه#He spoke rudely to the waiter.#impolitely, discourteously#B2#ˈruːdli#او با پیشخدمت بی‌ادبانه صحبت کرد.
+private#خصوصی#This is a private conversation.#personal, confidential#B1#/ˈpraɪvət/#این یک مکالمه خصوصی است.
