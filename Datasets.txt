@@ -13,3 +13,4 @@ Betty Crocker/133 Quicker Ways to Homemade, with Bisquick--https://raw.githubuse
 Barrons/1100 Words You Need to Know--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/1100%20Words%20You%20Need%20to%20Know.txt--
 
 new one/new--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/new.txt--
+American English Files 4/AEF4_Chapter1--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/AEF4_Chapter1.txt--
