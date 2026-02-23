@@ -15,3 +15,4 @@ Barrons/1100 Words You Need to Know--https://raw.githubusercontent.com/MortezaMa
 new one/new--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/new.txt--
 American English Files 4/AEF4_Chapter1--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/AEF4_Chapter1.txt--
 American English Files 4/AEF4_Chapter2--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/AEF4_Chapter2.txt--
+American English Files 4/AEF4_Chapter3--https://raw.githubusercontent.com/MortezaMaghrebi/User_Datasets_For_WordHero_Application/refs/heads/main/UserFiles/AEF4_Chapter3.txt--
