@@ -1,0 +1,452 @@
+survivor#بازمانده#She was the sole survivor of the accident.#remainder#B1#/sərˈvaɪvər/#او تنها بازمانده حادثه بود.
+survival#بقا، زنده ماندی#The survival rate for the disease has improved.#endurance#B1#/səˈvaɪ.vəl/#نرخ بقا برای این بیماری بهبود یافته است.
+calm#آرام#Please remain calm.#peaceful, tranquil#A2#/kɑːm/#لطفاً آرام بمان.
+nervous#عصبی، نگران#I felt nervous before my presentation.#anxious, worried#B1#/ˈnɜːrvəs/#قبل از ارائه ام عصبی بودم.
+scared#ترسیده، وحشت زده#I was scared when I heard the loud noise.#ترسیده#A2#skɛərd#وقتی صدای بلند را شنیدم ترسیدم
+terrify#ترساندن#The horror movie terrified her.#Frighten#B1#/ˈter.ɪ.faɪ/#فیلم ترسناک او را ترساند.
+intruder#مزاحم/متجاوز#The intruder was caught trying to climb through the window.#trespasser#C1#ɪnˈtruːdər#مزاحم در حالی که سعی داشت از پنجره بالا برود، دستگیر شد.
+confront#مواجه شدن#She confronted him about the issue.#Face#B2#/kənˈfrʌnt/#او او را با موضوع مواجه کرد.
+lock#قفل کردن#Lock the door when you leave.#secure, fasten#A2#/lɑːk/#وقتی می‌روی، در را قفل کن.
+neutral#خنثی#Stay neutral in the discussion.#Impartial#B1#/ˈnuːtrəl/#در بحث بی‌طرف بمان.
+gear#دنده#Change gear when you go uphill.#cogwheel, equipment#A2#/ɡɪər/#وقتی به سمت بالا می روی دنده را عوض کن.
+lower#پایین آوردن#Lower your voice, please.#reduce#A2#/ˈloʊər/#لطفاً صدایتان را پایین بیاورید.
+brake#ترمز#The car’s brakes failed.#Stop#A2#/breɪk/#ترمز ماشین خراب شد.
+countryside#روستا#They moved to the peaceful countryside.#Rural area#B1#/ˈkʌntrisaɪd/#آنها به حومه آرام نقل مکان کردند.
+thunderstorm#طوفان تندری#We took shelter during the thunderstorm.#storm#A2#ˈθʌndərˌstɔːrm#ما در طول طوفان تندری پناه گرفتیم
+shelter#پناهگاه؛ سرپناه#They sought shelter from the rain under a tree.#refuge, cover#A2#ˈʃeltər#آنها زیر یک درخت از باران پناه گرفتند.
+onto#بر روی#The cat jumped onto the table.#on#A2#/ˈɑːntu/#گربه روی میز پرید.
+hike#پیاده‌روی، افزایش (قیمت)#We went for a hike in the mountains.#trek#A2#/haɪk/#ما به پیاده‌روی در کوهستان رفتیم.
+alone#تنها، تنها#She prefers to work alone.#solo, by oneself#A2#/əˈləʊn/#او ترجیح می‌دهد تنها کار کند.
+completely#کاملاً#I completely forgot.#totally, entirely#A2#/kəmˈpliːtli/#من کاملاً فراموش کردم.
+rescue#نجات دادن#The firefighter rescued the cat.#save, recover#B1#/ˈreskjuː/#آتش نشان گربه را نجات داد.
+destination#مقصد#What is your final destination?#end point, goal#A2#/ˌdestɪˈneɪʃn/#مقصد نهایی شما چیست؟
+ski#اسکی کردن#They go to the mountains to ski every winter.#—#A2#/skiː/#آن‌ها هر زمستان برای اسکی به کوهستان می‌روند.
+bury#دفن کردن#They will bury him tomorrow.#inter, entomb#B1#/ˈberi/#آنها فردا او را دفن خواهند کرد.
+avalanche#بهمن#An avalanche of snow came crashing down the mountain.#snowslide#B2#ˈævəlɑːnʃ#بهمنی از برف از کوه به پایین فرو ریخت.
+pole#قطب، میله#The North Pole is very cold.#rod#A2#poʊl#قطب شمال بسیار سرد است.
+attract#جذب کردن#The flowers attract bees.#draw#A2#/əˈtrækt/#گل ها زنبورها را جذب می کنند.
+attention#توجه#Pay attention to the teacher.#concentration, heed#A2#/əˈtenʃn/#به معلم توجه کن.
+curl#فر خوردن، حلقه زدن#Her hair curls naturally.#coil, spiral#B1#/kɜːl/#موهایش به طور طبیعی فر می‌خورد.
+movement#حرکت#There was movement in the bushes.#motion, activity#A2#/ˈmuːvmənt/#در بوته‌ها حرکتی دیده شد.
+surface#سطح#The surface of the water was calm.#exterior, face#A2#/ˈsɜːfɪs/#سطح آب آرام بود.
+communication#ارتباطات#Good communication is important.#contact, correspondence#B1#/kəˌmjuːnɪˈkeɪʃn/#ارتباطات خوب مهم است.
+sum#مبلغ، جمع#The sum of 5 and 3 is 8.#total, amount#A2#/sʌm/#جمع ۵ و ۳ برابر با ۸ است.
+trying#آزاردهنده#The long journey was very trying for everyone.#difficult, stressful#B2#ˈtraɪɪŋ#سفر طولانی برای همه بسیار آزاردهنده بود.
+adventurer#ماجراجو#The adventurer explored unknown territories.#explorer, risk-taker#B2#/ədˈventʃərər/#ماجراجو سرزمین‌های ناشناخته را کاوش کرد.
+unreal#غیرواقعی#The movie scene looked completely unreal.#surreal, imaginary, fantastical#B2#ʌnˈriːəl#صحنه فیلم کاملاً غیرواقعی به نظر می‌رسید.
+syllable#هجا#The word 'water' has two syllables.#word part, segment#B2#/ˈsɪləbl/#کلمه «آب» دو هجا دارد.
+reality#واقعیت#The reality of the situation finally hit him.#truth#B2#riˈæləti#واقعیت موقعیت بالاخره به او ضربه زد.
+narrate#روایت کردن، تعریف کردن#She narrated the story of her adventures.#tell, relate#B2#/ˈnæreɪt/#او داستان ماجراهایش را روایت کرد.
+feature#ویژگی#The phone has many new features.#characteristic, trait#B1#/ˈfiːtʃə/#این گوشی ویژگی های جدید زیادی دارد.
+remote#دورافتاده، کنترل از راه دور#They live in a remote village.#distant, isolated#B1#/rɪˈmoʊt/#آنها در یک روستای دورافتاده زندگی می کنند.
+pacific#آرام، اقیانوس آرام#The Pacific Ocean is vast.#peaceful, calm#B2#/pəˈsɪfɪk/#اقیانوس آرام وسیع است.
+divide#تقسیم کردن، تقسیم شدن#Divide the cake into equal pieces.#split, separate#A2#/dɪˈvaɪd/#کیک را به تکه های مساوی تقسیم کن.
+accord#توافق#The two parties reached an accord.#agreement, harmony#C1#/əˈkɔːd/#دو طرف به یک توافق رسیدند.
+whether#آیا#I don't know whether to stay or go.#if, in case#B1#ˈweðər#نمی‌دانم آیا بمانم یا بروم.
+earner#درآمدزا#He is the sole earner in his family.#provider#C1#ˈɜːrnər#او تنها فرد درآمدزا در خانواده‌اش است.
+technique#روشی برای انجام کاری که نیازمند مهارت است#He has an excellent technique for playing the piano.#method#B1#ˌtɛkˈniːk#او روش بسیار خوبی برای نواختن پیانو دارد.
+aim#هدف#Our aim is to improve education.#goal, objective#A2#/eɪm/#هدف ما بهبود آموزش است.
+since#از آن زمان، از آنجا که#I haven't seen him since last year.#because, as#A2#/sɪns/#من از سال گذشته او را ندیده‌ام.
+actually#در واقع#Actually, I disagree.#really, in fact#A2#/ˈæktʃuəli/#در واقع، من مخالفم.
+anyway#به هر حال#I don't need help, but thanks anyway.#regardless#A2#/ˈeniweɪ/#من به کمک نیاز ندارم، اما به هر حال ممنون.
+apparently#ظاهراً#Apparently, he left without saying goodbye.#seemingly, evidently#B1#/əˈpærəntli/#ظاهراً او بدون خداحافظی رفت.
+complicated#پیچیده#The instructions were too complicated for me.#complex#B1#ˈkɒmplɪkeɪtɪd#دستورالعمل ها برای من خیلی پیچیده بودند.
+injured#مصدوم#The injured player was taken off the field.#wounded#B1#ˈɪndʒərd#بازیکن مصدوم از زمین بیرون برده شد
+unless#مگر اینکه#You can't come in unless you have an invitation.#except if, if not#A2#ənˈles#نمی‌توانی وارد شوی مگر اینکه دعوت‌نامه داشته باشی.
+although#اگرچه#Although it rained, we had fun.#though, even though#A2#/ɔːlˈðoʊ/#اگرچه باران بارید، ما خوش گذراندیم.
+definitely#قطعاً#I will definitely be there.#certainly#A2#/ˈdefɪnətli/#من قطعاً آنجا خواهم بود.
+though#اگرچه، با این حال#Though it was raining, we went for a walk.#although, even if#B1#/ðəʊ/#اگرچه باران می‌آمد، ما به پیاده‌روی رفتیم.
+ideally#در حالت ایده‌آل#Ideally, we should leave before the traffic gets bad.#preferably, in a perfect world#B2#aɪˈdiːəli#در حالت ایده‌آل، باید قبل از اینکه ترافیک سنگین شود، برویم.
+obviously#بدیهی است#Obviously, safety comes first.#Clearly#B1#/ˈɒbviəsli/#مسلماً ایمنی در اولویت است.
+consider#در نظر گرفتن، اندیشیدن#Please consider my proposal.#ponder, contemplate#B1#/kənˈsɪdər/#لطفاً پیشنهاد من را در نظر بگیر.
+whole#کامل، تمام#She ate the whole cake.#entire, complete#A2#/həʊl/#او تمام کیک را خورد.
+experience#تجربه#She has a lot of experience.#knowledge, skill#A2#/ɪkˈspɪriəns/#او تجربه زیادی دارد.
+participant#شرکت‌کننده#All participants received certificates.#Attendee#B1#/pɑːˈtɪsɪpənt/#به همه شرکت‌کنندگان گواهی داده شد.
+apply#اعمال کردن، درخواست دادن#Apply the cream to the affected area.#put on, request#A2#/əˈplaɪ/#کرم را روی ناحیه آسیب‌دیده بمالید.
+watching#تماشا کردن#I am watching a movie on TV right now.#observing#A1#ˈwɑtʃɪŋ#من الان دارم یک فیلم در تلویزیون تماشا می‌کنم.
+ultimate#نهایی#Winning the championship is our ultimate goal.#final, supreme#B2#/ˈʌltɪmət/#برنده شدن در قهرمانی هدف نهایی ماست.
+strand#رشته#A strand of hair fell on her face.#thread, filament#B1#/strænd/#یک رشته مو روی صورتش افتاد.
+desert#صحرا، بیابان#The Sahara is a vast desert.#wilderness, wasteland#A2#/ˈdezət/#صحرای بزرگ بسیار وسیع است.
+survive#زنده ماندن#Few survived the accident.#live, endure#B1#/sərˈvaɪv/#تعداد کمی از تصادف جان سالم به در بردند.
+outdoor#فضای باز#We enjoy outdoor sports.#Outside#A2#/ˈaʊtdɔːr/#ما از ورزش‌های بیرون لذت می‌بریم.
+adventure#ماجراجویی#They went on an adventure.#exploit, quest#A2#/ədˈventʃər/#آنها به یک ماجراجویی رفتند.
+appeal#درخواست#The lawyer filed an appeal.#Petition#B2#/əˈpiːl/#وکیل درخواست تجدید نظر کرد.
+saying#ضرب‌المثل#The old saying goes, “Actions speak louder than words.”#Proverb#B1#/ˈseɪɪŋ/#ضرب‌المثل قدیمی می‌گوید: «عمل مهم‌تر از گفتار است.»
+applied#کاربردی#He studied applied mathematics.#practical#B2#/əˈplaɪd/#او ریاضیات کاربردی خواند.
+absolutely#کاملاً#I absolutely agree with you.#completely, totally#A2#/ˈæbsəluːtli/#من کاملاً با تو موافقم.
+stun#متعجب کردن#The news stunned everyone.#shock#B2#/stʌn/#خبر همه را مبهوت کرد.
+thrilled#هیجان‌زده#I was thrilled to hear the good news.#excited#B1#θrɪld#من از شنیدن خبر خوب هیجان‌زده شدم
+range#محدوده، برد#The mountain range was beautiful.#scope#B2#reɪndʒ#رشته‌کوه زیبا بود.
+particular#خاص، ویژه#Is there a particular book you want?#specific, special#B1#/pəˈtɪkjələ/#آیا کتاب خاصی می‌خواهی؟
+shoelace#بند کفش#My shoelace came undone.#lace for a shoe#A2#ˈʃuː.leɪs#بند کفشم باز شد.
+training#آموزش#The training program lasts for six months.#instruction, education#A2#ˈtreɪnɪŋ#برنامه آموزشی شش ماه طول می‌کشد.
+within#در داخل، درون#The answer lies within yourself.#inside, in#A2#/wɪˈðɪn/#پاسخ در درون خودت نهفته است.
+boil#جوشاندن#Boil the water for tea.#-#A2#bɔɪl#آب را برای چای بجوشان.
+stuff#چیز#Put your stuff in the closet.#things, belongings#A2#/stʌf/#وسایلت را در کمد بگذار.
+pants#شلوار#He was wearing a new pair of blue pants.#trousers#A2#pænts#او یک شلوار آبی جدید پوشیده بود.
+rid#خلاص شدن، رها شدن#I want to get rid of these old books.#free, clear#B1#/rɪd/#می‌خواهم از شر این کتاب‌های قدیمی خلاص شوم.
+kill#کشتن#The hunter killed the deer.#slay, murder#A2#/kɪl/#شکارچی گوزن را کشت.
+amazingly#به طور شگفت انگیزی#Amazingly, no one was hurt in the accident.#astonishingly, incredibly#B1#/əˈmeɪzɪŋli/#به طور شگفت انگیزی، هیچکس در حادثه آسیب ندید.
+protect#محافظت کردن#We must protect the environment.#guard, defend#A2#/prəˈtekt/#ما باید از محیط زیست محافظت کنیم.
+waterproof#ضد آب#You need a waterproof jacket for the rain.#impermeable#B1#ˈwɔːtəpruːf#برای باران به کت ضدآب نیاز دارید.
+navigate#هدایت کردن#Sailors navigate by the stars.#Steer#B2#/ˈnævɪɡeɪt/#ملوانان با ستاره‌ها جهتیابی می‌کنند.
+explore#کاوش کردن#They came to explore the island.#investigate, search#A2#/ɪkˈsplɔːr/#آنها آمدند تا جزیره را کاوش کنند.
+topping#رویه#Add whipped cream as a topping.#Covering#B1#/ˈtɑːp.ɪŋ/#خامه فرم گرفته را به عنوان رویه اضافه کن.
+creepy#ترسناک#The old abandoned house looked creepy at night.#ترسناک#B2#ˈkriː.pi#خانه متروکه قدیمی در شب ترسناک به نظر می رسید
+uncomfortable#ناراحت‌کننده#The chair was very uncomfortable.#Awkward#A2#/ʌnˈkʌmfətəbəl/#صندلی بسیار ناراحت بود.
+worst#بدترین#This is the worst movie I've ever seen.#- #A2#/wɜːst/#این بدترین فیلمی است که تا به حال دیده ام.
+going#در حال رفتن، در جریان#The show is still going strong.#operating#B1#/ˈɡoʊɪŋ/#نمایش هنوز با قدرت در جریان است.
+mention#ذکر کردن، اشاره کردن#He didn't mention your name.#refer to, bring up#A2#/ˈmenʃn/#او اسم تو را ذکر نکرد.
+ocean#اقیانوس#The Pacific Ocean is vast.#sea, deep#A2#/ˈoʊʃn/#اقیانوس آرام وسیع است.
+talent#استعداد#She has a talent for singing.#Gift#B1#/ˈtælənt/#او استعداد آواز دارد.
+wild#وحشی، جنگلی#Lions are wild animals.#untamed, ferocious#A2#/waɪld/#شیرها حیوانات وحشی هستند.
+boar#گراز#The wild boar ran through the forest.#hog#B2#/bɔːr/#گراز وحشی در جنگل دوید.
+tension#تنش#There was a lot of tension in the room before the announcement.#stress#B1#/ˈtenʃn/#قبل از اعلام، تنش زیادی در اتاق وجود داشت.
+communal#مشترک#The building has a communal garden for all residents.#shared#C1#ˈkɒmjʊnəl#ساختمان یک باغ مشترک برای همه ساکنان دارد.
+general#عمومی، کلی#The general opinion is in favor of the plan.#overall, broad#B1#/ˈdʒenrəl/#عقیده عمومی موافق این طرح است.
+vocabulary#واژگان#Learning new vocabulary is essential.#a set of familiar words#A2#/vəˈkæbjələri/#یادگیری واژگان جدید ضروری است.
+pronunciation#تلفظ#Her pronunciation of French is excellent.#enunciation#A2#/prəˌnʌn.siˈeɪ.ʃən/#تلفظ فرانسوی او عالی است.
+extract#استخراج کردن، عصاره#She read an extract from her new book.#to remove or take out#B2#/ɪkˈstrækt/#او بخشی از کتاب جدیدش را خواند.
+blank#خالی#Please write on a blank page.#empty, void#A2#/blæŋk/#لطفا روی یک صفحه خالی بنویس.
+adjective#صفت#In the phrase 'blue sky', 'blue' is an adjective.#descriptive word#A2#/ˈædʒɪktɪv/#در عبارت "blue sky"، کلمه "blue" یک صفت است.
+collect#جمع آوری کردن#He collects stamps.#gather, accumulate#A2#/kəˈlekt/#او تمبر جمع‌آوری می‌کند.
+bold#جسور#That was a bold move.#brave, daring#B2#/boʊld/#این یک حرکت جسورانه بود.
+rate#نرخ، میزان#What is the exchange rate today?#speed, percentage#A2#/reɪt/#نرخ ارز امروز چقدر است؟
+honest#صادق#Be honest with me.#truthful, sincere#A2#/ˈɑːnɪst/#با من صادق باش.
+horrify#وحشت‌زده کردن#The news will horrify the public.#terrify, appall#B2#/ˈhɔːrɪfaɪ/#خبر عموم مردم را وحشت‌زده خواهد کرد.
+awful#وحشتناک#The weather was awful.#terrible, dreadful#A2#/ˈɔːfl/#هوا وحشتناک بود.
+accident#حادثه، تصادف#He was injured in a car accident.#crash, mishap#A2#/ˈæksɪdənt/#او در یک تصادف ماشین مجروح شد.
+copy#کپی، رونوشت#Please make a copy of this document.#duplicate, replica#A2#/ˈkɒpi/#لطفاً یک کپی از این سند بگیر.
+intonation#آهنگ کلام#The intonation of his voice was very melodic.#inflection#C1#/ˌɪn.təˈneɪ.ʃən/#آهنگ صدای او بسیار دلنشین بود.
+amazon#آمازون#Amazon is a river and company.#none#A2#/ˈæm.ə.zɑːn/#آمازون یک رودخانه و شرکت است
+rainforest#جنگل بارانی#The Amazon is the world's largest rainforest.#tropical forest#B2#ˈreɪnfɔːrɪst#آمازون بزرگ‌ترین جنگل بارانی جهان است.
+missing#گمشده#The missing child was found safe and sound.#lost, absent#B1#/ˈmɪsɪŋ/#کودک گمشده سالم و سلامت پیدا شد.
+continent#قاره#Africa is the second largest continent.##A2#/ˈkɑːntɪnənt/#آفریقا دومین قاره بزرگ است.
+roughly#تقریباً، به طور خشن#The project will cost roughly $1000.#approximately, about#A2#/ˈrʌfli/#پروژه تقریباً ۱۰۰۰ دلار هزینه دارد.
+flow#جریان داشتن، روان بودن#Water flows downhill.#stream, run#B1#/fləʊ/#آب به سمت پایین جریان دارد.
+northern#شمالی#The northern region is colder.#of the north#A2#/ˈnɔːðən/#منطقه شمالی سردتر است.
+forest#جنگل#We got lost in the forest.#woods, jungle#A2#/ˈfɔːrɪst/#ما در جنگل گم شدیم.
+canopy#سایبان، چتر#We slept under a canopy of stars.#awning, covering#C1#/ˈkæn.ə.pi/#ما زیر یک سایبان از ستاره‌ها خوابیدیم.
+indigenous#بومی#The indigenous people of the land have a rich culture.#native#C1#ɪnˈdɪdʒənəs#مردم بومی این سرزمین فرهنگ غنی دارند
+poisonous#سمی#Some mushrooms are poisonous.#Toxic#B1#/ˈpɔɪzənəs/#بعضی از قارچ‌ها سمی هستند.
+piranha#پیرانا#A piranha is a fish with sharp teeth.#type of fish#C1#pɪˈrɑːnə#پیرانا یک ماهی با دندان‌های تیز است.
+living#زنده، معیشت#She earns a living by writing.#alive, livelihood#A2#ˈlɪvɪŋ#او از طریق نویسندگی امرار معاش می‌کند.
+jaguar#جگوار#We saw a jaguar at the zoo.#a large wild cat#B1#/ˈdʒæɡjuər/#ما در باغ وحش یک جگوار دیدیم.
+original#اصلی#This is the original painting.#first, authentic#B1#/əˈrɪdʒənl/#این نقاشی اصلی است.
+cause#علت، باعث شدن#What was the cause of the accident?#reason, source#A2#/kɔːz/#علت حادثه چه بود؟
+guide#راهنما، هدایت کردن#The tour guide explained the history.#lead#A2#ɡaɪd#راهنمای تور تاریخ را توضیح داد.
+finally#در نهایت#Finally, he agreed.#at last, eventually#A2#/ˈfaɪnəli/#در نهایت، او موافقت کرد.
+separate#جدا کردن، جدا شدن#Separate the eggs.#divide, split#A2#/ˈseprət/#تخم مرغ ها را جدا کن.
+jungle#جنگل#They trekked through the dense jungle.#rainforest#A2#/ˈdʒʌŋɡ(ə)l/#آن‌ها از میان جنگل انبوه پیاده‌روی کردند.
+lifetime#عمر#She saved money all her lifetime.#Life#B1#/ˈlaɪf.taɪm/#او تمام عمرش پول پس‌انداز کرد.
+alive#زنده#Is he still alive?#living, live#A2#/əˈlaɪv/#آیا او هنوز زنده است؟
+gale#توفان#The gale uprooted several trees#storm, strong wind#B2#ɡeɪl#توفان چندین درخت را ریشه‌کن کرد
+hire#اجاره کردن، استخدام کردن#They hired a car for the weekend.#rent#A2#/haɪər/#آنها برای آخر هفته یک ماشین اجاره کردند.
+experienced#با تجربه#He is a very experienced teacher.#skilled#B2#ɪkˈspɪə.ri.ənst#او یک معلم بسیار با تجربه است.
+promise#قول دادن، وعده#I promise to be on time.#pledge, vow#A2#/ˈprɑːmɪs/#قول می دهم سر وقت باشم.
+deep#عمیق#The lake is very deep.#Profound#A2#/diːp/#دریاچه خیلی عمیق است.
+documentary#مستند#We watched a wildlife documentary.#Film#B1#/ˌdɒk.jəˈmen.tər.i/#ما یک مستند حیات وحش تماشا کردیم.
+raft#قایق بادی#They rafted down the river.#Boat#B1#/ræft/#آنها با قایق از رودخانه پایین رفتند.
+whose#مال谁، که#This is the man whose car was stolen.#- #A2#/huːz/#این مردی است که ماشینش دزدیده شد.
+rather#بلکه، ترجیحاً#I would rather go to the beach than stay home.#preferably, instead#A2#ˈræðər#ترجیح می‌دهم به ساحل بروم تا در خانه بمانم.
+nearly#تقریباً#I nearly missed the bus.#almost, practically#A2#/ˈnɪrli/#من تقریباً اتوبوس را از دست دادم.
+appear#ظاهر شدن، به نظر رسیدن#He appeared suddenly from behind the tree.#seem, emerge#A2#/əˈpɪə/#او ناگهان از پشت درخت ظاهر شد.
+suspect#مظنون#The police questioned the suspect.#Accused#B1#/səˈspekt/#پلیس از مظنون بازجویی کرد.
+indian#هندی، سرخپوست#She is of Indian descent.#(from India)#A2#/ˈɪndiən/#او اصالتاً هندی است.
+complain#شکایت کردن#Customers have the right to complain.#protest, grumble#A2#/kəmˈpleɪn/#مشتریان حق شکایت دارند.
+especially#به ویژه، مخصوصاً#I love flowers, especially roses.#particularly, specially#A2#/ɪˈspeʃəli/#من عاشق گل ها هستم، به ویژه رز.
+infected#آلوده#The wound became infected.#عفونی شده#B1#ɪnˈfektɪd#زخم عفونی شد
+eventually#در نهایت#Eventually, he agreed.#finally, in the end#B1#/ɪˈventʃuəli/#بالاخره او موافقت کرد.
+abandon#رها کردن، ترک کردن#They had to abandon the sinking ship.#desert, leave#B2#əˈbændən#آنها مجبور شدند کشتی در حال غرق شدن را رها کنند.
+search#جستجو کردن#Search for the answer online.#look for, seek#A2#/sɜːrtʃ/#جواب را آنلاین جستجو کن.
+instead#به جای#Let's have tea instead of coffee.#in place of, rather#A2#/ɪnˈsted/#بیا به جای قهوه چای بخوریم.
+furious#خشمگین#She was furious when she found out the truth.#enraged#B2#ˈfjʊəriəs#او وقتی حقیقت را فهمید خشمگین شد.
+fault#تقصیر، گسل#It's not my fault!#blame, defect#A2#/fɔːlt/#این تقصیر من نیست!
+persuade#متقاعد کردن#She persuaded him to try new food.#Convince#B1#/pərˈsweɪd/#او او را متقاعد کرد غذای جدید را امتحان کند.
+spirit#روحیه، روح#Team spirit is important for success.#soul, morale#B1#/ˈspɪrɪt/#روحیه تیمی برای موفقیت مهم است.
+desperate#ناامید، مستأصل#He was desperate for help.#hopeless, frantic#B1#/ˈdespərət/#او ناامیدانه به کمک نیاز داشت.
+optimistic#خوشبین#She is optimistic about her chances of recovery.#hopeful, positive#B1#/ˌɑːptɪˈmɪstɪk/#او در مورد شانس بهبودی خود خوشبین است.
+differently#متفاوت#He sees things differently.#in a different way#B1#/ˈdɪfrəntli#او چیزها را متفاوت می‌بیند.
+verb#فعل#In the sentence 'She ran to the store,' the word 'ran' is a verb.#action word#A2#vɜːrb#در جمله 'She ran to the store'، کلمه 'ran' یک فعل است.
+tense#مضطرب#I felt very tense before the exam.#nervous, anxious#A2#/tens/#قبل از امتحان خیلی مضطرب احساس می کردم.
+refer#ارجاع دادن#The doctor will refer you to a specialist.#direct, send#A2#/rɪˈfɜːr/#دکتر شما را به یک متخصص ارجاع خواهد داد.
+hypothetical#فرضی#It's just a hypothetical situation.#Theoretical#C1#/ˌhaɪpəˈθetɪkəl/#این فقط یک فرضیه است.
+conditional#مشروط#Their agreement is conditional on our approval.#dependent#B2#/kənˈdɪʃənl/#توافق آن‌ها مشروط به تأیید ماست.
+chain#زنجیر#The dog was on a chain.#link, series#A2#/tʃeɪn/#سگ روی یک زنجیر بود.
+incredibly#باورنکردنی#The view was incredibly stunning.#Amazingly#B1#/ɪnˈkred.ə.bli/#منظر واقعاً خیره‌کننده بود.
+lucky#خوش شانس#You're so lucky to win the prize.#fortunate#A2#/ˈlʌki/#تو خیلی خوش شانسی که جایزه را بردی.
+unsuccessful#ناموفق#His attempt to climb the mountain was unsuccessful.#failed, futile#B1#/ˌʌn.səkˈses.fəl/#تلاش او برای بالا رفتن از کوه ناموفق بود.
+attempt#تلاش، کوشش#It was his third attempt.#try, effort#B1#/əˈtempt/#این سومین تلاش او بود.
+safe#امن#Keep your money in a safe place.#secure, protected#A2#/seɪf/#پولت را در جای امن نگه دار.
+noise#سر و صدا#The noise was unbearable.#sound, din#A2#/nɔɪz/#سروصدا غیرقابل تحمل بود.
+review#بررسی#Write a review of the movie.#Evaluation#B1#/rɪˈvjuː/#یک نقد درباره فیلم بنویس.
+wish#آرزو کردن، خواستن#I wish to travel the world someday.#desire, want#A2#/wɪʃ/#آرزو دارم روزی دنیا را بگردم.
+easier#آسان‌تر#This new method is much easier than the old one.#simpler#A2#ˈiːziər#این روش جدید بسیار آسان‌تر از روش قدیمی است.
+regret#پشیمانی#He felt regret for his harsh words.#Remorse#B2#/rɪˈɡret/#او از گفتن کلمات تند پشیمان شد.
+express#بیان کردن#She found it hard to express her feelings.#convey#B2#ɪkˈspres#او بیان احساساتش را سخت یافت.
+annoy#آزار دادن#The noise annoys me.#irritate#A2#/əˈnɔɪ/#سر و صدا من را آزار می دهد.
+board#تخته، هیئت مدیره#Write on the board.#plank, committee#A2#/bɔːrd/#روی تخته بنویس.
+annoying#آزاردهنده#That constant noise is very annoying.#irritating#B2#/əˈnɔɪɪŋ/#آن صدای مداوم بسیار آزاردهنده است.
+ban#ممنوعیت#The government imposed a ban on smoking.#Prohibition#B1#/bæn/#دولت سیگار کشیدن را ممنوع کرد.
+connect#اتصال دادن، وصل کردن#Connect the wires properly.#join, link#A2#/kəˈnekt/#سیم‌ها را به درستی وصل کن.
+secret#راز، مخفی#Can you keep a secret?#confidential, hidden#A2#/ˈsiːkrət/#می توانی یک راز نگه داری؟
+commentator#مفسر#He is a famous sports commentator.#announcer#B2#/ˈkɑːmənteɪtər/#او یک مفسر ورزشی معروف است.
+ridiculous#مضحک#The idea seemed ridiculous to her.#Absurd#B1#/rɪˈdɪk.jə.ləs/#این ایده به نظر او مسخره بود.
+asleep#خواب#The baby is asleep.#sleeping#A2#/əˈsliːp/#بچه خواب است.
+occasionally#گاهی اوقات#We occasionally go to the theatre.#sometimes, now and then#B1#/əˈkeɪʒnəli/#ما گاهی اوقات به تئاتر می رویم.
+borrow#قرض گرفتن#Can I borrow your pen?#take on loan#A2#/ˈbɔːroʊ/#می توانم خودکارت را قرض بگیرم؟
+gain#به دست آوردن#He gained a lot of experience.#acquire, obtain#B1#/ɡeɪn/#او تجربه زیادی به دست آورد.
+weight#وزن#What is your weight?#mass, heaviness#A2#/weɪt/#وزنت چقدر است؟
+washing#شستشو#The washing is still on the line, drying in the sun.#laundry#A2#ˈwɑːʃɪŋ#لباس‌ها هنوز روی طناب هستند و زیر آفتاب خشک می‌شوند.
+obvious#آشکار#It was obvious he was upset.#Clear#A2#/ˈɑːb.vi.əs/#واضح بود که او ناراحت است.
+lazy#تنبل#He's too lazy to clean his room.#idle#A2#/ˈleɪzi/#او برای تمیز کردن اتاقش زیادی تنبل است.
+annoyance#آزار#The loud noise caused great annoyance.#Irritation#B2#/əˈnɔɪəns/#سر و صدای بلند باعث ناراحتی شدید شد.
+crazy#دیوانه#That sounds crazy!#insane, mad#A2#/ˈkreɪzi/#این دیوانه به نظر می رسد!
+base#پایه، پست#The statue has a marble base.#foundation, vile#B1#/beɪs/#مجسمه یک پایه مرمر دارد.
+impossible#غیر ممکن#It's impossible to be in two places at once.#unachievable, unattainable#A2#/ɪmˈpɒsəbl/#غیر ممکن است همزمان در دو مکان بود.
+unlikely#بعید#It’s unlikely to rain today.#Improbable#B2#/ʌnˈlaɪkli/#بعید است امروز باران ببارد.
+happening#رویداد#The concert was the happening of the year#event, occurrence#B1#ˈhæp.ən.ɪŋ#کنسرت رویداد سال بود
+infuriate#عصبانی کردن#His rude behavior infuriated her.#enrage, anger#B2#/ɪnˈfjʊərieɪt/#رفتار بی‌ادبانه او او را عصبانی کرد.
+connection#اتصال، ارتباط#Is there a connection?#link, relationship#B1#/kəˈnekʃn/#آیا یک اتصال وجود دارد؟
+fix#تعمیر کردن، ثابت کردن#Can you fix this chair?#repair, mend#A2#/fɪks/#می توانی این صندلی را تعمیر کنی؟
+frustrate#ناامید کردن#The delays frustrated everyone.#Annoy#B1#/frʌsˈtreɪt/#تأخیرها همه را ناامید کرد.
+embarrass#خجالت زده کردن#I didn't want to embarrass him in front of his friends.#humiliate#B1#ɪmˈbærəs#نمی خواستم او را جلوی دوستانش خجالت زده کنم.
+used#استفاده‌شده#I bought a used car.#secondhand, pre-owned#A2#juːzd#من یک ماشین استفاده‌شده خریدم.
+exhaust#خستگی#He was exhausted after the trip.#Fatigue#B1#/ɪɡˈzɔːst/#او بعد از سفر خسته شد.
+expectation#انتظار#The movie didn't meet our expectations.#Anticipation#B2#/ˌekspekˈteɪʃən/#فیلم انتظارات ما را برآورده نکرد.
+disappoint#ناامید کردن#I don't want to disappoint you.#let down, fail#B1#/ˌdɪsəˈpɔɪnt/#من نمی خواهم تو را ناامید کنم.
+banking#بانکداری#He works in banking.#finance#B1#ˈbæŋ.kɪŋ#او در بانکداری کار می کند.
+amaze#شگفت زده کردن#Your story amazes me.#astonish, surprise#B1#/əˈmeɪz/#داستان تو من را شگفت زده می کند.
+successful#موفق#The project was successful.#triumphant#A2#/səkˈsesfl/#پروژه موفق بود.
+overcome#غلبه کردن#She overcame her fears.#conquer, defeat#B1#/ˌoʊvərˈkʌm/#او بر ترس‌هایش غلبه کرد.
+difficulty#مشکل، دشواری#She had great difficulty understanding the accent.#problem, challenge#A2#/ˈdɪfɪkəlti/#او در درک لهجه مشکل زیادی داشت.
+inspire#الهام بخشیدن#His words inspired many people.#Motivate#B2#/ɪnˈspaɪə/#حرف‌هایش بسیاری را الهام داد.
+instruction#دستورالعمل، آموزش#Read the instructions carefully.#direction, guidance#A2#/ɪnˈstrʌkʃn/#دستورالعمل ها را با دقت بخوان.
+electronic#الکترونیکی#I bought an electronic gadget.#Digital#B1#/ɪˌlekˈtrɑːnɪk/#یک وسیله الکترونیکی خریدم.
+device#دستگاه#This is a clever device.#gadget, instrument#B1#/dɪˈvaɪs/#این دستگاه هوشمندانه‌ای است.
+helpful#مفید، کمک کننده#The staff was very helpful.#useful#A2#/ˈhelpfl/#کارکنان بسیار مفید بودند.
+confuse#سردرگم کردن#The instructions confused me.#bewilder#A2#/kənˈfjuːz/#دستورالعمل ها من را سردرگم کرد.
+manage#مدیریت کردن#She manages a large team.#run, administer#A2#/ˈmænɪdʒ/#او یک تیم بزرگ را مدیریت می‌کند.
+communicate#ارتباط برقرار کردن#We communicate by email.#convey#A2#/kəˈmjuːnɪkeɪt/#ما از طریق ایمیل ارتباط برقرار می کنیم.
+foreign#خارجی#She speaks several foreign languages.#overseas, international#A2#/ˈfɔːrən/#او چندین زبان خارجی صحبت می‌کند.
+thrill#هیجان#It gave me a thrill to meet my favorite author.#excitement, buzz#B2#/θrɪl/#دیدار با نویسنده مورد علاقه‌ام برایم هیجان‌انگیز بود.
+impress#تحت تأثیر قرار دادن#His speech impressed everyone.#move#B1#ɪmˈpres#سخنرانی او همه را تحت تأثیر قرار داد.
+impressive#تحسین‌برانگیز#Her speech was impressive.#Remarkable#B1#/ɪmˈpresɪv/#سخنرانی او تأثیرگذار بود.
+extremely#بسیار#It is extremely cold.#very, exceedingly#A2#/ɪkˈstriːmli/#بسیار سرد است.
+ending#پایان#The movie had a surprising ending.#the final part#A2#/ˈendɪŋ/#فیلم پایان غافلگیرکننده‌ای داشت.
+delighted#خوشحال#She was delighted to hear the good news.#pleased, thrilled#B1#dɪˈlaɪtɪd#او از شنیدن خبر خوب خوشحال شد.
+offend#آزار دادن، توهین کردن#I didn't mean to offend you.#insult, upset#B2#/əˈfend/#قصد نداشتم تو را آزار دهم.
+disappointing#ناامید کننده#The result was very disappointing.#unsatisfactory#B1#ˌdɪsəˈpɔɪntɪŋ#نتیجه بسیار ناامید کننده بود.
+frustrating#ناامیدکننده#It was a frustrating experience trying to get help.#annoying#B2#ˈfrʌstreɪtɪŋ#تلاش برای دریافت کمک یک تجربه ناامیدکننده بود.
+depressed#افسرده#She has been feeling depressed lately and is seeking help.#sad, unhappy#B1#dɪˈprest#او اخیراً احساس افسردگی می کند و به دنبال کمک است.
+daily#روزانه#This is a daily newspaper.#everyday, quotidian#A2#/ˈdeɪli/#این روزنامه روزانه است.
+physical#فیزیکی، جسمی#Physical exercise is important.#bodily#A2#/ˈfɪzɪkl/#ورزش بدنی مهم است.
+colleague#همکار#She met her colleagues for lunch.#Coworker#B1#/ˈkɒl.iːɡ/#او با همکارانش برای ناهار ملاقات کرد.
+tend#تمایل داشتن#Plants tend to grow toward the light.#Incline#B2#/tend/#گیاهان تمایل دارند به سمت نور رشد کنند.
+education#آموزش و پرورش#Education is important.#schooling#A2#ˌedʒuˈkeɪʃn#آموزش و پرورش مهم است.
+freshman#دانشجوی سال اول#He is a freshman at university.#first-year student#B2#/ˈfreʃ.mən/#او یک دانشجوی سال اول در دانشگاه است.
+decision#تصمیم#He made the decision to move abroad.#Choice#A2#/dɪˈsɪʒ.ən/#او تصمیم به مهاجرت گرفت.
+response#پاسخ#I’m waiting for your response.#Answer#B1#/rɪˈspɑːns/#من منتظر پاسخ شما هستم.
+devastatingly#به طور ویرانگر#The storm was devastatingly powerful.#destructively, ruinously#C1#/ˈdevəsteɪtɪŋli/#طوفان به طور ویرانگری قدرتمند بود.
+surprisingly#به طور تعجب آور#Surprisingly, he agreed to help.#astonishingly#B1#/səˈpraɪzɪŋli/#به طور تعجب آور، او موافقت کرد که کمک کند.
+idiot#احمق#Only an idiot would do that.#fool#B2#/ˈɪdiət/#فقط یک احمق چنین کاری می‌کند.
+emerge#پدیدار شدن#The sun emerged from behind the clouds.#appear, come out#B2#/iˈmɜːrdʒ/#خورشید از پشت ابرها پدیدار شد.
+choice#انتخاب#You have a choice between two options.#option, selection#A2#/tʃɔɪs/#بین دو گزینه حق انتخاب داری.
+fail#شکست خوردن#I hope I don't fail the test.#be unsuccessful, flunk#A2#/feɪl/#امیدوارم در آزمون شکست نخورم.
+reply#پاسخ، پاسخ دادن#I am waiting for your reply.#answer, respond#A2#/rɪˈplaɪ/#من در انتظار پاسخ تو هستم.
+category#دسته‌بندی#The books are sorted by category.#Class#B1#/ˈkæt.ə.ɡər.i/#کتاب‌ها بر اساس دسته‌بندی مرتب شده‌اند.
+expect#انتظار داشتن#We expect rain tomorrow.#anticipate, await#A2#/ɪkˈspekt/#ما فردا انتظار باران داریم.
+disadvantage#نقص#The plan’s disadvantage is its cost.#Drawback#B1#/ˌdɪs.ədˈvæn.tɪdʒ/#اشکال برنامه هزینه آن است.
+pattern#الگو، طرح#The fabric has a floral pattern.#design, model#A2#/ˈpætərn/#پارچه طرح گلی دارد.
+develop#توسعه دادن، رشد کردن#The child is developing normally.#grow, evolve#A2#/dɪˈveləp/#کودک به طور طبیعی در حال رشد است.
+seem#به نظر رسیدن#He seems tired after his long journey.#appear, look#A2#/siːm/#او بعد از سفر طولانی‌اش خسته به نظر می‌رسد.
+fear#ترس، ترسیدن#He has a fear of heights.#phobia, dread#A2#/fɪə/#او از ارتفاع ترس دارد.
+perhaps#شاید#Perhaps we can go for a walk later.#maybe#A2#pərˈhæps#شاید بعداً بتوانیم به پیاده‌روی برویم.
+surprising#شگفت‌انگیز#The result was surprising to everyone.#astonishing#B1#sərˈpraɪzɪŋ#نتیجه برای همه شگفت‌انگیز بود.
+tweet#توییت#She shared a tweet about the event.#Post#B1#/twiːt/#او در مورد رویداد توییت کرد.
+declare#اعلام کردن#They declared their love.#announce, state#B2#/dɪˈkler/#آنها عشق خود را اعلام کردند.
+possibility#امکان#There is a possibility of rain.#chance, likelihood#B1#/ˌpɑːsəˈbɪləti/#احتمال باران وجود دارد.
+rejection#رد، پس‌زدن#His job application got a rejection.#refusal, denial#B1#/rɪˈdʒekʃən/#درخواست کار او رد شد.
+telling#تأثیرگذار و مهم#It was a telling sign that she was unhappy.#significant#C1#ˈtɛlɪŋ#این یک نشانه مهم بود که او ناراحت است.
+alongside#در کنار#We worked alongside experts.#next to, together with#B2#/əˌlɔːŋˈsaɪd/#ما در کنار متخصصان کار کردیم.
+solution#راه حل#We need to find a solution to this problem.#answer#A2#/səˈluːʃn/#ما نیاز داریم یک راه حل برای این مشکل پیدا کنیم.
+intriguingly#به طرز فریبنده‌ای/عجیب#Intriguingly, the two stories have a lot in common.#fascinatingly#C2#ɪnˈtriːɡɪŋli#به طرز عجیبی، این دو داستان شباهت زیادی به هم دارند.
+sale#فروش#The sale of the house was finalized quickly.#selling#A2#/seɪl/#فروش خانه به سرعت نهایی شد.
+favorite#محبوب#Pizza is my favorite food.#beloved#A1#ˈfeɪvərɪt#پیتزا غذای مورد علاقه من است.
+tiny#بسیار کوچک#A tiny insect crawled on the leaf.#minute#A2#/ˈtaɪni/#یک حشره بسیار کوچک روی برگ خزید.
+count#شمردن، شمارش#Count to ten slowly.#calculate, tally#A2#/kaʊnt/#تا ده بشمار.
+massively#به شدت#The project was massively expensive.#hugely, enormously#B2#/ˈmæsɪvli/#پروژه به شدت گران بود.
+dozen#دوجین، دوازده تا#I bought a dozen eggs.#twelve#A2#/ˈdʌzn/#من یک دوجین تخم مرغ خریدم.
+graduate#فارغ التحصیل شدن#She will graduate from university next year.#-/#A2#ˈɡrædʒ.u.ət#او سال آینده از دانشگاه فارغ التحصیل خواهد شد.
+years#سال ها#I haven't seen you in years.#a long time#A1#jɪərz#سال هاست که شما را ندیده ام.
+adapt#سازگار شدن#She adapted quickly to the new environment.#Adjust#B1#/əˈdæpt/#او به سرعت با محیط جدید سازگار شد.
+freud#فروید#Freud is the father of psychoanalysis.#famous psychologist#C1#frɔɪd#فروید پدر روانکاوی است.
+guardian#نگهبان، سرپرست#Her uncle became her legal guardian.#protector, custodian#B2#/ˈɡɑːrdiən/#عمویش سرپرست قانونی او شد.
+scary#ترسناک#The scary movie kept me awake.#Frightening#A2#/ˈskeri/#فیلم ترسناک من را بیدار نگه داشت.
+weak#ضعیف#The patient is still very weak.#feeble, frail#A2#/wiːk/#بیمار هنوز خیلی ضعیف است.
+stupid#احمق، نادان#That was a stupid mistake.#foolish#A2#ˈstuːpɪd#این یک اشتباه احمقانه بود.
+degree#درجه، مدرک#What degree did you get?#extent, qualification#A2#/dɪˈɡriː/#چه مدرکی گرفتی؟
+dyslexic#نارساخوان#A dyslexic person may struggle with spelling.#with dyslexia#C1#dɪsˈlɛksɪk#یک فرد نارساخوان ممکن است در املا مشکل داشته باشد.
+currently#در حال حاضر#He's currently studying abroad.#Presently#B1#/ˈkʌrəntli/#او در حال حاضر در خارج تحصیل می‌کند.
+vice#رذیلت، عیب#Greed is considered a vice.#sin, fault#B2#/vaɪs/#طمع یک رذیلت محسوب می‌شود.
+speaker#سخنران#The speaker inspired the audience.#Presenter#A2#/ˈspiːkər/#سخنران حضار را تحت تأثیر قرار داد.
+excuse#بهانه، عذر#What's your excuse this time?#justification, pardon#A2#/ɪkˈskjuːs/#بهانه تو این بار چیست؟
+self#خود، ذات#She revealed her true self.#ego, identity#B2#/self/#او خود واقعی‌اش را آشکار کرد.
+upset#ناراحت، به هم ریختن#She was upset by the news.#distressed, disturbed#B1#/ʌpˈset/#او از خبر ناراحت شد.
+poem#شعر#She wrote a beautiful poem about love.#verse, rhyme#A2#/ˈpoʊəm/#او شعر زیبایی درباره عشق نوشت.
+poetry#شعر#She writes beautiful poetry.#poems, verse#B1#/ˈpoʊətri/#او شعر زیبا می نویسد.
+website#وب سایت#I found the information on their website.#site, web page#A2#/ˈwebsaɪt/#من اطلاعات را در وب سایت آنها پیدا کردم.
+verse#بیت، شعر#He recited a verse from the Quran.#poetry, stanza#B1#/vɜːs/#او یک آیه از قرآن تلاوت کرد.
+reconstruct#بازسازی کردن#Historians tried to reconstruct the events of that day.#rebuild, reassemble#B2#ˌriːkənˈstrʌkt#تاریخ دانان سعی کردند رویدادهای آن روز را بازسازی کنند.
+version#نسخه#Download the latest app version.#Edition#B1#/ˈvɜːrʒn/#آخرین نسخه برنامه را دانلود کن.
+least#کمترین، حداقل#That's the least of my worries.#smallest, minimum#A2#/liːst/#این کمترین نگرانی من است.
+aloud#با صدای بلند#Read the poem aloud.#out loud, audibly#B1#/əˈlaʊd/#شعر را با صدای بلند بخوان.
+vote#رای دادن#Citizens have the right to vote.#ballot, elect#B1#/voʊt/#شهروندان حق رای دادن دارند.
+biographical#زندگینامهای#The book provides biographical details.#N/A#C1#/ˌbaɪəˈɡræfɪkl/#کتاب جزئیات زندگی‌نامه‌ای ارائه می‌دهد.
+journalist#روزنامه‌نگار#The journalist wrote a report about the election.#reporter#B1#ˈdʒɜːrnəlɪst#روزنامه‌نگار گزارشی درباره انتخابات نوشت.
+produce#تولید کردن#This factory produces cars.#make, manufacture#B1#/prəˈduːs/#این کارخانه ماشین تولید می کند.
+several#چندین، چند تا#Several people attended the meeting.#a few, some#A2#/ˈsevrəl/#چندین نفر در جلسه شرکت کردند.
+variety#تنوع#The store offers a variety of products.#diversity, assortment#B1#/vəˈraɪəti/#فروشگاه انواع محصولات را ارائه می‌دهد.
+youth#جوانی، جوان#He traveled in his youth.#young people, adolescence#A2#/juːθ/#او در جوانی سفر کرد.
+length#طول#What is the length of the room?#distance, extent#A2#/leŋθ/#طول اتاق چقدر است؟
+trash#زباله#Please put all your trash in the bin.#آشغال#B1#træʃ#لطفاً تمام زباله‌های خود را در سطل زباله بریزید.
+iron#آهن، اتو کردن#Strike while the iron is hot.#metal, press#B1#/ˈaɪərn/#آهن را تا گرم است بکوب.
+discover#کشف کردن#Columbus discovered America.#find#A2#/dɪˈskʌvər/#کلمبوس آمریکا را کشف کرد.
+growing#در حال رشد#The company is a growing business with a bright future.#expanding, developing#A2#ˈɡrəʊɪŋ#این شرکت یک کسب و کار در حال رشد با آینده‌ای روشن است.
+environ#محاصره کردن#The castle was environed by a deep moat.#surround, encircle#C2#/ɪnˈvaɪrən/#قلعه توسط یک خندق عمیق محاصره شده بود.
+mental#ذهنی#He has good mental health.#psychological, intellectual#B1#/ˈmentl#او سلامت ذهنی خوبی دارد.
+waste#هدر دادن، زباله#Don't waste water.#squander, garbage#A2#/weɪst/#آب را هدر نده.
+billions#میلیاردها#There are billions of stars in the galaxy.#a very large number#B1#ˈbɪljənz#میلیاردها ستاره در کهکشان وجود دارد
+garbage#آشغال، زباله#Please put the garbage in the bin.#rubbish#A2#ˈɡɑːrbɪdʒ#لطفاً آشغال‌ها را در سطل زباله بگذارید.
+generate#تولید کردن#The dam generates electricity for the entire region.#produce, create#B2#/ˈdʒenəreɪt/#سد برق کل منطقه را تولید می کند.
+soundtrack#موسیقی متن#The movie soundtrack won an Oscar#score, film music#B1#ˈsaʊnd.træk#موسیقی متن فیلم یک اسکار برد
+compose#ترکیب کردن، آهنگسازی کردن#The team is composed of experts.#make up, create#B2#/kəmˈpoʊz/#تیم از متخصصان ترکیب شده است.
+greek#یونانی#She is studying Greek history.#Hellenic#B1#/ɡriːk/#او در حال مطالعه تاریخ یونان است.
+composer#آهنگساز#Beethoven was a famous composer.#musician#B1#kəmˈpoʊzə#بتهوون یک آهنگساز معروف بود.
+award#جایزه#She won an award for her research.#prize, accolade#A2#/əˈwɔːrd/#او برای تحقیقاتش جایزه گرفت.
+latest#جدیدترین#Have you seen the latest movie?#Newest#A2#/ˈleɪ.tɪst/#آیا آخرین فیلم را دیده‌ای؟
+urban#شهری#He lives in an urban area.#city, metropolitan#B1#ˈɜːrbən#او در یک منطقه شهری زندگی می‌کند.
+shed#سوله، آلونک#He keeps his tools in a small shed.#outbuilding, hut#A2#ʃed#او ابزارهای خود را در یک سوله کوچک نگه می‌دارد.
+crew#خدمه#The ship's crew was experienced.#team, staff#A2#/kruː/#خدمه کشتی باتجربه بودند.
+memoir#خاطرات#She wrote a memoir about her travels.#autobiography, diary#B2#/ˈmemwɑːr/#او یک کتاب خاطرات درباره سفرهایش نوشت.
+hare#خرگوش صحرایی#The hare ran across the field.#rabbit#B2#/her/#خرگوش در مزرعه دوید.
+struggle#تقلا کردن#They struggled to survive.#fight, strive#B1#/ˈstrʌɡl/#آن‌ها برای بقا تلاش کردند.
+mark#علامت، نشان#He left a mark on the wall with his muddy shoes.#stain#A2#mɑːrk#او با کفش های گلی خود علامتی روی دیوار گذاشت.
+surprise#سورپرایز، تعجب#The party was a complete surprise.#shock, amazement#A2#/səˈpraɪz/#مهمانی یک سورپرایز کامل بود.
+immediately#فوراً، بلافاصله#Leave immediately!#at once, right away#A2#/ɪˈmiːdiətli/#فوراً ترک کن!
+proposal#پیشنهاد#He submitted a proposal for the new project.#Suggestion#B2#/prəˈpəʊzəl/#او یک پیشنهاد برای پروژه جدید ارائه کرد.
+previous#قبلی#The previous owner of the house left a note.#former#A2#/ˈpriːviəs/#صاحب قبلی خانه یک یادداشت گذاشت.
+working#در حال کار#The machine is in perfect working order.#operational#B1#ˈwɜrkɪŋ#دستگاه در وضعیت کارکردی عالی قرار دارد.
+relate#مرتبط کردن#Can you relate this to your own experience?#connect, associate#B1#/rɪˈleɪt/#آیا می‌توانی این را به تجربه خودت ربط دهی؟
+environment#محیط زیست، محیط#We need to protect the environment.#surroundings#A2#/ɪnˈvaɪrənmənt/#ما باید از محیط زیست محافظت کنیم.
+research#تحقیق، پژوهش#He is doing research in biology.#investigation#A2#/ˈriːsɜːrtʃ/#او در حال انجام تحقیق در زمینه زیست شناسی است.
+already#قبلاً، از قبل#I have already seen that movie.#previously, before#A2#/ɔːlˈredi/#من قبلاً آن فیلم را دیده‌ام.
+expert#متخصص#She is an expert in marketing.#specialist#B2#ˈek.spɜːt#او یک متخصص در بازاریابی است.
+glossary#واژهنامه#The textbook includes a glossary of terms.#a list of terms with definitions#B2#/ˈɡlɒsəri/#کتاب درسی شامل یک واژهنامه از اصطلاحات است.
+rough#خشن، ناهموار#The road was rough.#uneven, coarse#A2#/rʌf/#جاده خشن بود.
+conservationist#طرفدار محیط زیست#She is a well-known conservationist who works to protect endangered animals.#a person who advocates or acts for the protection and preservation of the environment#C1#ˌkɑːnsərˈveɪʃənɪst#او یک طرفدار محیط زیست شناخته شده است که برای حفاظت از حیوانات در حال انقراض تلاش می کند.
+visually#بصری#The film is visually stunning.#Graphically#B2#/ˈvɪʒuəli/#فیلم از نظر بصری خیره‌کننده است.
+attractive#جذاب، دلپذیر#She is an attractive woman.#appealing#A2#/əˈtræktɪv/#او یک زن جذاب است.
+depress#افسرده کردن#The bad news depressed him for the rest of the day.#sadden, discourage#B2#dɪˈpres#خبر بد او را برای بقیه روز افسرده کرد.
+pollution#آلودگی#Air pollution is a major problem in many large cities.#contamination#B1#pəˈluːʃn#آلودگی هوا مشکل بزرگی در بسیاری از شهرهای بزرگ است.
+photography#عکاسی#She studied photography in college.#Photo art#B1#/fəˈtɑːɡrəfi/#او عکاسی را در کالج مطالعه کرد.
+preferred#ترجیحی، ارجح#Her preferred method of communication is email.#favourite, chosen#B1# /prɪˈfɜːd/#روش ارتباطی ارجح او ایمیل است.
+aware#آگاه، مطلع#Are you aware of the problem?#conscious, informed#B1#/əˈweə/#آیا از مشکل آگاهی؟
+fragment#تکه؛ قطعه#The vase fell and broke into fragments.#piece#B2#/ˈfræɡmənt/#گلدان افتاد و به تکه هایی شکست.
+zooplankton#جانوران ریز#Zooplankton are tiny animals that float in the sea.#tiny marine animals#C2#ˌzoʊəˈplæŋktən#جانوران ریز حیوانات کوچکی هستند که در دریا شناورند
+director#کارگردان#The film director won an award.#Manager#B1#/daɪˈrek.tər/#کارگردان فیلم یک جایزه برد.
+port#بندر، درگاه#The ship arrived at the port.#harbor, dock#B1#/pɔːrt/#کشتی به بندر رسید.
+largest#بزرگترین#It is the largest city in the country.#biggest, greatest#A2#/ˈlɑːrdʒɪst/#این بزرگترین شهر در کشور است.
+microscopic#میکروسکوپی#The creature is microscopic.#tiny#C1#/ˌmaɪkrəˈskɑːpɪk/#این موجود میکروسکوپی است.
+blame#سرزنش#Don’t blame others for your mistakes.#Accuse#B1#/bleɪm/#دیگران را برای اشتباهات خود سرزنش نکن.
+san#سان (مخفف یا بخشی از اسم)#San Francisco is a beautiful city.#- #- #/sæn/#سان فرانسیسکو یک شهر زیبا است.
+habit#عادت#Smoking is a bad habit.#custom, routine#A2#/ˈhæbɪt/#سیگار کشیدن یک عادت بد است.
+container#ظرف#Store leftovers in a container.#Box#A2#/kənˈteɪnər/#مانده غذا را در ظرف نگه دار.
+personally#شخصاً#I'll handle it personally.#individually, directly#B1#/ˈpɜːsənəli/#من شخصاً آن را مدیریت خواهم کرد.
+pessimistic#بدبین#She's pessimistic about her chances of getting the job.#negative, cynical#B2#/ˌpesəˈmɪstɪk/#او نسبت به شانس خود برای به دست آوردن شغل بدبین است.
+adverb#قید#In 'she ran quickly', 'quickly' is an adverb.#N/A#A2#/ˈædvɜːrb/#در جمله "she ran quickly"، کلمه "quickly" یک قید است.
+unfortunately#متأسفانه#Unfortunately, the event was canceled.#sadly, regrettably#A2#/ʌnˈfɔːrtʃənətli/#متأسفانه، رویداد لغو شد.
+clarify#روشن کردن#Let me clarify my point.#explain, elucidate#B1#/ˈklærɪfaɪ/#بگذارید نکته‌ام را روشن کنم.
+universal#جهانی، همگانی#It's a universal truth.#global#B2#ˌjuːnɪˈvɜːrsl#این یک حقیقت جهانی است.
+community#جامعه#The local community is very supportive.#society, group#A2#/kəˈmjuːnəti/#جامعه محلی بسیار حمایت‌گر است.
+treatment#درمان#The patient responded well to the treatment.#Therapy#B1#/ˈtriːtmənt/#بیمار به درمان واکنش خوبی نشان داد.
+loved#عزیز، محبوب#He was a much loved teacher.#محبوب#A2#lʌvd#او یک معلم بسیار محبوب بود
+shocked#متعجب، شوکه#I was shocked by the news.#stunned, amazed#B2#ʃɑːkt#من از این خبر شوکه شدم.
+involved#درگیر#He got involved in a discussion about politics.#participating#B1#ɪnˈvɑːlvd#او درگیر بحثی در مورد سیاست شد.
+repeatable#تکرارپذیر#The results of the test were repeatable.#reproducible#B2#rɪˈpiːtəbl#نتایج آزمایش تکرارپذیر بودند.
+degrade#تحقیر کردن، تنزل دادن#He felt degraded by the comments.#humiliate, demean#B2#/dɪˈɡreɪd/#او از نظرات تحقیرآمیز احساس حقارت کرد.
+fragmented#تکه‌تکه شده#The fragmented pieces of the vase were on the floor.#broken up, divided#C1#ˈfræɡmənətd#تکه‌های شکسته گلدان روی زمین بودند.
+conclusion#نتیجه گیری#What is your conclusion?#end, inference#B1#/kənˈkluːʒn/#نتیجه گیری تو چیست؟
+consumer#مصرف کننده#The company's goal is to satisfy the needs of the consumer.#a person who purchases goods and services for personal use#B2#kənˈsuːmər#هدف شرکت ارضای نیازهای مصرف کننده است.
+accept#پذیرفتن#Please accept my apology.#receive, agree to#A2#/əkˈsept/#لطفاً عذرخواهی مرا بپذیر.
+suggest#پیشنهاد دادن#I suggest we go to the cinema.#propose, recommend#A2#/səˈdʒest/#پیشنهاد می کنم به سینما برویم.
+respond#پاسخ دادن#Please respond to my message.#Reply#B1#/rɪˈspɑːnd/#لطفاً به پیام من پاسخ دهید.
+deepest#عمیق‌ترین#This is the deepest part of the ocean#most profound, bottommost#A2#ˈdiː.pɪst#این عمیق‌ترین بخش اقیانوس است
+planet#سیاره#Earth is a planet in our solar system.#n/a#A2#/ˈplænɪt/#زمین یک سیاره در منظومه شمسی ما است.
+wow#واو (شگفتی)#Wow, that's amazing!#amazing#A2#waʊ#واو، این فوق العاده است!
+function#عملکرد#The function of the heart is to pump blood.#purpose#A2#/ˈfʌŋkʃn/#عملکرد قلب پمپاژ خون است.
+everyday#روزمره#These are for everyday use.#commonplace#A2#/ˈevrideɪ/#اینها برای استفاده روزمره هستند.
+recycle#بازیافت کردن#We recycle glass, plastic, and paper at home.#reuse#B1#ˌriːˈsaɪ.kl#ما شیشه، پلاستیک و کاغذ را در خانه بازیافت می‌کنیم.
+progress#پیشرفت#We are making good progress on the project.#advancement#B1#/ˈprəʊɡres/#ما در حال پیشرفت خوبی در پروژه هستیم.
+escape#فرار کردن#The prisoner tried to escape.#flee, get away#B1#/ɪˈskeɪp/#زندانی سعی کرد فرار کند.
+suburb#حومه#They live in a quiet suburb.#Outskirts#B1#/ˈsʌbɜːrb/#آنها در یک حومه آرام زندگی می‌کنند.
+helmet#کلاه ایمنی#Always wear a helmet when biking.#Headgear#A2#/ˈhelmɪt/#همیشه هنگام دوچرخه‌سواری کلاه ایمنی بزن.
+imaginary#تخیلی#The story has an imaginary character.#fictional#B1#/ɪˈmædʒɪneri/#داستان یک شخصیت تخیلی دارد.
+consequence#پیامد#His actions had serious consequences.#Result#B1#/ˈkɒn.sɪ.kwəns/#اقدامات او عواقب جدی داشت.
+clause#بند، جمله واره#The contract has a clause about termination.#provision#B2#klɔːz#قرارداد یک بند در مورد فسخ دارد.
+continuous#ممتد، پیوسته#The continuous rain for two days caused flooding.#forming an unbroken whole; without interruption#B2#kənˈtɪnjuəs#باران ممتد به مدت دو روز باعث سیل شد.
+participle#اسم مفعول#The word 'broken' is a past participle.#verb form#C1#ˈpɑːrtəsɪpəl#کلمه 'broken' یک اسم مفعول گذشته است.
+sooner#زودتر#The sooner we leave, the better.#زودتر#A2#ˈsuːnər#هرچه زودتر برویم، بهتر است.
+path#مسیر#Follow the path through the woods.#trail, route#A2#/pæθ/#از مسیری که از میان جنگل می‌گذرد، برو.
+earlier#زودتر#I woke up earlier than usual.#sooner#B1#ˈɜːrliər#من زودتر از معمول از خواب بیدار شدم.
+championship#قهرمانی#The team won the championship.#Title#B1#/ˈtʃæmpiənʃɪp/#تیم قهرمانی را برد.
+abroad#در خارج#He lives abroad.#overseas, in a foreign country#A2#/əˈbrɔːd/#او در خارج از کشور زندگی می‌کند.
+discount#تخفیف#Students get a discount on movie tickets.#reduction, deduction#A2#/ˈdɪs.kaʊnt/#دانشجویان روی بلیط سینما تخفیف می گیرند.
+contract#قرارداد، منقبض شدن#Sign the contract here.#agreement, shrink#B1#/ˈkɑːntrækt/#قرارداد را اینجا امضا کن.
+pass#گذرگاه#The mountain pass was narrow.#path#A2#/pæs/#گذرگاه کوه باریک بود.
+mixed#مخلوط#We had a mixed group of people from different backgrounds.#blended#B1#/mɪkst/#ما یک گروه مخلوط از افراد با پیشینه‌های متفاوت داشتیم.
+ham#ژامبون#He made a ham sandwich for lunch.#bacon#A2#/hæm/#او برای ناهار ساندویچ ژامبون درست کرد.
+reach#رسیدن، دسترسی#Can you reach the top shelf?#arrive at, access#A2#/riːtʃ/#می‌توانی به قفسه بالا برسی؟
+badly#بد، شدیدا#He was badly injured.#severely#A2#/ˈbædli/#او به شدت مجروح شد.
+harder#سخت‌تر#He had to work harder to pass the exam.#more difficult, more challenging#A2#ˈhɑːrdər#او مجبور بود سخت‌تر کار کند تا در امتحان قبول شود.
+promote#ترویج دادن#The company aims to promote healthy eating habits.#Encourage#B2#/prəˈməʊt/#شرکت قصد دارد عادات غذایی سالم را ترویج دهد.
+freezing#یخبندان، بسیار سرد#It was a freezing cold day.#extremely cold, icy#A2#ˈfriːzɪŋ#یک روز بسیار سرد و یخبندان بود.
+almost#تقریباً#Dinner is almost ready.#nearly, practically#A2#/ˈɔːlməʊst/#شام تقریباً آماده است.
+sidewalk#پیاده‌رو#Walk on the sidewalk for safety.#Pavement#A2#/ˈsaɪdwɔːk/#برای ایمنی روی پیاده‌رو راه برو.
+dead#مرده#The plant is dead.#deceased, lifeless#A2#/ded/#گیاه مرده است.
+climate#آب و هوا#The climate in this region is very dry.#weather#A2#ˈklaɪmət#آب و هوا در این منطقه بسیار خشک است.
+salespeople#فروشندگان#The salespeople were very helpful.#Sales staff#B1#/ˈseɪlzpiːpəl/#فروشندگان بسیار کمک‌کننده بودند.
+polite#مؤدب#Be polite to your elders.#courteous, well-mannered#A2#/pəˈlaɪt/#با بزرگ‌ترها مودب باش.
+heat#گرما، حرارت#The heat from the fire warmed the room.#warmth#A2#hiːt#گرمای آتش اتاق را گرم کرد.
+certain#مطمئن، قطعی#I am certain about my decision.#sure, definite#A2#/ˈsɜːtn/#من از تصمیمم مطمئنم.
+rewrite#بازنویسی کردن#The author had to rewrite the first chapter.#revise#B1#/ˌriːˈraɪt/#نویسنده مجبور شد فصل اول را بازنویسی کند.
+seeing#با توجه به اینکه#Seeing that you're here, we can start.#given that#B2#ˈsiːɪŋ#با توجه به اینکه شما اینجا هستید، می‌توانیم شروع کنیم.
+moving#تأثیرگذار#The movie was incredibly moving and made me cry.#touching, emotional#B1#ˈmuːvɪŋ#فیلم به طور باورنکردنی تأثیرگذار بود و مرا به گریه انداخت.
+law#قانون#Everyone must obey the law.#rule, regulation#A2#/lɔː/#همه باید از قانون اطاعت کنند.
+wedding#عروسی#The wedding was held in a garden.#Marriage#A2#/ˈwed.ɪŋ/#عروسی در یک باغ برگزار شد.
+homesick#دلتنگ خانه#She felt homesick abroad.#Nostalgic#B1#/ˈhəʊmsɪk/#او در خارج از کشور دلتنگ خانه بود.
+lonely#تنها، تنها#She felt lonely in the big city.#isolated, solitary#A2#/ˈləʊnli/#او در شهر بزرگ احساس تنهایی کرد.
+proud#مغرور#He is proud of his son's achievements.#arrogant, pleased#A2#/praʊd/#او به دستاوردهای پسرش افتخار می‌کند.
+grateful#سپاسگزار#I am grateful for your help.#thankful, appreciative#B1#/ˈɡreɪtfl/#من برای کمک تو سپاسگزارم.
+relieve#تسکین دادن#The medicine helped relieve her pain.#Alleviate#B2#/rɪˈliːv/#دارو به تسکین درد او کمک کرد.
+beloved#محبوب#He wrote a poem for his beloved wife.#Dear#B2#/bɪˈlʌvɪd/#او برای همسر محبوبش شعر نوشت.
+disappear#ناپدید شدن#The sun disappeared behind a cloud.#vanish, go away#A2#/ˌdɪsəˈpɪr/#خورشید پشت ابر غروب کرد.
+stud#گل میخ#The jacket had silver studs.#rivet#B2#/stʌd/#کت گل میخ های نقره ای داشت.
+definition#تعریف؛ معنی#What is the definition of this word?#meaning#A2#/ˌdefɪˈnɪʃn/#تعریف این کلمه چیست؟
+overwhelmed#مغلوب شده#She felt overwhelmed by the amount of work she had to do.#swamped, buried#B2#ˌoʊvərˈwelmd#او از حجم کاری که باید انجام می‌داد، احساس مغلوب شدن کرد.
+stunned#مبهوت#She was stunned by the news.#astounded#B2#stʌnd#او از شنیدن خبر مبهوت شد.
+unable#ناتوان#He was unable to lift the box.#Incapable#B1#/ʌnˈeɪ.bəl/#او نتوانست جعبه را بلند کند.
+react#واکنش نشان دادن#How did he react to the news?#respond, answer#A2#/riˈækt/#او چگونه به این خبر واکنش نشان داد؟
+emotion#احساس#She showed no emotion.#feeling, passion#B1#/ɪˈmoʊʃn/#او هیچ احساسی نشان نداد.
+confused#سردرگم#I'm confused about the instructions.#گیج#B1#kənˈfjuːzd#من در مورد دستورالعمل‌ها سردرگم هستم.
+disgust#نفرت#The dirty kitchen filled her with disgust.#Repulsion#B2#/dɪsˈɡʌst/#آشپزخانه کثیف او را منزجر کرد.
+activation#فعال سازی#The activation of the new software took only a few minutes.#the process of making something start working#B2#/ˌæktɪˈveɪʃən/#فعال سازی نرم‌افزار جدید فقط چند دقیقه طول کشید.
+informal#غیررسمی#The dress code for the party is informal.#casual, relaxed#A2#/ɪnˈfɔːrməl/#کد لباس مهمانی غیررسمی است.
+slang#عامیانه#Learn some local slang words.#Colloquialism#B1#/slæŋ/#چند اصطلاح محلی یاد بگیر.
+expression#عبارت، بیان#His facial expression showed surprise.#phrase, look#A2#/ɪkˈspreʃn/#بیان چهره‌اش تعجب نشان می‌داد.
+figure#شکل، رقم#He saw a figure in the dark.#shape, number#B1#/ˈfɪɡjər/#او یک شکل در تاریکی دید.
+stiff#سفت#My muscles are stiff.#rigid, inflexible#B1#/stɪf/#عضلاتم سفت هستند.
+opening#گشایش، افتتاحیه#The opening of the new shop is next week.#beginning, inauguration#A2#ˈoʊpənɪŋ#افتتاحیه مغازه جدید هفته آینده است.
+joy#شادی، خوشحالی#Tears of joy ran down her face.#happiness, delight#B1#/dʒɔɪ/#اشک های شادی روی صورتش جاری شد.
+irritate#عصبانی کردن#The noise irritated the neighbors.#Annoy#B1#/ˈɪr.ɪ.teɪt/#سر و صدا همسایه‌ها را عصبانی کرد.
+astonish#شگفت زده کردن#The news astonished everyone.#amaze, surprise#B2#/əˈstɑːnɪʃ/#خبر همه را شگفت‌زده کرد.
